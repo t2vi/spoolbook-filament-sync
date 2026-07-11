@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Spoolbook.FilamentSync.Tests/Spoolbook.FilamentSync.Tests.csproj" />
+  <Project Path="Spoolbook.FilamentSync/Spoolbook.FilamentSync.csproj" />
+</Solution>
