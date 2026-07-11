@@ -11,6 +11,16 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    # Stealth-Chromium sidecar for stores that block plain HttpClient requests (see
+    # docs/adr/0012's "reversing abandon if blocked" addendum) — same image as t2vi/arrgh's
+    # docker-compose cloakbrowser service.
+    services:
+      cloakbrowser:
+        image: ghcr.io/t2vi/cloakbrowser-server:latest
+        ports:
+          - 3000:3000
+        env:
+          CDP_PORT: "3000"
     steps:
       - uses: actions/checkout@v4
 
@@ -22,6 +32,8 @@ jobs:
         run: dotnet test Spoolbook.FilamentSync.Tests/Spoolbook.FilamentSync.Tests.csproj
 
       - name: Scrape all brands
+        env:
+          CLOAKBROWSER_WS_URL: http://localhost:3000
         run: |
           mkdir -p data
           dotnet run --project Spoolbook.FilamentSync -- data/filament-catalog.json all

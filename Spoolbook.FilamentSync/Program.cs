@@ -3,7 +3,7 @@ using Spoolbook.FilamentSync;
 
 if (args.Length < 2)
 {
-    Console.Error.WriteLine("Usage: Spoolbook.FilamentSync <output-json-path> <all|bambu|esun|elegoo|sunlu|polymaker|prusament|overture|creality|colorfabb|fillamentum|protopasta>");
+    Console.Error.WriteLine("Usage: Spoolbook.FilamentSync <output-json-path> <all|bambu|esun|elegoo|sunlu|polymaker|prusament|overture|creality|colorfabb|fillamentum|protopasta|hatchbox>");
     return 1;
 }
 
@@ -24,12 +24,13 @@ var entries = source switch
     "colorfabb" => await SyncColorfabbAsync(),
     "fillamentum" => await SyncFillamentumAsync(),
     "protopasta" => await SyncProtopastaAsync(),
+    "hatchbox" => await SyncHatchboxStandaloneAsync(),
     _ => null
 };
 
 if (entries is null)
 {
-    Console.Error.WriteLine($"Unknown source '{source}'. Expected 'all', 'bambu', 'esun', 'elegoo', 'sunlu', 'polymaker', 'prusament', 'overture', 'creality', 'colorfabb', 'fillamentum', or 'protopasta'.");
+    Console.Error.WriteLine($"Unknown source '{source}'. Expected 'all', 'bambu', 'esun', 'elegoo', 'sunlu', 'polymaker', 'prusament', 'overture', 'creality', 'colorfabb', 'fillamentum', 'protopasta', or 'hatchbox'.");
     return 1;
 }
 
@@ -56,7 +57,37 @@ async Task<List<FilamentSyncEntry>> SyncAllAsync()
     all.AddRange(await SyncColorfabbAsync());
     all.AddRange(await SyncFillamentumAsync());
     all.AddRange(await SyncProtopastaAsync());
+
+    await using (var cloak = new CloakBrowserClient())
+        all.AddRange(await SyncHatchboxAsync(cloak));
+
     return all;
+}
+
+async Task<List<FilamentSyncEntry>> SyncHatchboxStandaloneAsync()
+{
+    await using var cloak = new CloakBrowserClient();
+    return await SyncHatchboxAsync(cloak);
+}
+
+async Task<List<FilamentSyncEntry>> SyncHatchboxAsync(CloakBrowserClient cloak)
+{
+    var client = new HatchboxStoreClient();
+
+    Console.WriteLine("Fetching Hatchbox filament collection via CloakBrowser (paginated)...");
+    var titles = await client.FetchAllProductTitlesAsync(cloak);
+    var realTitles = HatchboxStoreParser.FilterRealProducts(titles);
+    Console.WriteLine($"Found {realTitles.Count} products.");
+
+    var result = new List<FilamentSyncEntry>();
+
+    foreach (var title in realTitles)
+    {
+        var (material, variant, color) = HatchboxStoreParser.ParseProductTitle(title);
+        result.Add(new FilamentSyncEntry("Hatchbox", material, variant, color));
+    }
+
+    return result;
 }
 
 async Task<List<FilamentSyncEntry>> SyncBambuAsync()
