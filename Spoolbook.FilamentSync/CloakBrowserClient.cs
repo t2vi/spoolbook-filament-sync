@@ -49,7 +49,7 @@ public partial class CloakBrowserClient : IAsyncDisposable
         return _browser;
     }
 
-    public async Task<string> FetchPageHtmlAsync(string url, string waitUntil = "domcontentloaded", int timeoutMs = 60_000)
+    public async Task<string> FetchPageHtmlAsync(string url, int timeoutMs = 60_000)
     {
         var browser = await GetBrowserAsync();
         var context = await browser.NewContextAsync();
@@ -58,7 +58,7 @@ public partial class CloakBrowserClient : IAsyncDisposable
             var page = await context.NewPageAsync();
             await page.GotoAsync(url, new PageGotoOptions
             {
-                WaitUntil = Enum.Parse<WaitUntilState>(waitUntil, ignoreCase: true),
+                WaitUntil = WaitUntilState.DOMContentLoaded,
                 Timeout = timeoutMs
             });
             return await page.ContentAsync();
