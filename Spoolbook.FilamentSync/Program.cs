@@ -25,12 +25,13 @@ var entries = source switch
     "fillamentum" => await SyncFillamentumAsync(),
     "protopasta" => await SyncProtopastaAsync(),
     "hatchbox" => await SyncHatchboxStandaloneAsync(),
+    "slic3d" => await SyncSlic3DStandaloneAsync(),
     _ => null
 };
 
 if (entries is null)
 {
-    Console.Error.WriteLine($"Unknown source '{source}'. Expected 'all', 'bambu', 'esun', 'elegoo', 'sunlu', 'polymaker', 'prusament', 'overture', 'creality', 'colorfabb', 'fillamentum', 'protopasta', or 'hatchbox'.");
+    Console.Error.WriteLine($"Unknown source '{source}'. Expected 'all', 'bambu', 'esun', 'elegoo', 'sunlu', 'polymaker', 'prusament', 'overture', 'creality', 'colorfabb', 'fillamentum', 'protopasta', 'hatchbox', or 'slic3d'.");
     return 1;
 }
 
@@ -59,7 +60,10 @@ async Task<List<FilamentSyncEntry>> SyncAllAsync()
     all.AddRange(await SyncProtopastaAsync());
 
     await using (var cloak = new CloakBrowserClient())
+    {
         all.AddRange(await SyncHatchboxAsync(cloak));
+        all.AddRange(await SyncSlic3DAsync(cloak));
+    }
 
     return all;
 }
@@ -85,6 +89,31 @@ async Task<List<FilamentSyncEntry>> SyncHatchboxAsync(CloakBrowserClient cloak)
     {
         var (material, variant, color) = HatchboxStoreParser.ParseProductTitle(title);
         result.Add(new FilamentSyncEntry("Hatchbox", material, variant, color));
+    }
+
+    return result;
+}
+
+async Task<List<FilamentSyncEntry>> SyncSlic3DStandaloneAsync()
+{
+    await using var cloak = new CloakBrowserClient();
+    return await SyncSlic3DAsync(cloak);
+}
+
+async Task<List<FilamentSyncEntry>> SyncSlic3DAsync(CloakBrowserClient cloak)
+{
+    var client = new Slic3DStoreClient();
+
+    Console.WriteLine("Fetching Slic3D filament listing (jaycar.com.au) via CloakBrowser...");
+    var titles = await client.FetchAllProductTitlesAsync(cloak);
+    Console.WriteLine($"Found {titles.Count} products.");
+
+    var result = new List<FilamentSyncEntry>();
+
+    foreach (var title in titles)
+    {
+        var (material, variant, color) = Slic3DStoreParser.ParseProductTitle(title);
+        result.Add(new FilamentSyncEntry("Slic3D", material, variant, color));
     }
 
     return result;
