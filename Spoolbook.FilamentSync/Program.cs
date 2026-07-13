@@ -40,6 +40,12 @@ if (entries is null)
 // growing per-site blocklist of bundle slugs.
 var deduped = entries.DistinctBy(e => (e.Brand, e.Material, e.Variant, e.Color)).ToList();
 
+// Resolve once per unique color name rather than per entry — the same name repeats across
+// many brands/materials/variants.
+var hexByColor = deduped.Select(e => e.Color).Distinct()
+    .ToDictionary(c => c, ColorHexResolver.Resolve);
+deduped = deduped.Select(e => e with { Hex = hexByColor[e.Color] }).ToList();
+
 await File.WriteAllTextAsync(outputPath, JsonSerializer.Serialize(deduped, new JsonSerializerOptions { WriteIndented = true }));
 Console.WriteLine($"Wrote {deduped.Count} entries to {outputPath}");
 return 0;
