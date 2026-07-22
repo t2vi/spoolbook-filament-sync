@@ -11784,6 +11784,13 @@
     "Brand": "Prusament",
     "Material": "PC",
     "Variant": "Blend",
+    "Color": "Jet Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PC",
+    "Variant": "Blend",
     "Color": "Light Grey",
     "Hex": "#D3D3D3"
   },
@@ -12338,13 +12345,6 @@
     "Material": "PETG",
     "Variant": null,
     "Color": "Galaxy Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PC",
-    "Variant": "Blend",
-    "Color": "Jet Black",
     "Hex": "#000000"
   },
   {
