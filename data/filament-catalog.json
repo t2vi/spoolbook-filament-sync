@@ -1136,34 +1136,6 @@
   {
     "Brand": "Bambu Lab",
     "Material": "PLA",
-    "Variant": "Galaxy",
-    "Color": "Purple",
-    "Hex": "#800080"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Galaxy",
-    "Color": "Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Galaxy",
-    "Color": "Nebulae",
-    "Hex": null
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Galaxy",
-    "Color": "Brown",
-    "Hex": "#A52A2A"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
     "Variant": "Wood",
     "Color": "Black Walnut",
     "Hex": "#773F1A"
@@ -6210,35 +6182,56 @@
   },
   {
     "Brand": "SUNLU",
-    "Material": "ABS",
+    "Material": "ABS 3D Printer Filament 1KG",
+    "Variant": null,
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "ABS 3D Printer Filament 1KG",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "ABS 3D Printer Filament 1KG",
+    "Variant": null,
+    "Color": "Sunny Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "ABS 3D Printer Filament 1KG",
     "Variant": null,
     "Color": "Black",
     "Hex": "#000000"
   },
   {
     "Brand": "SUNLU",
-    "Material": "ABS",
+    "Material": "ABS 3D Printer Filament 1KG",
     "Variant": null,
     "Color": "White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "SUNLU",
-    "Material": "ABS",
+    "Material": "ABS 3D Printer Filament 1KG",
     "Variant": null,
     "Color": "Grey",
     "Hex": "#808080"
   },
   {
     "Brand": "SUNLU",
-    "Material": "ABS",
+    "Material": "ABS 3D Printer Filament 1KG",
     "Variant": null,
     "Color": "Red",
     "Hex": "#FF0000"
   },
   {
     "Brand": "SUNLU",
-    "Material": "ABS",
+    "Material": "ABS 3D Printer Filament 1KG",
     "Variant": null,
     "Color": "Blue",
     "Hex": "#0000FF"
@@ -6690,27 +6683,6 @@
     "Variant": null,
     "Color": "Natural",
     "Hex": "#F5F0E1"
-  },
-  {
-    "Brand": "SUNLU",
-    "Material": "ABS",
-    "Variant": null,
-    "Color": "Yellow",
-    "Hex": "#FFFF00"
-  },
-  {
-    "Brand": "SUNLU",
-    "Material": "ABS",
-    "Variant": null,
-    "Color": "Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "SUNLU",
-    "Material": "ABS",
-    "Variant": null,
-    "Color": "Sunny Orange",
-    "Hex": "#FFA500"
   },
   {
     "Brand": "SUNLU",
@@ -10837,6 +10809,132 @@
   },
   {
     "Brand": "Polymaker",
+    "Material": "HT-PLA",
+    "Variant": "Polymaker Pro",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "HT-PLA",
+    "Variant": "Polymaker Pro",
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "HT-PLA",
+    "Variant": "Polymaker Pro",
+    "Color": "Grey",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "HT-PLA",
+    "Variant": "Polymaker Pro",
+    "Color": "Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "HT-PLA",
+    "Variant": "Polymaker Pro",
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "HT-PLA",
+    "Variant": "Polymaker Pro",
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "HT-PLA",
+    "Variant": "Polymaker Pro",
+    "Color": "Polymaker Teal",
+    "Hex": "#008080"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "HT-PLA",
+    "Variant": "Polymaker Pro",
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "HT-PLA",
+    "Variant": "Polymaker Pro",
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "HT-PLA",
+    "Variant": "Polymaker Pro",
+    "Color": "Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "HT-PLA",
+    "Variant": "Polymaker Pro",
+    "Color": "Dark Grey",
+    "Hex": "#A9A9A9"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "HT-PLA",
+    "Variant": "Polymaker Pro",
+    "Color": "Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "HT-PLA",
+    "Variant": "Polymaker Pro",
+    "Color": "Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "HT-PLA",
+    "Variant": "Polymaker Pro",
+    "Color": "Magenta",
+    "Hex": "#FF00FF"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "HT-PLA",
+    "Variant": "Polymaker Pro",
+    "Color": "Burnt Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "HT-PLA",
+    "Variant": "Polymaker Pro",
+    "Color": "Army Beige",
+    "Hex": "#F5F5DC"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "HT-PLA",
+    "Variant": "Polymaker Pro",
+    "Color": "Army Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "HT-PLA",
+    "Variant": "Polymaker Pro",
+    "Color": "3D Print General Flat Dark Earth",
+    "Hex": null
+  },
+  {
+    "Brand": "Polymaker",
     "Material": "HT-PLA-GF",
     "Variant": "Polymaker",
     "Color": "Black",
@@ -11637,7 +11735,7 @@
     "Brand": "Polymaker",
     "Material": "PA12",
     "Variant": "PolySupport",
-    "Color": "Grass Green",
+    "Color": "GRASS GREEN",
     "Hex": "#008000"
   },
   {
@@ -11784,13 +11882,6 @@
     "Brand": "Prusament",
     "Material": "PC",
     "Variant": "Blend",
-    "Color": "Jet Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PC",
-    "Variant": "Blend",
     "Color": "Light Grey",
     "Hex": "#D3D3D3"
   },
@@ -11919,13 +12010,6 @@
     "Variant": null,
     "Color": "Signal White",
     "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PC",
-    "Variant": "Blend",
-    "Color": "Prusa Orange",
-    "Hex": "#FFA500"
   },
   {
     "Brand": "Prusament",
@@ -12122,6 +12206,13 @@
     "Variant": null,
     "Color": "Sapphire Blue",
     "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PA11",
+    "Variant": null,
+    "Color": "Natural",
+    "Hex": "#F5F0E1"
   },
   {
     "Brand": "Prusament",
@@ -12351,8 +12442,22 @@
     "Brand": "Prusament",
     "Material": "PC",
     "Variant": "Blend",
+    "Color": "Jet Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PC",
+    "Variant": "Blend",
     "Color": "Natural",
     "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PC",
+    "Variant": "Blend",
+    "Color": "Prusa Orange",
+    "Hex": "#FFA500"
   },
   {
     "Brand": "Prusament",
@@ -20305,5 +20410,124 @@
     "Variant": "Carbon Fiber Composite",
     "Color": "The Original",
     "Hex": null
+  },
+  {
+    "Brand": "Slic3D",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Grey",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Slic3D",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Slic3D",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Slic3D",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Slic3D",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Slic3D",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Slic3D",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Slic3D",
+    "Material": "PLA",
+    "Variant": "Spool-Less",
+    "Color": "Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Slic3D",
+    "Material": "PLA",
+    "Variant": "Spool-Less",
+    "Color": "Grey",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Slic3D",
+    "Material": "PLA",
+    "Variant": "Spool-Less",
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Slic3D",
+    "Material": "PLA",
+    "Variant": "Spool-Less",
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Slic3D",
+    "Material": "PLA",
+    "Variant": "Spool-Less",
+    "Color": "Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Slic3D",
+    "Material": "PLA",
+    "Variant": "Spool-Less",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Slic3D",
+    "Material": "PLA",
+    "Variant": "Spool-Less",
+    "Color": "Apple Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Slic3D",
+    "Material": "PLA",
+    "Variant": "Spool-Less",
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Slic3D",
+    "Material": "PLA",
+    "Variant": "Spool-Less",
+    "Color": "Cocoa Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Slic3D",
+    "Material": "PLA",
+    "Variant": "Spool-Less",
+    "Color": "Beige",
+    "Hex": "#F5F5DC"
   }
 ]
