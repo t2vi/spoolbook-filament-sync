@@ -1136,6 +1136,34 @@
   {
     "Brand": "Bambu Lab",
     "Material": "PLA",
+    "Variant": "Galaxy",
+    "Color": "Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "PLA",
+    "Variant": "Galaxy",
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "PLA",
+    "Variant": "Galaxy",
+    "Color": "Nebulae",
+    "Hex": null
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "PLA",
+    "Variant": "Galaxy",
+    "Color": "Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "PLA",
     "Variant": "Wood",
     "Color": "Black Walnut",
     "Hex": "#773F1A"
@@ -11749,13 +11777,6 @@
     "Brand": "Prusament",
     "Material": "PETG",
     "Variant": null,
-    "Color": "Matte Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PETG",
-    "Variant": null,
     "Color": "Prusa Pro Green",
     "Hex": "#008000"
   },
@@ -11861,6 +11882,13 @@
     "Brand": "Prusament",
     "Material": "PETG",
     "Variant": null,
+    "Color": "Galaxy Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PETG",
+    "Variant": null,
     "Color": "Jet Black",
     "Hex": "#000000"
   },
@@ -11877,6 +11905,13 @@
     "Variant": null,
     "Color": "Ultraglow Green",
     "Hex": "#008000"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PC",
+    "Variant": "Blend",
+    "Color": "Jet Black",
+    "Hex": "#000000"
   },
   {
     "Brand": "Prusament",
@@ -12010,6 +12045,13 @@
     "Variant": null,
     "Color": "Signal White",
     "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PC",
+    "Variant": "Blend",
+    "Color": "Prusa Orange",
+    "Hex": "#FFA500"
   },
   {
     "Brand": "Prusament",
@@ -12435,14 +12477,7 @@
     "Brand": "Prusament",
     "Material": "PETG",
     "Variant": null,
-    "Color": "Galaxy Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PC",
-    "Variant": "Blend",
-    "Color": "Jet Black",
+    "Color": "Matte Black",
     "Hex": "#000000"
   },
   {
@@ -12451,13 +12486,6 @@
     "Variant": "Blend",
     "Color": "Natural",
     "Hex": "#F5F0E1"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PC",
-    "Variant": "Blend",
-    "Color": "Prusa Orange",
-    "Hex": "#FFA500"
   },
   {
     "Brand": "Prusament",
