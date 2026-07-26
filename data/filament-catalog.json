@@ -11777,6 +11777,13 @@
     "Brand": "Prusament",
     "Material": "PETG",
     "Variant": null,
+    "Color": "Matte Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PETG",
+    "Variant": null,
     "Color": "Prusa Pro Green",
     "Hex": "#008000"
   },
@@ -12258,13 +12265,6 @@
   },
   {
     "Brand": "Prusament",
-    "Material": "PC",
-    "Variant": "Blend",
-    "Color": "Carbon Fiber Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
     "Material": "PLA",
     "Variant": null,
     "Color": "Anthracite Grey",
@@ -12421,13 +12421,6 @@
     "Brand": "Prusament",
     "Material": "PVB",
     "Variant": null,
-    "Color": "Light Yellow",
-    "Hex": "#FFFFE0"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PVB",
-    "Variant": null,
     "Color": "Prusa Orange",
     "Hex": "#FFA500"
   },
@@ -12475,13 +12468,6 @@
   },
   {
     "Brand": "Prusament",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Matte Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
     "Material": "PC",
     "Variant": "Blend",
     "Color": "Natural",
@@ -12493,6 +12479,20 @@
     "Variant": null,
     "Color": "Recycled Black",
     "Hex": "#000000"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PC",
+    "Variant": "Blend",
+    "Color": "Carbon Fiber Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PVB",
+    "Variant": null,
+    "Color": "Light Yellow",
+    "Hex": "#FFFFE0"
   },
   {
     "Brand": "Overture",
@@ -20438,124 +20438,5 @@
     "Variant": "Carbon Fiber Composite",
     "Color": "The Original",
     "Hex": null
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Grey",
-    "Hex": "#808080"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Orange",
-    "Hex": "#FFA500"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Yellow",
-    "Hex": "#FFFF00"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Brown",
-    "Hex": "#A52A2A"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Pink",
-    "Hex": "#FFC0CB"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Grey",
-    "Hex": "#808080"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Yellow",
-    "Hex": "#FFFF00"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Red",
-    "Hex": "#FF0000"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Apple Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Cocoa Brown",
-    "Hex": "#A52A2A"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Beige",
-    "Hex": "#F5F5DC"
   }
 ]
