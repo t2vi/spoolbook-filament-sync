@@ -2,216 +2,6 @@
   {
     "Brand": "Bambu Lab",
     "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Jade White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Beige",
-    "Hex": "#F5F5DC"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Light Gray",
-    "Hex": "#D3D3D3"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Yellow",
-    "Hex": "#FFFF00"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Sunflower Yellow",
-    "Hex": "#FFFF00"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Pumpkin Orange",
-    "Hex": "#FFA500"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Orange",
-    "Hex": "#FFA500"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Gold",
-    "Hex": "#FFD700"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Bright Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Bambu Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Mistletoe Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Pink",
-    "Hex": "#FFC0CB"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Hot Pink",
-    "Hex": "#FF69B4"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Magenta",
-    "Hex": "#FF00FF"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Red",
-    "Hex": "#FF0000"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Maroon Red",
-    "Hex": "#FF0000"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Purple",
-    "Hex": "#800080"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Indigo Purple",
-    "Hex": "#800080"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Turquoise",
-    "Hex": "#40E0D0"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Cyan",
-    "Hex": "#00FFFF"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Cobalt Blue",
-    "Hex": "#0000FF"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Blue",
-    "Hex": "#0000FF"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Brown",
-    "Hex": "#A52A2A"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Cocoa Brown",
-    "Hex": "#A52A2A"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Bronze",
-    "Hex": "#CD7F32"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Gray",
-    "Hex": "#808080"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Silver",
-    "Hex": "#C0C0C0"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Blue Grey",
-    "Hex": "#808080"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Dark Gray",
-    "Hex": "#A9A9A9"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
-    "Variant": "Basic",
-    "Color": "Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PLA",
     "Variant": "Matte",
     "Color": "Matte Ivory White",
     "Hex": "#FFFFFF"
@@ -12057,6 +11847,13 @@
     "Brand": "Prusament",
     "Material": "PC",
     "Variant": "Blend",
+    "Color": "Natural",
+    "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PC",
+    "Variant": "Blend",
     "Color": "Prusa Orange",
     "Hex": "#FFA500"
   },
@@ -12465,13 +12262,6 @@
     "Variant": null,
     "Color": "Ultramarine Blue",
     "Hex": "#0000FF"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PC",
-    "Variant": "Blend",
-    "Color": "Natural",
-    "Hex": "#F5F0E1"
   },
   {
     "Brand": "Prusament",
@@ -19160,6 +18950,27 @@
   },
   {
     "Brand": "Protopasta",
+    "Material": "Lucky Lime Glitter Green",
+    "Variant": null,
+    "Color": "Lucky Lime Glitter Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Protopasta",
+    "Material": "Fleck \u0027n Fiesta Magenta",
+    "Variant": null,
+    "Color": "Fleck \u0027n Fiesta Magenta",
+    "Hex": "#FF00FF"
+  },
+  {
+    "Brand": "Protopasta",
+    "Material": "Bob\u0027s Blood Wine Red",
+    "Variant": null,
+    "Color": "Bob\u0027s Blood Wine Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Protopasta",
     "Material": "HTPLA",
     "Variant": "Quantum Dot",
     "Color": "Green",
@@ -20438,124 +20249,5 @@
     "Variant": "Carbon Fiber Composite",
     "Color": "The Original",
     "Hex": null
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Grey",
-    "Hex": "#808080"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Orange",
-    "Hex": "#FFA500"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Yellow",
-    "Hex": "#FFFF00"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Brown",
-    "Hex": "#A52A2A"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Pink",
-    "Hex": "#FFC0CB"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Grey",
-    "Hex": "#808080"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Yellow",
-    "Hex": "#FFFF00"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Red",
-    "Hex": "#FF0000"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Apple Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Cocoa Brown",
-    "Hex": "#A52A2A"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Beige",
-    "Hex": "#F5F5DC"
   }
 ]
