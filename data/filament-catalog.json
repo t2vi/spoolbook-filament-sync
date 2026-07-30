@@ -3235,6 +3235,48 @@
   },
   {
     "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "Translucentlight Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "Translucentlight Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "Translucentlight Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "Translucentlight Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "Translucentlight Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "Translucent Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "HF",
     "Color": "White",
@@ -9270,6 +9312,13 @@
   {
     "Brand": "Polymaker",
     "Material": "PLA",
+    "Variant": "Panchroma Matte",
+    "Color": "Matte Electric Magenta",
+    "Hex": "#FF00FF"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
     "Variant": "Panchroma Metallic",
     "Color": "Metallic Gold",
     "Hex": "#FFD700"
@@ -12048,13 +12097,6 @@
   },
   {
     "Brand": "Prusament",
-    "Material": "PP",
-    "Variant": "Glass Fiber",
-    "Color": "Natural",
-    "Hex": "#F5F0E1"
-  },
-  {
-    "Brand": "Prusament",
     "Material": "ASA",
     "Variant": null,
     "Color": "Prusa Orange",
@@ -12073,13 +12115,6 @@
     "Variant": "Blend",
     "Color": "Natural",
     "Hex": "#F5F0E1"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PC",
-    "Variant": "Blend",
-    "Color": "Prusa Orange",
-    "Hex": "#FFA500"
   },
   {
     "Brand": "Prusament",
@@ -12503,6 +12538,20 @@
   },
   {
     "Brand": "Prusament",
+    "Material": "PP",
+    "Variant": "Glass Fiber",
+    "Color": "Natural",
+    "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PC",
+    "Variant": "Blend",
+    "Color": "Prusa Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Prusament",
     "Material": "PETG",
     "Variant": null,
     "Color": "Lipstick Red",
@@ -12521,6 +12570,139 @@
     "Variant": null,
     "Color": "Light Yellow",
     "Hex": "#FFFFE0"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "TPU",
+    "Variant": "Matte",
+    "Color": "Matte Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "TPU",
+    "Variant": "Matte",
+    "Color": "Matte White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "TPU",
+    "Variant": "Matte",
+    "Color": "Matte Space Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "TPU",
+    "Variant": "Matte",
+    "Color": "Matte Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "TPU",
+    "Variant": "Matte",
+    "Color": "Matte Natural",
+    "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "TPU",
+    "Variant": "Matte",
+    "Color": "Matte Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "TPU",
+    "Variant": "Matte",
+    "Color": "Matte Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "TPU",
+    "Variant": "Matte",
+    "Color": "Matte Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "TPU",
+    "Variant": "Matte",
+    "Color": "Matte Silver",
+    "Hex": "#C0C0C0"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "TPU",
+    "Variant": "Matte",
+    "Color": "Matte Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "TPU",
+    "Variant": "Matte",
+    "Color": "Matte Lime Green",
+    "Hex": "#32CD32"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "TPU",
+    "Variant": "Matte",
+    "Color": "Matte Digital Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "TPU",
+    "Variant": "Matte",
+    "Color": "Matte Gold",
+    "Hex": "#FFD700"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "TPU",
+    "Variant": "Matte",
+    "Color": "Matte Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "TPU",
+    "Variant": "Matte",
+    "Color": "Matte Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "TPU",
+    "Variant": "Matte",
+    "Color": "Matte Beige Skin",
+    "Hex": "#F5F5DC"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "TPU",
+    "Variant": "Matte",
+    "Color": "Matte Light Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "TPU",
+    "Variant": "Matte",
+    "Color": "Matte Chocolate",
+    "Hex": "#D2691E"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "TPU",
+    "Variant": "Matte",
+    "Color": "Matte Brown",
+    "Hex": "#A52A2A"
   },
   {
     "Brand": "Overture",
