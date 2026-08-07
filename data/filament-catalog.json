@@ -12104,6 +12104,13 @@
   },
   {
     "Brand": "Prusament",
+    "Material": "PP",
+    "Variant": "Glass Fiber",
+    "Color": "Natural",
+    "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "Prusament",
     "Material": "ASA",
     "Variant": null,
     "Color": "Prusa Orange",
@@ -12206,6 +12213,13 @@
     "Variant": null,
     "Color": "Recycled",
     "Hex": null
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Recycled Black",
+    "Hex": "#000000"
   },
   {
     "Brand": "Prusament",
@@ -12552,24 +12566,10 @@
   },
   {
     "Brand": "Prusament",
-    "Material": "PP",
-    "Variant": "Glass Fiber",
-    "Color": "Natural",
-    "Hex": "#F5F0E1"
-  },
-  {
-    "Brand": "Prusament",
     "Material": "PETG",
     "Variant": null,
     "Color": "Lipstick Red",
     "Hex": "#FF0000"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Recycled Black",
-    "Hex": "#000000"
   },
   {
     "Brand": "Prusament",
@@ -15776,6 +15776,20 @@
     "Variant": null,
     "Color": "Burnt Amber",
     "Hex": "#FFBF00"
+  },
+  {
+    "Brand": "Colorfabb",
+    "Material": "VARIOSHORE PEBA 40D/85A NATURAL",
+    "Variant": null,
+    "Color": "VARIOSHORE PEBA 40D/85A NATURAL",
+    "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "Colorfabb",
+    "Material": "VARIOSHORE PEBA 45D/90A NATURAL",
+    "Variant": null,
+    "Color": "VARIOSHORE PEBA 45D/90A NATURAL",
+    "Hex": "#F5F0E1"
   },
   {
     "Brand": "Colorfabb",
