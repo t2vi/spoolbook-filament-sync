@@ -6282,6 +6282,13 @@
     "Brand": "SUNLU",
     "Material": "ABS 3D Printer Filament 1KG",
     "Variant": null,
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "ABS 3D Printer Filament 1KG",
+    "Variant": null,
     "Color": "Yellow",
     "Hex": "#FFFF00"
   },
@@ -6331,8 +6338,15 @@
     "Brand": "SUNLU",
     "Material": "ABS 3D Printer Filament 1KG",
     "Variant": null,
-    "Color": "Blue",
-    "Hex": "#0000FF"
+    "Color": "Coffee Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "ABS 3D Printer Filament 1KG",
+    "Variant": null,
+    "Color": "Oliver Green",
+    "Hex": "#008000"
   },
   {
     "Brand": "SUNLU",
@@ -11959,13 +11973,6 @@
     "Brand": "Prusament",
     "Material": "PETG",
     "Variant": null,
-    "Color": "Galaxy Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PETG",
-    "Variant": null,
     "Color": "Jet Black",
     "Hex": "#000000"
   },
@@ -12563,6 +12570,13 @@
     "Variant": null,
     "Color": "Ultramarine Blue",
     "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Galaxy Black",
+    "Hex": "#000000"
   },
   {
     "Brand": "Prusament",
