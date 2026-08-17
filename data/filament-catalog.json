@@ -1164,6 +1164,48 @@
   {
     "Brand": "Bambu Lab",
     "Material": "PLA",
+    "Variant": "Wood",
+    "Color": "Black Walnut",
+    "Hex": "#773F1A"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "PLA",
+    "Variant": "Wood",
+    "Color": "Rosewood",
+    "Hex": "#65000B"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "PLA",
+    "Variant": "Wood",
+    "Color": "Clay Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "PLA",
+    "Variant": "Wood",
+    "Color": "Classic Birch",
+    "Hex": "#DEB887"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "PLA",
+    "Variant": "Wood",
+    "Color": "White Oak",
+    "Hex": "#C19A6B"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "PLA",
+    "Variant": "Wood",
+    "Color": "Ochre Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "PLA",
     "Variant": "Glow",
     "Color": "Glow Green",
     "Hex": "#008000"
@@ -12757,13 +12799,6 @@
     "Brand": "Prusament",
     "Material": "TPU 95A",
     "Variant": null,
-    "Color": "Jet Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "TPU 95A",
-    "Variant": null,
     "Color": "Lipstick Red",
     "Hex": "#FF0000"
   },
@@ -12801,6 +12836,13 @@
     "Variant": null,
     "Color": "Light Yellow",
     "Hex": "#FFFFE0"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "TPU 95A",
+    "Variant": null,
+    "Color": "Jet Black",
+    "Hex": "#000000"
   },
   {
     "Brand": "Overture",
