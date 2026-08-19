@@ -15261,7 +15261,7 @@
   },
   {
     "Brand": "Colorfabb",
-    "Material": "TPU",
+    "Material": "TPU 95A",
     "Variant": "Varioshore",
     "Color": "BLACK",
     "Hex": "#000000"
@@ -15289,7 +15289,7 @@
   },
   {
     "Brand": "Colorfabb",
-    "Material": "TPU",
+    "Material": "TPU 95A",
     "Variant": "Varioshore",
     "Color": "NATURAL",
     "Hex": "#F5F0E1"
@@ -16962,7 +16962,7 @@
   },
   {
     "Brand": "Colorfabb",
-    "Material": "TPU",
+    "Material": "TPU 95A",
     "Variant": "Varioshore",
     "Color": "GREEN",
     "Hex": "#008000"
@@ -17025,7 +17025,7 @@
   },
   {
     "Brand": "Colorfabb",
-    "Material": "TPU",
+    "Material": "TPU 95A",
     "Variant": "Varioshore",
     "Color": "BLUE",
     "Hex": "#0000FF"
@@ -17571,7 +17571,7 @@
   },
   {
     "Brand": "Colorfabb",
-    "Material": "TPU",
+    "Material": "TPU 95A",
     "Variant": "Varioshore",
     "Color": "RED",
     "Hex": "#FF0000"
@@ -19356,13 +19356,6 @@
   },
   {
     "Brand": "Protopasta",
-    "Material": "HTPLA",
-    "Variant": null,
-    "Color": "Bluish Opaque Purple",
-    "Hex": "#800080"
-  },
-  {
-    "Brand": "Protopasta",
     "Material": "PLA",
     "Variant": "Recycled Carbon Fiber",
     "Color": "Natural",
@@ -19409,13 +19402,6 @@
     "Variant": null,
     "Color": "Tropical Palm Green",
     "Hex": "#008000"
-  },
-  {
-    "Brand": "Protopasta",
-    "Material": "HTPLA",
-    "Variant": null,
-    "Color": "Dragonfruit Smoothie",
-    "Hex": null
   },
   {
     "Brand": "Protopasta",
