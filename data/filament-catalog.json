@@ -6084,36 +6084,36 @@
   },
   {
     "Brand": "SUNLU",
-    "Material": "TPU",
-    "Variant": "Silk",
+    "Material": "SUNLU TPU-SILK(SILK-Textured TPU) 3D Printer Filament 1KG",
+    "Variant": null,
     "Color": "Black",
     "Hex": "#000000"
   },
   {
     "Brand": "SUNLU",
-    "Material": "TPU",
-    "Variant": "Silk",
+    "Material": "SUNLU TPU-SILK(SILK-Textured TPU) 3D Printer Filament 1KG",
+    "Variant": null,
     "Color": "Cream White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "SUNLU",
-    "Material": "TPU",
-    "Variant": "Silk",
+    "Material": "SUNLU TPU-SILK(SILK-Textured TPU) 3D Printer Filament 1KG",
+    "Variant": null,
     "Color": "Burgundy",
     "Hex": "#800020"
   },
   {
     "Brand": "SUNLU",
-    "Material": "TPU",
-    "Variant": "Silk",
+    "Material": "SUNLU TPU-SILK(SILK-Textured TPU) 3D Printer Filament 1KG",
+    "Variant": null,
     "Color": "Dark Blue",
     "Hex": "#00008B"
   },
   {
     "Brand": "SUNLU",
-    "Material": "TPU",
-    "Variant": "Silk",
+    "Material": "SUNLU TPU-SILK(SILK-Textured TPU) 3D Printer Filament 1KG",
+    "Variant": null,
     "Color": "Light Blue",
     "Hex": "#ADD8E6"
   },
@@ -11700,13 +11700,6 @@
     "Brand": "Prusament",
     "Material": "PETG",
     "Variant": null,
-    "Color": "Recycled Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PETG",
-    "Variant": null,
     "Color": "Ultramarine Blue",
     "Hex": "#0000FF"
   },
@@ -12041,6 +12034,13 @@
   },
   {
     "Brand": "Prusament",
+    "Material": "TPU 95A",
+    "Variant": null,
+    "Color": "Urban Grey",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Prusament",
     "Material": "PETG",
     "Variant": null,
     "Color": "Galaxy Black",
@@ -12059,6 +12059,13 @@
     "Variant": null,
     "Color": "Matte Noctua Beige",
     "Hex": "#F5F5DC"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Recycled Black",
+    "Hex": "#000000"
   },
   {
     "Brand": "Prusament",
