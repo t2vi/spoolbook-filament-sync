@@ -11607,6 +11607,13 @@
   },
   {
     "Brand": "Prusament",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Signal White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Prusament",
     "Material": "PC",
     "Variant": "Blend",
     "Color": "Natural",
@@ -12045,13 +12052,6 @@
     "Variant": null,
     "Color": "Galaxy Black",
     "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "ASA",
-    "Variant": null,
-    "Color": "Signal White",
-    "Hex": "#FFFFFF"
   },
   {
     "Brand": "Prusament",
@@ -14822,7 +14822,7 @@
     "Brand": "Creality",
     "Material": "PLA",
     "Variant": "CR-Silk",
-    "Color": "Red Copper",
+    "Color": "Red Copper(ETA0904)",
     "Hex": "#B87333"
   },
   {
@@ -14836,7 +14836,7 @@
     "Brand": "Creality",
     "Material": "PLA",
     "Variant": "CR-Silk",
-    "Color": "Purple",
+    "Color": "Purple(ETA0911)",
     "Hex": "#800080"
   },
   {
@@ -14850,7 +14850,7 @@
     "Brand": "Creality",
     "Material": "PLA",
     "Variant": "CR-Silk",
-    "Color": "Silver",
+    "Color": "Silver(ETA0911)",
     "Hex": "#C0C0C0"
   },
   {
@@ -14878,7 +14878,7 @@
     "Brand": "Creality",
     "Material": "PLA",
     "Variant": "CR-Silk",
-    "Color": "Blue\u002Bgreen",
+    "Color": "Blue-green(ETA0904)",
     "Hex": "#008000"
   },
   {
