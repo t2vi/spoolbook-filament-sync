@@ -10774,13 +10774,6 @@
   },
   {
     "Brand": "Polymaker",
-    "Material": "PETG",
-    "Variant": "Polymaker",
-    "Color": "Polymaker Teal",
-    "Hex": "#008080"
-  },
-  {
-    "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": "Polymaker Pro",
     "Color": "Black",
@@ -11707,6 +11700,13 @@
     "Brand": "Prusament",
     "Material": "PETG",
     "Variant": null,
+    "Color": "Recycled Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PETG",
+    "Variant": null,
     "Color": "Ultramarine Blue",
     "Hex": "#0000FF"
   },
@@ -12059,13 +12059,6 @@
     "Variant": null,
     "Color": "Matte Noctua Beige",
     "Hex": "#F5F5DC"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Recycled Black",
-    "Hex": "#000000"
   },
   {
     "Brand": "Prusament",
