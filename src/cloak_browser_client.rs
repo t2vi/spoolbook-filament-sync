@@ -91,5 +91,11 @@ mod tests {
             "http://localhost:3000",
         );
         assert_eq!(result, "ws://localhost:3000/devtools/browser/abc-123");
+
+        let result = CloakBrowserClient::rewrite_cdp_host(
+            "ws://172.17.0.2:3000/devtools/browser/xyz",
+            "http://cloakbrowser:3000",
+        );
+        assert_eq!(result, "ws://cloakbrowser:3000/devtools/browser/xyz");
     }
 }

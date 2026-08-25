@@ -11,7 +11,7 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    # Stealth-Chromium sidecar for stores that block plain HttpClient requests (see
+    # Stealth-Chromium sidecar for stores that block plain reqwest requests (see
     # docs/adr/0012's "reversing abandon if blocked" addendum) — same image as t2vi/arrgh's
     # docker-compose cloakbrowser service.
     services:
@@ -24,19 +24,19 @@ jobs:
     steps:
       - uses: actions/checkout@v5
 
-      - uses: actions/setup-dotnet@v5
-        with:
-          dotnet-version: "10.0.x"
+      - uses: dtolnay/rust-toolchain@stable
+
+      - uses: Swatinem/rust-cache@v2
 
       - name: Test
-        run: dotnet test Spoolbook.FilamentSync.Tests/Spoolbook.FilamentSync.Tests.csproj
+        run: cargo test --release
 
       - name: Scrape all brands
         env:
           CLOAKBROWSER_WS_URL: http://localhost:3000
         run: |
           mkdir -p data
-          dotnet run --project Spoolbook.FilamentSync -- data/filament-catalog.json all
+          cargo run --release -- data/filament-catalog.json all
 
       - name: Commit if changed
         run: |

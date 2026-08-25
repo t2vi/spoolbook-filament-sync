@@ -158,10 +158,14 @@ mod tests {
     #[test]
     fn resolve_strips_qualifier_words_before_matching() {
         assert_eq!(resolve("Matte Black"), Some("#000000".to_string()));
+        assert_eq!(resolve("Silk Gold"), Some("#FFD700".to_string()));
+        assert_eq!(resolve("Translucent Blue"), Some("#0000FF".to_string()));
     }
 
     #[test]
     fn resolve_falls_back_to_last_word_for_compound_marketing_names() {
+        assert_eq!(resolve("Jade White"), Some("#FFFFFF".to_string()));
+        assert_eq!(resolve("Pumpkin Orange"), Some("#FFA500".to_string()));
         assert_eq!(resolve("Guacamole Green"), Some("#008000".to_string()));
     }
 
