@@ -770,104 +770,6 @@
     "Hex": "#0000FF"
   },
   {
-    "Brand": "Bambu Lab",
-    "Material": "PETG",
-    "Variant": "HF",
-    "Color": "Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PETG",
-    "Variant": "HF",
-    "Color": "White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PETG",
-    "Variant": "HF",
-    "Color": "Red",
-    "Hex": "#FF0000"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PETG",
-    "Variant": "HF",
-    "Color": "Gray",
-    "Hex": "#808080"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PETG",
-    "Variant": "HF",
-    "Color": "Dark Gray",
-    "Hex": "#A9A9A9"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PETG",
-    "Variant": "HF",
-    "Color": "Cream",
-    "Hex": "#FFFDD0"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PETG",
-    "Variant": "HF",
-    "Color": "Yellow",
-    "Hex": "#FFFF00"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PETG",
-    "Variant": "HF",
-    "Color": "Orange",
-    "Hex": "#FFA500"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PETG",
-    "Variant": "HF",
-    "Color": "Peanut Brown",
-    "Hex": "#A52A2A"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PETG",
-    "Variant": "HF",
-    "Color": "Lime Green",
-    "Hex": "#32CD32"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PETG",
-    "Variant": "HF",
-    "Color": "Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PETG",
-    "Variant": "HF",
-    "Color": "Forest Green",
-    "Hex": "#228B22"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PETG",
-    "Variant": "HF",
-    "Color": "Lake Blue",
-    "Hex": "#0000FF"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "PETG",
-    "Variant": "HF",
-    "Color": "Blue",
-    "Hex": "#0000FF"
-  },
-  {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Plus",
@@ -18894,6 +18796,83 @@
   },
   {
     "Brand": "Protopasta",
+    "Material": "HTPLA",
+    "Variant": "Glass Fiber",
+    "Color": "Laser Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Protopasta",
+    "Material": "Forest Fantasy Glow",
+    "Variant": null,
+    "Color": "Forest Fantasy Glow",
+    "Hex": "#228B22"
+  },
+  {
+    "Brand": "Protopasta",
+    "Material": "Candy Rainbow Glow",
+    "Variant": null,
+    "Color": "Candy Rainbow Glow",
+    "Hex": null
+  },
+  {
+    "Brand": "Protopasta",
+    "Material": "Nebula Glow",
+    "Variant": null,
+    "Color": "Nebula Glow",
+    "Hex": null
+  },
+  {
+    "Brand": "Protopasta",
+    "Material": "HTPLA",
+    "Variant": null,
+    "Color": "Fluorescent Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Protopasta",
+    "Material": "HTPLA",
+    "Variant": null,
+    "Color": "Fluorescent Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Protopasta",
+    "Material": "HTPLA",
+    "Variant": null,
+    "Color": "Fluorescent Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Protopasta",
+    "Material": "Black High Strength Carbon Fiber HTPETG",
+    "Variant": null,
+    "Color": "Black High Strength Carbon Fiber HTPETG",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Protopasta",
+    "Material": "Galaxy Black High Impact Carbon Fiber HTPETG",
+    "Variant": null,
+    "Color": "Galaxy Black High Impact Carbon Fiber HTPETG",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Protopasta",
+    "Material": "Highfive Blue Glass Fiber HTPETG",
+    "Variant": null,
+    "Color": "Highfive Blue Glass Fiber HTPETG",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Protopasta",
+    "Material": "White Glass Fiber HTPETG",
+    "Variant": null,
+    "Color": "White Glass Fiber HTPETG",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Protopasta",
     "Material": "TPU",
     "Variant": "Recycled Flexible",
     "Color": "Black",
@@ -19010,13 +18989,6 @@
     "Variant": "Reflective",
     "Color": "Green",
     "Hex": "#008000"
-  },
-  {
-    "Brand": "Protopasta",
-    "Material": "HTPLA",
-    "Variant": "Reflective",
-    "Color": "Bronze",
-    "Hex": "#CD7F32"
   },
   {
     "Brand": "Protopasta",
@@ -19171,20 +19143,6 @@
     "Variant": null,
     "Color": "Blueberry Smoothie",
     "Hex": null
-  },
-  {
-    "Brand": "Protopasta",
-    "Material": "Polyketone",
-    "Variant": "Carbon Fiber",
-    "Color": "Natural",
-    "Hex": "#F5F0E1"
-  },
-  {
-    "Brand": "Protopasta",
-    "Material": "Polyketone",
-    "Variant": "Glass Fiber",
-    "Color": "Natural",
-    "Hex": "#F5F0E1"
   },
   {
     "Brand": "Protopasta",
