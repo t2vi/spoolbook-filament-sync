@@ -5,6 +5,9 @@ obj/
 *.user
 *.suo
 
+# Rust
+/target/
+
 # OS
 .DS_Store
 Thumbs.db
