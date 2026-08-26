@@ -1177,6 +1177,55 @@
   },
   {
     "Brand": "Elegoo",
+    "Material": "TPU",
+    "Variant": "72D",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "TPU",
+    "Variant": "72D",
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "TPU",
+    "Variant": "72D",
+    "Color": "Grey",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "TPU",
+    "Variant": "72D",
+    "Color": "Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "TPU",
+    "Variant": "72D",
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "TPU",
+    "Variant": "72D",
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "TPU",
+    "Variant": "72D",
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Elegoo",
     "Material": "PLA",
     "Variant": "(RFID) emoji® Edition",
     "Color": "Black",
