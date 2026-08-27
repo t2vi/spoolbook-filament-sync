@@ -121,6 +121,132 @@
   {
     "Brand": "Elegoo",
     "Material": "PLA",
+    "Variant": "Plus",
+    "Color": "Oak Wood Color",
+    "Hex": "#C19A6B"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Plus",
+    "Color": "Mango Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Plus",
+    "Color": "True Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Plus",
+    "Color": "Bone White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Plus",
+    "Color": "Pumpkin Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Plus",
+    "Color": "Sakura Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Plus",
+    "Color": "Chocolate Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Plus",
+    "Color": "Coffee Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Plus",
+    "Color": "Chestnut Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Plus",
+    "Color": "Midnight Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Plus",
+    "Color": "Ocean Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Plus",
+    "Color": "Olive Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Plus",
+    "Color": "Teal Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Plus",
+    "Color": "Porcelain White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Plus",
+    "Color": "Lavender Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Plus",
+    "Color": "Cherry Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Plus",
+    "Color": "Magenta",
+    "Hex": "#FF00FF"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Plus",
+    "Color": "True Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
     "Variant": "Rapid Plus",
     "Color": "Black",
     "Hex": "#000000"
@@ -194,6 +320,111 @@
     "Variant": "Rapid Plus",
     "Color": "Beige",
     "Hex": "#F5F5DC"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Rapid Plus",
+    "Color": "Ocean Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Rapid Plus",
+    "Color": "Mango Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Rapid Plus",
+    "Color": "Teal Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Rapid Plus",
+    "Color": "True Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Rapid Plus",
+    "Color": "Sakura Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Rapid Plus",
+    "Color": "Chocolate Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Rapid Plus",
+    "Color": "Coffee Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Rapid Plus",
+    "Color": "Chestnut Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Rapid Plus",
+    "Color": "Midnight Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Rapid Plus",
+    "Color": "Oak Wood Color",
+    "Hex": "#C19A6B"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Rapid Plus",
+    "Color": "Olive Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Rapid Plus",
+    "Color": "Bone White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Rapid Plus",
+    "Color": "Porcelain White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Rapid Plus",
+    "Color": "Pumpkin Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Rapid Plus",
+    "Color": "Lavender Purple",
+    "Hex": "#800080"
   },
   {
     "Brand": "Elegoo",
@@ -341,6 +572,55 @@
     "Variant": "Silk",
     "Color": "Silk Peach Pink",
     "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Silk",
+    "Color": "Silk Yellow Green",
+    "Hex": "#9ACD32"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Silk",
+    "Color": "Silk Red Yellow Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Silk",
+    "Color": "Silk Red Blue Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Silk",
+    "Color": "Silk Green Purple Copper",
+    "Hex": "#B87333"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Silk",
+    "Color": "Silk Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Silk",
+    "Color": "Silk Sakura Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Silk",
+    "Color": "Silk Golden Yellow",
+    "Hex": "#FFFF00"
   },
   {
     "Brand": "Elegoo",
@@ -537,6 +817,20 @@
     "Variant": "Matte",
     "Color": "Mint Green",
     "Hex": "#008000"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Earth Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Orange",
+    "Hex": "#FFA500"
   },
   {
     "Brand": "Elegoo",
@@ -1062,6 +1356,55 @@
     "Variant": "Basic",
     "Color": "Misty Blue",
     "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Basic",
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Basic",
+    "Color": "Deep Grey",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Basic",
+    "Color": "Light Cyan",
+    "Hex": "#E0FFFF"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Basic",
+    "Color": "Megenta",
+    "Hex": null
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Basic",
+    "Color": "Cream Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Basic",
+    "Color": "Dark Green",
+    "Hex": "#006400"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Basic",
+    "Color": "Olive Green",
+    "Hex": "#008000"
   },
   {
     "Brand": "Elegoo",
@@ -10860,13 +11203,6 @@
     "Brand": "Prusament",
     "Material": "PETG",
     "Variant": null,
-    "Color": "Jet Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PETG",
-    "Variant": null,
     "Color": "Prusa Galaxy Black",
     "Hex": "#000000"
   },
@@ -10904,6 +11240,13 @@
     "Variant": null,
     "Color": "Clear",
     "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Jet Black",
+    "Hex": "#000000"
   },
   {
     "Brand": "Prusament",
@@ -11093,13 +11436,6 @@
     "Variant": null,
     "Color": "Mango Yellow",
     "Hex": "#FFFF00"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Matte Noctua Brown",
-    "Hex": "#A52A2A"
   },
   {
     "Brand": "Prusament",
@@ -11441,13 +11777,6 @@
     "Brand": "Prusament",
     "Material": "TPU 95A",
     "Variant": null,
-    "Color": "Prusa Galaxy Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "TPU 95A",
-    "Variant": null,
     "Color": "Ultramarine Blue",
     "Hex": "#0000FF"
   },
@@ -11474,6 +11803,13 @@
   },
   {
     "Brand": "Prusament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Noctua Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Prusament",
     "Material": "PEI 1010",
     "Variant": null,
     "Color": "Natural",
@@ -11487,6 +11823,13 @@
     "Hex": "#FFFFE0"
   },
   {
+    "Brand": "Prusament",
+    "Material": "TPU 95A",
+    "Variant": null,
+    "Color": "Prusa Galaxy Black",
+    "Hex": "#000000"
+  },
+  {
     "Brand": "Protopasta",
     "Material": "HTPLA",
     "Variant": "Glass Fiber",
@@ -11495,21 +11838,21 @@
   },
   {
     "Brand": "Protopasta",
-    "Material": "Forest Fantasy Glow",
+    "Material": "HTPLA",
     "Variant": null,
     "Color": "Forest Fantasy Glow",
     "Hex": "#228B22"
   },
   {
     "Brand": "Protopasta",
-    "Material": "Candy Rainbow Glow",
+    "Material": "HTPLA",
     "Variant": null,
     "Color": "Candy Rainbow Glow",
     "Hex": null
   },
   {
     "Brand": "Protopasta",
-    "Material": "Nebula Glow",
+    "Material": "HTPLA",
     "Variant": null,
     "Color": "Nebula Glow",
     "Hex": null
