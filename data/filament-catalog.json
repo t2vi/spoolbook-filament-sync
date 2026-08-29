@@ -11187,6 +11187,13 @@
   },
   {
     "Brand": "Prusament",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Prusa Galaxy Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Prusament",
     "Material": "PETG",
     "Variant": "Carbon Fiber",
     "Color": "Black",
@@ -11782,13 +11789,6 @@
   },
   {
     "Brand": "Prusament",
-    "Material": "ASA",
-    "Variant": null,
-    "Color": "Prusa Galaxy Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
     "Material": "PETG",
     "Variant": null,
     "Color": "Galaxy Black",
@@ -12230,20 +12230,6 @@
   },
   {
     "Brand": "Protopasta",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Still Colorful Recycled 033",
-    "Hex": null
-  },
-  {
-    "Brand": "Protopasta",
-    "Material": "HTPLA",
-    "Variant": null,
-    "Color": "Sparkling Spruce",
-    "Hex": null
-  },
-  {
-    "Brand": "Protopasta",
     "Material": "HTPLA",
     "Variant": null,
     "Color": "Filafetti Confetti Frosting",
@@ -12272,38 +12258,10 @@
   },
   {
     "Brand": "Protopasta",
-    "Material": "HTPLA",
-    "Variant": "Thermochromic",
-    "Color": "Galactic Duel",
-    "Hex": null
-  },
-  {
-    "Brand": "Protopasta",
-    "Material": "HTPLA",
-    "Variant": "Thermochromic",
-    "Color": "Chlorophylled",
-    "Hex": null
-  },
-  {
-    "Brand": "Protopasta",
-    "Material": "HTPLA",
-    "Variant": "Thermochromic",
-    "Color": "Sour Apple",
-    "Hex": null
-  },
-  {
-    "Brand": "Protopasta",
     "Material": "TPU",
     "Variant": "Flexible",
     "Color": "Clear",
     "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "Protopasta",
-    "Material": "TPE",
-    "Variant": "Flexible",
-    "Color": "Black",
-    "Hex": "#000000"
   },
   {
     "Brand": "Protopasta",
