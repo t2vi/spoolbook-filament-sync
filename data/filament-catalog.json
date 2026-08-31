@@ -1687,6 +1687,90 @@
     "Hex": null
   },
   {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Matte - Reusable Spool",
+    "Color": "Matte Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Matte - Reusable Spool",
+    "Color": "Matte White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Matte - Reusable Spool",
+    "Color": "Slate Grey",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Matte - Reusable Spool",
+    "Color": "Ruby Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Matte - Reusable Spool",
+    "Color": "Navy Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Matte - Reusable Spool",
+    "Color": "Teal Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Matte - Reusable Spool",
+    "Color": "Sunshine Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Matte - Reusable Spool",
+    "Color": "Lavender Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Matte - Reusable Spool",
+    "Color": "Sakura Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Matte - Reusable Spool",
+    "Color": "Ice Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Matte - Reusable Spool",
+    "Color": "Beige",
+    "Hex": "#F5F5DC"
+  },
+  {
+    "Brand": "Elegoo",
+    "Material": "PLA",
+    "Variant": "Matte - Reusable Spool",
+    "Color": "Mint Green",
+    "Hex": "#008000"
+  },
+  {
     "Brand": "SUNLU",
     "Material": "PLA",
     "Variant": "Plus",
