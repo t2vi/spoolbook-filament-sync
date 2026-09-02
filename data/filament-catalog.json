@@ -7792,13 +7792,6 @@
   },
   {
     "Brand": "Polymaker",
-    "Material": "PETG",
-    "Variant": "PolyMax",
-    "Color": "White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "Polymaker",
     "Material": "CoPA",
     "Variant": "PolyMide",
     "Color": "Black",
@@ -7893,13 +7886,6 @@
     "Material": "PVB",
     "Variant": "PolySmooth",
     "Color": "Transparent",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PVB",
-    "Variant": "PolySmooth",
-    "Color": "Snow White",
     "Hex": "#FFFFFF"
   },
   {
