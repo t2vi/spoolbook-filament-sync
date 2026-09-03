@@ -11273,6 +11273,13 @@
     "Brand": "Prusament",
     "Material": "PETG",
     "Variant": null,
+    "Color": "Galaxy Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PETG",
+    "Variant": null,
     "Color": "Jet Black",
     "Hex": "#000000"
   },
@@ -11296,13 +11303,6 @@
     "Variant": "Blend",
     "Color": "Jet Black",
     "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PC",
-    "Variant": "Blend",
-    "Color": "Light Grey",
-    "Hex": "#D3D3D3"
   },
   {
     "Brand": "Prusament",
@@ -11607,13 +11607,6 @@
   },
   {
     "Brand": "Prusament",
-    "Material": "PA11",
-    "Variant": "Carbon Fiber",
-    "Color": "Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
     "Material": "PETG",
     "Variant": null,
     "Color": "Magnetite 40% Grey",
@@ -11852,10 +11845,10 @@
   },
   {
     "Brand": "Prusament",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Galaxy Black",
-    "Hex": "#000000"
+    "Material": "PC",
+    "Variant": "Blend",
+    "Color": "Light Grey",
+    "Hex": "#D3D3D3"
   },
   {
     "Brand": "Prusament",
@@ -11870,6 +11863,13 @@
     "Variant": null,
     "Color": "Matte Noctua Brown",
     "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PA11",
+    "Variant": "Carbon Fiber",
+    "Color": "Black",
+    "Hex": "#000000"
   },
   {
     "Brand": "Prusament",
