@@ -11341,6 +11341,13 @@
   },
   {
     "Brand": "Prusament",
+    "Material": "PC",
+    "Variant": "Blend",
+    "Color": "Light Grey",
+    "Hex": "#D3D3D3"
+  },
+  {
+    "Brand": "Prusament",
     "Material": "PETG",
     "Variant": null,
     "Color": "Anthracite Grey",
@@ -11894,13 +11901,6 @@
   },
   {
     "Brand": "Prusament",
-    "Material": "PC",
-    "Variant": "Blend",
-    "Color": "Light Grey",
-    "Hex": "#D3D3D3"
-  },
-  {
-    "Brand": "Prusament",
     "Material": "PETG",
     "Variant": null,
     "Color": "Matte Noctua Beige",
@@ -12273,13 +12273,6 @@
   {
     "Brand": "Protopasta",
     "Material": "HTPLA",
-    "Variant": "Marble",
-    "Color": "Stone Gray",
-    "Hex": "#808080"
-  },
-  {
-    "Brand": "Protopasta",
-    "Material": "HTPLA",
     "Variant": null,
     "Color": "Super Green Smoothie",
     "Hex": "#008000"
@@ -12400,13 +12393,6 @@
     "Brand": "Protopasta",
     "Material": "HTPLA",
     "Variant": null,
-    "Color": "Nerfed Translucent Orange",
-    "Hex": "#FFA500"
-  },
-  {
-    "Brand": "Protopasta",
-    "Material": "HTPLA",
-    "Variant": null,
     "Color": "Juliette's Raspberry Jam",
     "Hex": null
   },
@@ -12465,13 +12451,6 @@
     "Variant": null,
     "Color": "Tropical Palm Green",
     "Hex": "#008000"
-  },
-  {
-    "Brand": "Protopasta",
-    "Material": "HTPLA",
-    "Variant": null,
-    "Color": "Orange Papaya Smoothie",
-    "Hex": "#FFA500"
   },
   {
     "Brand": "Protopasta",
