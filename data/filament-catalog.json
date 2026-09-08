@@ -11649,13 +11649,6 @@
   },
   {
     "Brand": "Prusament",
-    "Material": "PA11",
-    "Variant": "Carbon Fiber",
-    "Color": "Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
     "Material": "PETG",
     "Variant": null,
     "Color": "Magnetite 40% Grey",
@@ -11889,6 +11882,13 @@
     "Brand": "Prusament",
     "Material": "TPU 95A",
     "Variant": null,
+    "Color": "Ultramarine Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "TPU 95A",
+    "Variant": null,
     "Color": "Urban Grey",
     "Hex": "#808080"
   },
@@ -11915,6 +11915,13 @@
   },
   {
     "Brand": "Prusament",
+    "Material": "PA11",
+    "Variant": "Carbon Fiber",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Prusament",
     "Material": "PEI 1010",
     "Variant": null,
     "Color": "Natural",
@@ -11933,13 +11940,6 @@
     "Variant": null,
     "Color": "Prusa Galaxy Black",
     "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "TPU 95A",
-    "Variant": null,
-    "Color": "Ultramarine Blue",
-    "Hex": "#0000FF"
   },
   {
     "Brand": "Protopasta",
