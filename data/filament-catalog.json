@@ -11224,6 +11224,13 @@
     "Brand": "Prusament",
     "Material": "PLA",
     "Variant": null,
+    "Color": "ColorMix Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "Jet Black",
     "Hex": "#000000"
   },
@@ -11401,6 +11408,20 @@
     "Variant": null,
     "Color": "Azure Blue",
     "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "CMYK Magenta",
+    "Hex": "#FF00FF"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "ColorMix Magenta",
+    "Hex": "#FF00FF"
   },
   {
     "Brand": "Prusament",
@@ -11595,6 +11616,48 @@
     "Brand": "Prusament",
     "Material": "PLA",
     "Variant": null,
+    "Color": "CMYK Cyan",
+    "Hex": "#00FFFF"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "CMYK Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "ColorMix Cyan",
+    "Hex": "#00FFFF"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "ColorMix Gold Glitter",
+    "Hex": "#FFD700"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "ColorMix White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "ColorMix Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "Electric Green",
     "Hex": "#008000"
   },
@@ -11646,6 +11709,13 @@
     "Variant": null,
     "Color": "Army Green",
     "Hex": "#008000"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PA11",
+    "Variant": "Carbon Fiber",
+    "Color": "Black",
+    "Hex": "#000000"
   },
   {
     "Brand": "Prusament",
@@ -11716,6 +11786,13 @@
     "Variant": null,
     "Color": "Chalky Blue",
     "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "ColorMix Silver Glitter",
+    "Hex": "#C0C0C0"
   },
   {
     "Brand": "Prusament",
@@ -11912,13 +11989,6 @@
     "Variant": null,
     "Color": "Matte Noctua Brown",
     "Hex": "#A52A2A"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PA11",
-    "Variant": "Carbon Fiber",
-    "Color": "Black",
-    "Hex": "#000000"
   },
   {
     "Brand": "Prusament",
@@ -22964,13 +23034,6 @@
     "Material": "PLA",
     "Variant": "Spool-Less",
     "Color": "Apple Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Green",
     "Hex": "#008000"
   }
 ]
