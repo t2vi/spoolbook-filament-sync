@@ -12344,13 +12344,6 @@
     "Brand": "Prusament",
     "Material": "TPU 95A",
     "Variant": null,
-    "Color": "Jet Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "TPU 95A",
-    "Variant": null,
     "Color": "Natural",
     "Hex": "#F5F0E1"
   },
@@ -12423,6 +12416,13 @@
     "Variant": null,
     "Color": "Light Yellow",
     "Hex": "#FFFFE0"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "TPU 95A",
+    "Variant": null,
+    "Color": "Jet Black",
+    "Hex": "#000000"
   },
   {
     "Brand": "Prusament",
