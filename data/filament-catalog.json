@@ -7647,6 +7647,13 @@
     "Brand": "Polymaker",
     "Material": "HT-PLA-GF",
     "Variant": "Polymaker",
+    "Color": "Power Tool Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "HT-PLA-GF",
+    "Variant": "Polymaker",
     "Color": "Black",
     "Hex": "#000000"
   },
@@ -7684,13 +7691,6 @@
     "Variant": "Polymaker",
     "Color": "Power Tool Yellow",
     "Hex": "#FFFF00"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "HT-PLA-GF",
-    "Variant": "Polymaker",
-    "Color": "Power Tool Red",
-    "Hex": "#FF0000"
   },
   {
     "Brand": "Polymaker",
@@ -11727,13 +11727,6 @@
   {
     "Brand": "Prusament",
     "Material": "PETG",
-    "Variant": "Carbon Fiber",
-    "Color": "Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PETG",
     "Variant": null,
     "Color": "Galaxy Black",
     "Hex": "#000000"
@@ -12373,6 +12366,13 @@
     "Material": "PETG",
     "Variant": null,
     "Color": "Matte Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PETG",
+    "Variant": "Carbon Fiber",
+    "Color": "Black",
     "Hex": "#000000"
   },
   {
