@@ -11727,6 +11727,13 @@
   {
     "Brand": "Prusament",
     "Material": "PETG",
+    "Variant": "Carbon Fiber",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PETG",
     "Variant": null,
     "Color": "Galaxy Black",
     "Hex": "#000000"
@@ -11919,6 +11926,13 @@
     "Variant": "Blend",
     "Color": "Prusa Orange",
     "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PC",
+    "Variant": "Blend",
+    "Color": "Prusa Pro Green",
+    "Hex": "#008000"
   },
   {
     "Brand": "Prusament",
@@ -12237,6 +12251,13 @@
   },
   {
     "Brand": "Prusament",
+    "Material": "PEI 1010",
+    "Variant": null,
+    "Color": "Natural",
+    "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "Prusament",
     "Material": "PETG",
     "Variant": null,
     "Color": "Ocean Blue",
@@ -12371,20 +12392,6 @@
   {
     "Brand": "Prusament",
     "Material": "PETG",
-    "Variant": "Carbon Fiber",
-    "Color": "Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PC",
-    "Variant": "Blend",
-    "Color": "Prusa Pro Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PETG",
     "Variant": null,
     "Color": "Matte Noctua Beige",
     "Hex": "#F5F5DC"
@@ -12402,13 +12409,6 @@
     "Variant": "Carbon Fiber",
     "Color": "Black",
     "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PEI 1010",
-    "Variant": null,
-    "Color": "Natural",
-    "Hex": "#F5F0E1"
   },
   {
     "Brand": "Prusament",
@@ -17340,6 +17340,118 @@
   },
   {
     "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "Clear",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "Grey",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "Silver",
+    "Hex": "#C0C0C0"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "Translucent Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "Translucent Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "Translucent Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "Translucentlight Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "Translucentlight Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "Translucentlight Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "Translucentlight Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "Translucentlight Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Basic",
+    "Color": "Translucent Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "eSUN",
     "Material": "ASA",
     "Variant": "Plus",
     "Color": "Black",
@@ -17400,6 +17512,195 @@
     "Variant": "Plus",
     "Color": "Silver",
     "Hex": "#C0C0C0"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "ABS",
+    "Variant": "Plus",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "ABS",
+    "Variant": "Plus",
+    "Color": "Cold White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "ABS",
+    "Variant": "Plus",
+    "Color": "Grey",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "ABS",
+    "Variant": "Plus",
+    "Color": "Fire Engine Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "ABS",
+    "Variant": "Plus",
+    "Color": "Silver",
+    "Hex": "#C0C0C0"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "ABS",
+    "Variant": "Plus",
+    "Color": "Natural",
+    "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "ABS",
+    "Variant": "Plus",
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "ABS",
+    "Variant": "Plus",
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "ABS",
+    "Variant": "Plus",
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "ABS",
+    "Variant": "Plus",
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "ABS",
+    "Variant": "Plus",
+    "Color": "Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Solid Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Solid White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Solid Grey",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Solid Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Solid Gold",
+    "Hex": "#FFD700"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Solid Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Solid Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Solid Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Solid Silver",
+    "Hex": "#C0C0C0"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Solid Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Fire Engine Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Natural",
+    "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Magenta",
+    "Hex": "#FF00FF"
   },
   {
     "Brand": "eSUN",
@@ -17515,80 +17816,241 @@
   },
   {
     "Brand": "eSUN",
-    "Material": "ABS",
-    "Variant": "Plus",
-    "Color": "Black",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Deep Black",
     "Hex": "#000000"
   },
   {
     "Brand": "eSUN",
-    "Material": "ABS",
-    "Variant": "Plus",
-    "Color": "Cold White",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Milky White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "eSUN",
-    "Material": "ABS",
-    "Variant": "Plus",
-    "Color": "Grey",
-    "Hex": "#808080"
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Light Khaki",
+    "Hex": "#F0E68C"
   },
   {
     "Brand": "eSUN",
-    "Material": "ABS",
-    "Variant": "Plus",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Dark Grey",
+    "Hex": "#A9A9A9"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Lake Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Almond Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Mint Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Peach Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Lilac",
+    "Hex": "#C8A2C8"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Tangerine",
+    "Hex": "#F28500"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Strawberry Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Matcha Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Morandi Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Morandi Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
     "Color": "Fire Engine Red",
     "Hex": "#FF0000"
   },
   {
     "Brand": "eSUN",
-    "Material": "ABS",
-    "Variant": "Plus",
-    "Color": "Silver",
-    "Hex": "#C0C0C0"
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Brown",
+    "Hex": "#A52A2A"
   },
   {
     "Brand": "eSUN",
-    "Material": "ABS",
-    "Variant": "Plus",
-    "Color": "Natural",
-    "Hex": "#F5F0E1"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "ABS",
-    "Variant": "Plus",
-    "Color": "Yellow",
-    "Hex": "#FFFF00"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "ABS",
-    "Variant": "Plus",
-    "Color": "Blue",
-    "Hex": "#0000FF"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "ABS",
-    "Variant": "Plus",
-    "Color": "Orange",
-    "Hex": "#FFA500"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "ABS",
-    "Variant": "Plus",
-    "Color": "Green",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Olive Green",
     "Hex": "#008000"
   },
   {
     "Brand": "eSUN",
-    "Material": "ABS",
-    "Variant": "Plus",
-    "Color": "Red",
-    "Hex": "#FF0000"
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Dark Blue",
+    "Hex": "#00008B"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Aqua",
+    "Hex": "#00FFFF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Concrete Grey",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Red Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Green Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Green Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Purple Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Purple Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Green Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Red Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Black White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Fruit Candy",
+    "Hex": null
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Macaron",
+    "Hex": null
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Ocean",
+    "Hex": null
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Paddy Field",
+    "Hex": null
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Sunrise",
+    "Hex": null
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Rainbow",
+    "Hex": null
   },
   {
     "Brand": "eSUN",
@@ -17932,468 +18394,6 @@
     "Variant": "Plus",
     "Color": "Purple",
     "Hex": "#800080"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Solid Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Solid White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Solid Grey",
-    "Hex": "#808080"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Solid Red",
-    "Hex": "#FF0000"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Solid Gold",
-    "Hex": "#FFD700"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Solid Blue",
-    "Hex": "#0000FF"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Solid Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Solid Yellow",
-    "Hex": "#FFFF00"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Solid Silver",
-    "Hex": "#C0C0C0"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Solid Purple",
-    "Hex": "#800080"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Fire Engine Red",
-    "Hex": "#FF0000"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Translucent Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Natural",
-    "Hex": "#F5F0E1"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Translucent Blue",
-    "Hex": "#0000FF"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Translucent Yellow",
-    "Hex": "#FFFF00"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Translucent Magenta",
-    "Hex": "#FF00FF"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Deep Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Milky White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Light Khaki",
-    "Hex": "#F0E68C"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Dark Grey",
-    "Hex": "#A9A9A9"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Lake Blue",
-    "Hex": "#0000FF"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Almond Yellow",
-    "Hex": "#FFFF00"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Mint Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Peach Pink",
-    "Hex": "#FFC0CB"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Lilac",
-    "Hex": "#C8A2C8"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Tangerine",
-    "Hex": "#F28500"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Strawberry Red",
-    "Hex": "#FF0000"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Matcha Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Morandi Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Morandi Purple",
-    "Hex": "#800080"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Fire Engine Red",
-    "Hex": "#FF0000"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Brown",
-    "Hex": "#A52A2A"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Olive Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Dark Blue",
-    "Hex": "#00008B"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Aqua",
-    "Hex": "#00FFFF"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Concrete Grey",
-    "Hex": "#808080"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Red Blue",
-    "Hex": "#0000FF"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Green Purple",
-    "Hex": "#800080"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Green Pink",
-    "Hex": "#FFC0CB"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Purple Yellow",
-    "Hex": "#FFFF00"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Purple Blue",
-    "Hex": "#0000FF"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Green Blue",
-    "Hex": "#0000FF"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Red Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Black White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Fruit Candy",
-    "Hex": null
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Macaron",
-    "Hex": null
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Ocean",
-    "Hex": null
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Paddy Field",
-    "Hex": null
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Sunrise",
-    "Hex": null
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Rainbow",
-    "Hex": null
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": "Basic",
-    "Color": "Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": "Basic",
-    "Color": "White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": "Basic",
-    "Color": "Clear",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": "Basic",
-    "Color": "Grey",
-    "Hex": "#808080"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": "Basic",
-    "Color": "Silver",
-    "Hex": "#C0C0C0"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": "Basic",
-    "Color": "Red",
-    "Hex": "#FF0000"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": "Basic",
-    "Color": "Blue",
-    "Hex": "#0000FF"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": "Basic",
-    "Color": "Translucent Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": "Basic",
-    "Color": "Translucent Blue",
-    "Hex": "#0000FF"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": "Basic",
-    "Color": "Translucent Orange",
-    "Hex": "#FFA500"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": "Basic",
-    "Color": "Translucentlight Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": "Basic",
-    "Color": "Translucentlight Blue",
-    "Hex": "#0000FF"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": "Basic",
-    "Color": "Translucentlight Orange",
-    "Hex": "#FFA500"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": "Basic",
-    "Color": "Translucentlight Pink",
-    "Hex": "#FFC0CB"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": "Basic",
-    "Color": "Translucentlight Purple",
-    "Hex": "#800080"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": "Basic",
-    "Color": "Translucent Red",
-    "Hex": "#FF0000"
   },
   {
     "Brand": "eSUN",
