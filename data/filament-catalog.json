@@ -2759,64 +2759,134 @@
   },
   {
     "Brand": "SUNLU",
-    "Material": "PLA",
-    "Variant": "Glow in the Dark",
+    "Material": "SUNLU Glow in The Dark (Luminous) PLA 3D Printer Filament 1KG",
+    "Variant": null,
     "Color": "White Filament (Glow Green)",
     "Hex": "#008000"
   },
   {
     "Brand": "SUNLU",
-    "Material": "PLA",
-    "Variant": "Glow in the Dark",
+    "Material": "SUNLU Glow in The Dark (Luminous) PLA 3D Printer Filament 1KG",
+    "Variant": null,
     "Color": "White Filament (Glow Blue)",
     "Hex": "#0000FF"
   },
   {
     "Brand": "SUNLU",
-    "Material": "PLA",
-    "Variant": "Glow in the Dark",
+    "Material": "SUNLU Glow in The Dark (Luminous) PLA 3D Printer Filament 1KG",
+    "Variant": null,
     "Color": "Yellow Filament (Glow Yellow)",
     "Hex": "#FFFF00"
   },
   {
     "Brand": "SUNLU",
-    "Material": "PLA",
-    "Variant": "Glow in the Dark",
+    "Material": "SUNLU Glow in The Dark (Luminous) PLA 3D Printer Filament 1KG",
+    "Variant": null,
     "Color": "Red Filament (Glow Orange)",
     "Hex": "#FFA500"
   },
   {
     "Brand": "SUNLU",
-    "Material": "PLA",
-    "Variant": "Glow in the Dark",
+    "Material": "SUNLU Glow in The Dark (Luminous) PLA 3D Printer Filament 1KG",
+    "Variant": null,
     "Color": "Blue Filament (Glow Blue)",
     "Hex": "#0000FF"
   },
   {
     "Brand": "SUNLU",
-    "Material": "PLA",
-    "Variant": "Glow in the Dark",
+    "Material": "SUNLU Glow in The Dark (Luminous) PLA 3D Printer Filament 1KG",
+    "Variant": null,
     "Color": "Future Green (Glow Green)",
     "Hex": "#008000"
   },
   {
     "Brand": "SUNLU",
-    "Material": "PLA",
-    "Variant": "Glow in the Dark",
+    "Material": "SUNLU Glow in The Dark (Luminous) PLA 3D Printer Filament 1KG",
+    "Variant": null,
     "Color": "Cyber Orange (Glow Orange)",
     "Hex": "#FFA500"
   },
   {
     "Brand": "SUNLU",
-    "Material": "PLA",
-    "Variant": "Twinkling",
+    "Material": "SUNLU Rainbow Filament 3D Printer Filament 1KG, PLA Rainbow, SILK PLA+ Rainbow",
+    "Variant": null,
+    "Color": "Rainbow-01",
+    "Hex": null
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "SUNLU Rainbow Filament 3D Printer Filament 1KG, PLA Rainbow, SILK PLA+ Rainbow",
+    "Variant": null,
+    "Color": "Rainbow-02",
+    "Hex": null
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "SUNLU Rainbow Filament 3D Printer Filament 1KG, PLA Rainbow, SILK PLA+ Rainbow",
+    "Variant": null,
+    "Color": "Rainbow-03",
+    "Hex": null
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "SUNLU Rainbow Filament 3D Printer Filament 1KG, PLA Rainbow, SILK PLA+ Rainbow",
+    "Variant": null,
+    "Color": "Rainbow-04",
+    "Hex": null
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "SUNLU Rainbow Filament 3D Printer Filament 1KG, PLA Rainbow, SILK PLA+ Rainbow",
+    "Variant": null,
+    "Color": "Transparent Rainbow-01",
+    "Hex": null
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "SUNLU Rainbow Filament 3D Printer Filament 1KG, PLA Rainbow, SILK PLA+ Rainbow",
+    "Variant": null,
+    "Color": "Transparent Rainbow-02",
+    "Hex": null
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "SUNLU Rainbow Filament 3D Printer Filament 1KG, PLA Rainbow, SILK PLA+ Rainbow",
+    "Variant": null,
+    "Color": "Transparent Rainbow-03",
+    "Hex": null
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "SUNLU Rainbow Filament 3D Printer Filament 1KG, PLA Rainbow, SILK PLA+ Rainbow",
+    "Variant": null,
+    "Color": "Transparent Rainbow-04",
+    "Hex": null
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "SUNLU Rainbow Filament 3D Printer Filament 1KG, PLA Rainbow, SILK PLA+ Rainbow",
+    "Variant": null,
+    "Color": "Rainbow-05",
+    "Hex": null
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "SUNLU Rainbow Filament 3D Printer Filament 1KG, PLA Rainbow, SILK PLA+ Rainbow",
+    "Variant": null,
+    "Color": "Rainbow-06",
+    "Hex": null
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "SUNLU Twinkling 3D Printer PLA Filament 1KG",
+    "Variant": null,
     "Color": "Blue",
     "Hex": "#0000FF"
   },
   {
     "Brand": "SUNLU",
-    "Material": "PLA",
-    "Variant": "Twinkling",
+    "Material": "SUNLU Twinkling 3D Printer PLA Filament 1KG",
+    "Variant": null,
     "Color": "Black",
     "Hex": "#000000"
   },
@@ -3270,71 +3340,71 @@
   },
   {
     "Brand": "SUNLU",
-    "Material": "PLA",
-    "Variant": "Wood",
+    "Material": "SUNLU Wood PLA 3D Printer Filament 1KG, Optimized and Upgraded Wood Texture",
+    "Variant": null,
     "Color": "Wood",
     "Hex": null
   },
   {
     "Brand": "SUNLU",
-    "Material": "PLA",
-    "Variant": "Wood",
+    "Material": "SUNLU Wood PLA 3D Printer Filament 1KG, Optimized and Upgraded Wood Texture",
+    "Variant": null,
     "Color": "Cherry Wood",
     "Hex": "#DE3163"
   },
   {
     "Brand": "SUNLU",
-    "Material": "PLA",
-    "Variant": "Wood",
+    "Material": "SUNLU Wood PLA 3D Printer Filament 1KG, Optimized and Upgraded Wood Texture",
+    "Variant": null,
     "Color": "Walnut Wood",
     "Hex": "#773F1A"
   },
   {
     "Brand": "SUNLU",
-    "Material": "PLA",
-    "Variant": "Wood",
+    "Material": "SUNLU Wood PLA 3D Printer Filament 1KG, Optimized and Upgraded Wood Texture",
+    "Variant": null,
     "Color": "Maple Wood",
     "Hex": "#E8B84B"
   },
   {
     "Brand": "SUNLU",
-    "Material": "PETG",
-    "Variant": "Glow in the Dark",
+    "Material": "SUNLU PETG Glow in The Dark (Luminous) 3D Printer Filament 1KG",
+    "Variant": null,
     "Color": "Red Filament (Glow Red)",
     "Hex": "#FF0000"
   },
   {
     "Brand": "SUNLU",
-    "Material": "PETG",
-    "Variant": "Glow in the Dark",
+    "Material": "SUNLU PETG Glow in The Dark (Luminous) 3D Printer Filament 1KG",
+    "Variant": null,
     "Color": "Blue Filament (Glow Blue)",
     "Hex": "#0000FF"
   },
   {
     "Brand": "SUNLU",
-    "Material": "PETG",
-    "Variant": "Glow in the Dark",
+    "Material": "SUNLU PETG Glow in The Dark (Luminous) 3D Printer Filament 1KG",
+    "Variant": null,
     "Color": "Yellow Filament (Glow Yellow)",
     "Hex": "#FFFF00"
   },
   {
     "Brand": "SUNLU",
-    "Material": "PETG",
-    "Variant": "Glow in the Dark",
+    "Material": "SUNLU PETG Glow in The Dark (Luminous) 3D Printer Filament 1KG",
+    "Variant": null,
     "Color": "Green Filament (Glow Green)",
     "Hex": "#008000"
   },
   {
     "Brand": "SUNLU",
-    "Material": "PETG",
-    "Variant": "Glow in the Dark",
+    "Material": "SUNLU PETG Glow in The Dark (Luminous) 3D Printer Filament 1KG",
+    "Variant": null,
     "Color": "White Filament (Glow Green)",
     "Hex": "#008000"
   },
   {
     "Brand": "SUNLU",
-    "Material": "PETG",
-    "Variant": "Glow in the Dark",
+    "Material": "SUNLU PETG Glow in The Dark (Luminous) 3D Printer Filament 1KG",
+    "Variant": null,
     "Color": "White Filament (Glow Blue)",
     "Hex": "#0000FF"
   },
@@ -11749,6 +11819,13 @@
     "Brand": "Prusament",
     "Material": "PETG",
     "Variant": null,
+    "Color": "Prusa Galaxy Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PETG",
+    "Variant": null,
     "Color": "Ultraglow Green",
     "Hex": "#008000"
   },
@@ -11779,13 +11856,6 @@
     "Variant": null,
     "Color": "Clear",
     "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Prusa Galaxy Black",
-    "Hex": "#000000"
   },
   {
     "Brand": "Prusament",
@@ -17454,6 +17524,41 @@
     "Brand": "eSUN",
     "Material": "ASA",
     "Variant": "Plus",
+    "Color": "ASA+P175B1KG-US",
+    "Hex": null
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "ASA",
+    "Variant": "Plus",
+    "Color": "ASA+P175C-W1KG-US",
+    "Hex": null
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "ASA",
+    "Variant": "Plus",
+    "Color": "ASA+P175H1KG-US",
+    "Hex": null
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "ASA",
+    "Variant": "Plus",
+    "Color": "ASA+P175R1KG-US",
+    "Hex": null
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "ASA",
+    "Variant": "Plus",
+    "Color": "ASA+P175W-W1KG-US",
+    "Hex": null
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "ASA",
+    "Variant": "Plus",
     "Color": "Black",
     "Hex": "#000000"
   },
@@ -18590,6 +18695,62 @@
     "Variant": "Basic",
     "Color": "Orange",
     "Hex": "#FFA500"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Basic",
+    "Color": "PETG-Basic Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Basic",
+    "Color": "PETG-Basic White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Basic",
+    "Color": "PETG-Basic Clear",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Basic",
+    "Color": "PETG-Basic Grey",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Basic",
+    "Color": "PETG-Basic Silver",
+    "Hex": "#C0C0C0"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Basic",
+    "Color": "PETG-Basic Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Basic",
+    "Color": "PETG-Basic Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Basic",
+    "Color": "Translucent Green",
+    "Hex": "#008000"
   },
   {
     "Brand": "eSUN",
