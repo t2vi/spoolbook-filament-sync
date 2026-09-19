@@ -13413,6 +13413,41 @@
   },
   {
     "Brand": "Colorfabb",
+    "Material": "PET ULTRA HIGH SPEED CLEAR",
+    "Variant": null,
+    "Color": "PET ULTRA HIGH SPEED CLEAR",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Colorfabb",
+    "Material": "LW-PET FLEX MAX NATURAL",
+    "Variant": null,
+    "Color": "LW-PET FLEX MAX NATURAL",
+    "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "Colorfabb",
+    "Material": "LW-PET NATURAL",
+    "Variant": null,
+    "Color": "LW-PET NATURAL",
+    "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "Colorfabb",
+    "Material": "PET HIGH SPEED PRO NATURAL",
+    "Variant": null,
+    "Color": "PET HIGH SPEED PRO NATURAL",
+    "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "Colorfabb",
+    "Material": "LW-PET FLEX NATURAL",
+    "Variant": null,
+    "Color": "LW-PET FLEX NATURAL",
+    "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "Colorfabb",
     "Material": "TPU 95A",
     "Variant": "Varioshore",
     "Color": "NATURAL",
@@ -15706,6 +15741,13 @@
     "Variant": "Varioshore",
     "Color": "BLACK",
     "Hex": "#000000"
+  },
+  {
+    "Brand": "Colorfabb",
+    "Material": "PET FLEX MAX NATURAL",
+    "Variant": null,
+    "Color": "PET FLEX MAX NATURAL",
+    "Hex": "#F5F0E1"
   },
   {
     "Brand": "Colorfabb",
