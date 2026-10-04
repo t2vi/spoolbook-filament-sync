@@ -127,6 +127,13 @@
   },
   {
     "Brand": "Prusament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Ultraglow Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Prusament",
     "Material": "PC",
     "Variant": "Blend",
     "Color": "Jet Black",
@@ -782,13 +789,6 @@
     "Variant": "Carbon Fiber",
     "Color": "Black",
     "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Ultraglow Green",
-    "Hex": "#008000"
   },
   {
     "Brand": "Prusament",
