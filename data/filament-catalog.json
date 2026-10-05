@@ -107,6 +107,13 @@
   {
     "Brand": "Prusament",
     "Material": "PETG",
+    "Variant": "Carbon Fiber",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PETG",
     "Variant": null,
     "Color": "Galaxy Black",
     "Hex": "#000000"
@@ -781,13 +788,6 @@
     "Material": "PETG",
     "Variant": null,
     "Color": "Matte Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PETG",
-    "Variant": "Carbon Fiber",
-    "Color": "Black",
     "Hex": "#000000"
   },
   {
