@@ -9175,5 +9175,12 @@
     "Variant": "Spool-Less",
     "Color": "Apple Green",
     "Hex": "#008000"
+  },
+  {
+    "Brand": "Slic3D",
+    "Material": "PLA",
+    "Variant": "Spool-Less",
+    "Color": "Green",
+    "Hex": "#008000"
   }
 ]
