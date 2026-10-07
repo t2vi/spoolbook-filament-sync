@@ -192,13 +192,6 @@
     "Brand": "Prusament",
     "Material": "PETG",
     "Variant": null,
-    "Color": "Tungsten 75%",
-    "Hex": null
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "PETG",
-    "Variant": null,
     "Color": "Urban Grey",
     "Hex": "#808080"
   },
@@ -278,13 +271,6 @@
     "Variant": "Glass Fiber",
     "Color": "Natural",
     "Hex": "#F5F0E1"
-  },
-  {
-    "Brand": "Prusament",
-    "Material": "ASA",
-    "Variant": null,
-    "Color": "Prusa Orange",
-    "Hex": "#FFA500"
   },
   {
     "Brand": "Prusament",
@@ -509,6 +495,13 @@
     "Variant": null,
     "Color": "Army Green",
     "Hex": "#008000"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Tungsten 75%",
+    "Hex": null
   },
   {
     "Brand": "Prusament",
@@ -789,6 +782,13 @@
     "Variant": null,
     "Color": "Matte Black",
     "Hex": "#000000"
+  },
+  {
+    "Brand": "Prusament",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Prusa Orange",
+    "Hex": "#FFA500"
   },
   {
     "Brand": "Prusament",
