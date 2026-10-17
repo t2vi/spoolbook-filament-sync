@@ -69,9 +69,11 @@ impl CloakBrowserClient {
                 .await
                 .map_err(|_| "CDP navigation timed out".to_string())?
                 .map_err(|e| format!("CDP navigation failed: {e}"))?;
-            page.content()
-                .await
-                .map_err(|e| format!("CDP content read failed: {e}"))
+            let html = page.content().await.map_err(|e| format!("CDP content read failed: {e}"))?;
+            if is_bot_challenge(&html) {
+                return Err("blocked by a bot challenge".to_string());
+            }
+            Ok(html)
         }
         .await;
 
@@ -80,9 +82,24 @@ impl CloakBrowserClient {
     }
 }
 
+// A bot-protection interstitial instead of the store's page (specs/002-sources FR-003):
+// DataDome (Jaycar) or Cloudflare. Parsing one finds no products, which used to read as an
+// empty-but-successful scrape.
+pub fn is_bot_challenge(html: &str) -> bool {
+    html.contains("captcha-delivery.com") || html.contains("/cdn-cgi/challenge-platform/")
+}
+
 #[cfg(test)]
 mod tests {
     use super::*;
+
+    // spec: 002/FR-003
+    #[test]
+    fn a_datadome_or_cloudflare_challenge_page_is_recognised() {
+        assert!(is_bot_challenge(r#"<p id="cmsg">Please enable JS and disable any ad blocker</p><script src="https://ct.captcha-delivery.com/c.js"></script>"#));
+        assert!(is_bot_challenge(r#"<title>Just a moment...</title><script src="/cdn-cgi/challenge-platform/h/b/orchestrate/chl_page/v1"></script>"#));
+        assert!(!is_bot_challenge(r#"<img alt="Slic3D PLA Filament 1.75mm 1kg Black">"#));
+    }
 
     #[test]
     fn rewrite_cdp_host_replaces_internal_host_with_configured_host() {

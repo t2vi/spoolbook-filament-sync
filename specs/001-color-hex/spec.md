@@ -40,8 +40,9 @@ color, so its swatch shows each of them (spoolbook splits a hex list into diagon
 - **FR-012** — A multi-color filament whose name doesn't name its colors (e.g. "Amethyst Aria",
   "Citrus Sunrise Orange") is treated as one color (FR-001–002) — there's nothing in the name
   to split. *Verify: unit*
-- **FR-013** — Every entry with the same color name gets the same `Hex` (resolved once per
-  name). *Verify: unit*
+- **FR-013** — An entry whose source already gave it a hex (SpoolmanDB, spec 003) keeps it.
+  Every other entry gets its color name's hex, resolved once per name, so entries sharing a
+  name share it. *Verify: unit*
 
 ## Notes
 
