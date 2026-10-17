@@ -4309,7 +4309,7 @@
     "Material": "PLA",
     "Variant": "Matte",
     "Color": "Rainbow",
-    "Hex": null
+    "Hex": "#E40303, #FF8C00, #FFED00, #008026, #24408E, #732982"
   },
   {
     "Brand": "eSUN",
@@ -4582,189 +4582,189 @@
     "Material": "PLA",
     "Variant": "Silk Magic",
     "Color": "Gold+Red+Green",
-    "Hex": "#008000"
+    "Hex": "#FFD700, #FF0000, #008000"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Magic",
     "Color": "Bule+Orange+Green",
-    "Hex": "#008000"
+    "Hex": "#FFA500, #008000"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Magic",
     "Color": "Gold+Green+Black",
-    "Hex": "#000000"
+    "Hex": "#FFD700, #008000, #000000"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Magic",
     "Color": "Brone+Purple+Green",
-    "Hex": "#008000"
+    "Hex": "#800080, #008000"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Magic",
     "Color": "Blue+Red+Purple",
-    "Hex": "#800080"
+    "Hex": "#0000FF, #FF0000, #800080"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Magic",
     "Color": "Gold+Silver+Copper",
-    "Hex": "#B87333"
+    "Hex": "#FFD700, #C0C0C0, #B87333"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Magic",
     "Color": "Red+Yellow+Blue",
-    "Hex": "#0000FF"
+    "Hex": "#FF0000, #FFFF00, #0000FF"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Magic",
     "Color": "Red+Gold+Purple",
-    "Hex": "#800080"
+    "Hex": "#FF0000, #FFD700, #800080"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Magic",
     "Color": "Red+Black+Gold",
-    "Hex": "#FFD700"
+    "Hex": "#FF0000, #000000, #FFD700"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Magic",
     "Color": "Red+Green+Blue",
-    "Hex": "#0000FF"
+    "Hex": "#FF0000, #008000, #0000FF"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Magic",
     "Color": "Gold+Silver",
-    "Hex": "#C0C0C0"
+    "Hex": "#FFD700, #C0C0C0"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Magic",
     "Color": "Red+ Blue",
-    "Hex": "#0000FF"
+    "Hex": "#FF0000, #0000FF"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Magic",
     "Color": "Green+Blue",
-    "Hex": "#0000FF"
+    "Hex": "#008000, #0000FF"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Magic",
     "Color": "Black+Gold",
-    "Hex": "#FFD700"
+    "Hex": "#000000, #FFD700"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Magic",
     "Color": "Black+Red",
-    "Hex": "#FF0000"
+    "Hex": "#000000, #FF0000"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Magic",
     "Color": "Black+Green",
-    "Hex": "#008000"
+    "Hex": "#000000, #008000"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Magic",
     "Color": "Black+Purple",
-    "Hex": "#800080"
+    "Hex": "#000000, #800080"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Magic",
     "Color": "Red+Gold",
-    "Hex": "#FFD700"
+    "Hex": "#FF0000, #FFD700"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Magic",
     "Color": "Purple+Gold",
-    "Hex": "#FFD700"
+    "Hex": "#800080, #FFD700"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Magic",
     "Color": "Red+Green",
-    "Hex": "#008000"
+    "Hex": "#FF0000, #008000"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Magic",
     "Color": "Blue+Silver",
-    "Hex": "#C0C0C0"
+    "Hex": "#0000FF, #C0C0C0"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Candy",
     "Color": "Red+Gold+Blue",
-    "Hex": "#0000FF"
+    "Hex": "#FF0000, #FFD700, #0000FF"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Candy",
     "Color": "Gold+Blue+Green",
-    "Hex": "#008000"
+    "Hex": "#FFD700, #0000FF, #008000"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Candy",
     "Color": "Silver+Black",
-    "Hex": "#000000"
+    "Hex": "#C0C0C0, #000000"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Candy",
     "Color": "Red+Gold",
-    "Hex": "#FFD700"
+    "Hex": "#FF0000, #FFD700"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Candy",
     "Color": "Silver+Blue",
-    "Hex": "#0000FF"
+    "Hex": "#C0C0C0, #0000FF"
   },
   {
     "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "Silk Candy",
     "Color": "Blue+Green",
-    "Hex": "#008000"
+    "Hex": "#0000FF, #008000"
   },
   {
     "Brand": "eSUN",
@@ -6045,7 +6045,7 @@
     "Material": "TPU",
     "Variant": "95A",
     "Color": "Rainbow",
-    "Hex": null
+    "Hex": "#E40303, #FF8C00, #FFED00, #008026, #24408E, #732982"
   },
   {
     "Brand": "eSUN",
@@ -7928,14 +7928,14 @@
     "Material": "PLA",
     "Variant": null,
     "Color": "Light Rainbow",
-    "Hex": null
+    "Hex": "#E40303, #FF8C00, #FFED00, #008026, #24408E, #732982"
   },
   {
     "Brand": "Hatchbox",
     "Material": "PLA",
     "Variant": null,
     "Color": "Dark Rainbow",
-    "Hex": null
+    "Hex": "#E40303, #FF8C00, #FFED00, #008026, #24408E, #732982"
   },
   {
     "Brand": "Hatchbox",
