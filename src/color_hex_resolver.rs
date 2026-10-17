@@ -100,6 +100,31 @@ const QUALIFIER_WORDS: &[&str] = &[
     "premium", "recycled", "smooth", "rigid", "flexible", "reflective", "thermochromic",
 ];
 
+const RAINBOW: &str = "#E40303, #FF8C00, #FFED00, #008026, #24408E, #732982";
+
+// What separates the colors of a multi-color name: "Black+Gold", "Red & White", "Blue/Green",
+// "Black and White", "Black to the Fuchsia", "Blue-Purple" (a dash only between two words).
+static COLOR_SEPARATOR: std::sync::LazyLock<regex::Regex> =
+    std::sync::LazyLock::new(|| regex::Regex::new(r"(?i)\s*[+&/]\s*|\s+(?:and|to)\s+|(\pL)-(\pL)").unwrap());
+
+// The catalog's Hex for a color name (specs/001-color-hex): the rainbow bands for a rainbow
+// name (FR-011), one hex per named color when at least two resolve (FR-010), else one color.
+pub fn resolve_hex(name: &str) -> Option<String> {
+    if name.split(|c: char| !c.is_alphabetic()).any(|w| w.eq_ignore_ascii_case("rainbow")) {
+        return Some(RAINBOW.to_string());
+    }
+    // Keep the letters either side of a word-joining dash: "Blue-Purple" → "Blue|Purple".
+    let marked = COLOR_SEPARATOR.replace_all(name, |c: &regex::Captures| match (c.get(1), c.get(2)) {
+        (Some(a), Some(b)) => format!("{}|{}", a.as_str(), b.as_str()),
+        _ => "|".to_string(),
+    });
+    let colors: Vec<String> = marked.split('|').filter_map(resolve).collect();
+    if colors.len() >= 2 {
+        return Some(colors.join(", "));
+    }
+    resolve(name)
+}
+
 pub fn resolve(name: &str) -> Option<String> {
     let normalized = normalize(name);
     if let Some(hex) = try_lookup(&normalized) {
@@ -177,5 +202,45 @@ mod tests {
     #[test]
     fn resolve_returns_none_for_an_unrecognized_name() {
         assert_eq!(resolve("Zorplex Nine"), None);
+    }
+
+    fn hex(s: &str) -> Option<String> {
+        Some(s.to_string())
+    }
+
+    // spec: 001/FR-010
+    #[test]
+    fn resolve_hex_gives_each_named_color_in_order() {
+        assert_eq!(resolve_hex("Black+Gold"), hex("#000000, #FFD700"));
+        assert_eq!(resolve_hex("Blue+Red+Purple"), hex("#0000FF, #FF0000, #800080"));
+        assert_eq!(resolve_hex("Red & White"), hex("#FF0000, #FFFFFF"));
+        assert_eq!(resolve_hex("Blue/Green"), hex("#0000FF, #008000"));
+        assert_eq!(resolve_hex("Black and White"), hex("#000000, #FFFFFF"));
+        assert_eq!(resolve_hex("Black to the Fuchsia"), hex("#000000, #FF00FF"));
+        assert_eq!(resolve_hex("Gradient Celestial Blue-Purple"), hex("#0000FF, #800080"));
+    }
+
+    // spec: 001/FR-010
+    #[test]
+    fn resolve_hex_leaves_out_parts_it_cannot_resolve() {
+        assert_eq!(resolve_hex("Bule+Orange+Green"), hex("#FFA500, #008000"));
+    }
+
+    // spec: 001/FR-010, 001/FR-012
+    #[test]
+    fn resolve_hex_treats_a_name_with_fewer_than_two_known_parts_as_one_color() {
+        assert_eq!(resolve_hex("Bule+Green"), hex("#008000"));
+        assert_eq!(resolve_hex("Tiger-Porphyry"), None);
+        assert_eq!(resolve_hex("Citrus Sunrise Orange"), hex("#FFA500"));
+        assert_eq!(resolve_hex("Jade White"), hex("#FFFFFF"));
+    }
+
+    // spec: 001/FR-011
+    #[test]
+    fn resolve_hex_gives_rainbow_names_the_six_bands() {
+        let bands = hex("#E40303, #FF8C00, #FFED00, #008026, #24408E, #732982");
+        for name in ["Rainbow", "rainbow", "Rainbow-03", "Dark Rainbow", "Gradient Luminous Rainbow", "Candy Rainbow Glow"] {
+            assert_eq!(resolve_hex(name), bands, "{name}");
+        }
     }
 }
