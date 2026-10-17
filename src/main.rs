@@ -112,7 +112,7 @@ fn dedupe_and_resolve_hex(entries: Vec<FilamentSyncEntry>) -> Vec<FilamentSyncEn
     for entry in &deduped {
         hex_by_color
             .entry(entry.color.clone())
-            .or_insert_with(|| color_hex_resolver::resolve(&entry.color));
+            .or_insert_with(|| color_hex_resolver::resolve_hex(&entry.color));
     }
 
     deduped
@@ -122,4 +122,22 @@ fn dedupe_and_resolve_hex(entries: Vec<FilamentSyncEntry>) -> Vec<FilamentSyncEn
             e
         })
         .collect()
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    // spec: 001/FR-013, 001/FR-010
+    #[test]
+    fn every_entry_with_the_same_color_name_gets_the_same_hex() {
+        let entries = vec![
+            FilamentSyncEntry::new("A", "PLA", None, "Black+Gold"),
+            FilamentSyncEntry::new("B", "PETG", Some("Silk".to_string()), "Black+Gold"),
+            FilamentSyncEntry::new("B", "PETG", Some("Silk".to_string()), "Black+Gold"),
+        ];
+        let resolved = dedupe_and_resolve_hex(entries);
+        assert_eq!(resolved.len(), 2);
+        assert!(resolved.iter().all(|e| e.hex.as_deref() == Some("#000000, #FFD700")));
+    }
 }
