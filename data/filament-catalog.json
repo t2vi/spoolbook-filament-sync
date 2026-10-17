@@ -6195,6 +6195,944 @@
     "Hex": "#FFA500"
   },
   {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Jade White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Beige",
+    "Hex": "#F5F5DC"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Light Gray",
+    "Hex": "#D3D3D3"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Sunflower Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Pumpkin Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Gold",
+    "Hex": "#FFD700"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Bright Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Bambu Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Mistletoe Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Hot Pink",
+    "Hex": "#FF69B4"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Magenta",
+    "Hex": "#FF00FF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Maroon Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Indigo Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Turquoise",
+    "Hex": "#40E0D0"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Cyan",
+    "Hex": "#00FFFF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Cobalt Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Cocoa Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Bronze",
+    "Hex": "#CD7F32"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Silver",
+    "Hex": "#C0C0C0"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Blue Grey",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Dark Gray",
+    "Hex": "#A9A9A9"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG HF</span>",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG HF</span>",
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG HF</span>",
+    "Color": "Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG HF</span>",
+    "Color": "Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG HF</span>",
+    "Color": "Dark Gray",
+    "Hex": "#A9A9A9"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG HF</span>",
+    "Color": "Cream",
+    "Hex": "#FFFDD0"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG HF</span>",
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG HF</span>",
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG HF</span>",
+    "Color": "Peanut Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG HF</span>",
+    "Color": "Lime Green",
+    "Hex": "#32CD32"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG HF</span>",
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG HF</span>",
+    "Color": "Forest Green",
+    "Hex": "#228B22"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG HF</span>",
+    "Color": "Lake Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG HF</span>",
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG Translucent</span>",
+    "Color": "Teal",
+    "Hex": "#008080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG Translucent</span>",
+    "Color": "Light Blue",
+    "Hex": "#ADD8E6"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG Translucent</span>",
+    "Color": "Clear",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG Translucent</span>",
+    "Color": "Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG Translucent</span>",
+    "Color": "Olive",
+    "Hex": "#808000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG Translucent</span>",
+    "Color": "Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG Translucent</span>",
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG Translucent</span>",
+    "Color": "Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG Translucent</span>",
+    "Color": "Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Translucent</span>",
+    "Color": "Teal",
+    "Hex": "#008080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Translucent</span>",
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Translucent</span>",
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Translucent</span>",
+    "Color": "Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Translucent</span>",
+    "Color": "Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Translucent</span>",
+    "Color": "Light Jade",
+    "Hex": "#00A86B"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Translucent</span>",
+    "Color": "Mellow Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Translucent</span>",
+    "Color": "Cherry Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Translucent</span>",
+    "Color": "Ice Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Translucent</span>",
+    "Color": "Lavender",
+    "Hex": "#E6E6FA"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Ivory White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Bone White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Lemon Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Mandarin Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Sakura Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Lilac purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Plum",
+    "Hex": "#DDA0DD"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Scarlet Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Dark Red",
+    "Hex": "#8B0000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Apple Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Grass Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Dark Green",
+    "Hex": "#006400"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Ice Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Sky Blue",
+    "Hex": "#87CEEB"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Marine Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Dark Blue",
+    "Hex": "#00008B"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Desert Tan",
+    "Hex": "#D2B48C"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Latte Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Caramel",
+    "Hex": "#C68E17"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Terracotta",
+    "Hex": "#E2725B"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Dark Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Dark Chocolate",
+    "Hex": "#D2691E"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Ash Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Nardo Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Charcoal",
+    "Hex": "#36454F"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk+</span>",
+    "Color": "Gold",
+    "Hex": "#FFD700"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk+</span>",
+    "Color": "Titan Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk+</span>",
+    "Color": "Silver",
+    "Hex": "#C0C0C0"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk+</span>",
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk+</span>",
+    "Color": "Candy Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk+</span>",
+    "Color": "Candy Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk+</span>",
+    "Color": "Mint",
+    "Hex": "#98FF98"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk+</span>",
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk+</span>",
+    "Color": "Baby Blue",
+    "Hex": "#89CFF0"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk+</span>",
+    "Color": "Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk+</span>",
+    "Color": "Rose Gold",
+    "Hex": "#B76E79"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk+</span>",
+    "Color": "Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk+</span>",
+    "Color": "Champagne",
+    "Hex": "#F7E7CE"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">ABS</span>",
+    "Color": "Silver",
+    "Hex": "#C0C0C0"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">ABS</span>",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">ABS</span>",
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">ABS</span>",
+    "Color": "Bambu Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">ABS</span>",
+    "Color": "Olive",
+    "Hex": "#808000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">ABS</span>",
+    "Color": "Tangerine Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">ABS</span>",
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">ABS</span>",
+    "Color": "Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">ABS</span>",
+    "Color": "Azure",
+    "Hex": "#F0FFFF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">ABS</span>",
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">ABS</span>",
+    "Color": "Navy Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Pure</span>",
+    "Color": "Milky Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Pure</span>",
+    "Color": "Baby Blue",
+    "Hex": "#89CFF0"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Pure</span>",
+    "Color": "Apricot",
+    "Hex": "#FBCEB1"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Pure</span>",
+    "Color": "Pure White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Pure</span>",
+    "Color": "Absolute Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Tough+</span>",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Tough+</span>",
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Tough+</span>",
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Tough+</span>",
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Tough+</span>",
+    "Color": "Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Tough+</span>",
+    "Color": "Silver",
+    "Hex": "#C0C0C0"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Tough+</span>",
+    "Color": "Cyan",
+    "Hex": "#00FFFF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk Multi-Color</span>",
+    "Color": "Dawn Radiance",
+    "Hex": null
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk Multi-Color</span>",
+    "Color": "Aurora Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk Multi-Color</span>",
+    "Color": "South Beach",
+    "Hex": null
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk Multi-Color</span>",
+    "Color": "Phantom Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk Multi-Color</span>",
+    "Color": "Mystic Magenta",
+    "Hex": "#FF00FF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk Multi-Color</span>",
+    "Color": "Neon City",
+    "Hex": null
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk Multi-Color</span>",
+    "Color": "Midnight Blaze",
+    "Hex": "#FF6600"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk Multi-Color</span>",
+    "Color": "Gilded Rose",
+    "Hex": null
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk Multi-Color</span>",
+    "Color": "Blue Hawaii",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Silk Multi-Color</span>",
+    "Color": "Velvet Eclipse",
+    "Hex": null
+  },
+  {
     "Brand": "Hatchbox",
     "Material": "PLA",
     "Variant": "Silk",
@@ -8391,110 +9329,5 @@
     "Variant": null,
     "Color": "Light Blue",
     "Hex": "#ADD8E6"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Grey",
-    "Hex": "#808080"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Orange",
-    "Hex": "#FFA500"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Yellow",
-    "Hex": "#FFFF00"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Brown",
-    "Hex": "#A52A2A"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Pink",
-    "Hex": "#FFC0CB"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Grey",
-    "Hex": "#808080"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Yellow",
-    "Hex": "#FFFF00"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Red",
-    "Hex": "#FF0000"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Apple Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "Slic3D",
-    "Material": "PLA",
-    "Variant": "Spool-Less",
-    "Color": "Green",
-    "Hex": "#008000"
   }
 ]
