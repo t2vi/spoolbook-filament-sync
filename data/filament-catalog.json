@@ -33833,27 +33833,6 @@
   {
     "Brand": "eSUN",
     "Material": "PEBA",
-    "Variant": "90A",
-    "Color": "White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PEBA",
-    "Variant": "90A",
-    "Color": "Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PEBA",
-    "Variant": "90A",
-    "Color": "Grey",
-    "Hex": "#808080"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PEBA",
     "Variant": "85A",
     "Color": "Black",
     "Hex": "#000000"
