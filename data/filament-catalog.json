@@ -31963,6 +31963,27 @@
   },
   {
     "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Deep Black+Milky White+Light Khaki+Almond Yellow",
+    "Hex": "#000000, #FFFFFF, #F0E68C, #FFFF00"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Light Khaki+Almond Yellow+Lake Blue+Matcha Green",
+    "Hex": "#F0E68C, #FFFF00, #0000FF, #008000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Deep Black*2+Milky White*2",
+    "Hex": "#000000, #FFFFFF"
+  },
+  {
+    "Brand": "eSUN",
     "Material": "PETG",
     "Variant": null,
     "Color": "Solid Black",
@@ -33920,13 +33941,6 @@
     "Variant": "Plus",
     "Color": "ASA+P175W-W1KG-US",
     "Hex": null
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Matte",
-    "Color": "Deep Black+Milky White+Light Khaki+Almond Yellow",
-    "Hex": "#000000, #FFFFFF, #F0E68C, #FFFF00"
   },
   {
     "Brand": "eSUN",
