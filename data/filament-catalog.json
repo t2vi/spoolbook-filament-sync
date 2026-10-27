@@ -1,5 +1,33 @@
 [
   {
+    "Brand": "3D Printing Canada",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Budget Dark Green",
+    "Hex": "#013220"
+  },
+  {
+    "Brand": "3D Printing Canada",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Budget Latte",
+    "Hex": "#E1C69E"
+  },
+  {
+    "Brand": "3D Printing Canada",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Budget Light Blue",
+    "Hex": "#66CCFF"
+  },
+  {
+    "Brand": "3D Printing Canada",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Budget Olive Green",
+    "Hex": "#336633"
+  },
+  {
     "Brand": "3D-Fuel",
     "Material": "PLA+",
     "Variant": null,
@@ -278,6 +306,1056 @@
     "Variant": null,
     "Color": "Warm Bisque",
     "Hex": "#EFC8BF"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "ABS+",
+    "Variant": null,
+    "Color": "Blue",
+    "Hex": "#3160AE"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "ABS+",
+    "Variant": null,
+    "Color": "Brown",
+    "Hex": "#604340"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "ABS+",
+    "Variant": null,
+    "Color": "Clear",
+    "Hex": "#E2E2E4"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "ABS+",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#39B3B8"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "ABS+",
+    "Variant": null,
+    "Color": "Grey",
+    "Hex": "#606A83"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "ABS+",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#FC6F61"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "ABS+",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#EEEBE5"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Blue",
+    "Hex": "#000CBF"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Green",
+    "Hex": "#10D060"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Natural",
+    "Hex": "#E1D9E9"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Orange",
+    "Hex": "#FE7B05"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Solid Black",
+    "Hex": "#171720"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Solid Blue",
+    "Hex": "#1A3374"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Solid Grey",
+    "Hex": "#707589"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Solid Red",
+    "Hex": "#FD5959"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Solid Silver",
+    "Hex": "#D6DBDE"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Solid White",
+    "Hex": "#FCFAFF"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Black",
+    "Hex": "#111111"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Blue",
+    "Hex": "#1B4A95"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Cold White",
+    "Hex": "#D8DDE6"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Fire Engine Red",
+    "Hex": "#83282D"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Green",
+    "Hex": "#19912E"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Grey",
+    "Hex": "#495760"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Light Blue",
+    "Hex": "#7CBBF9"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Light Gray",
+    "Hex": "#567484"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Orange",
+    "Hex": "#F8632A"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Pink",
+    "Hex": "#FF5E6B"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Purple",
+    "Hex": "#C72F8C"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Silver",
+    "Hex": "#B1B0AE"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic White",
+    "Hex": "#E3E0DC"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Crystal Rainbow Flame",
+    "Hex": "#DF6360, #F69875"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Crystal Rainbow Galaxy",
+    "Hex": "#4D9CA1, #948149"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Crystal Rainbow Glacier",
+    "Hex": "#32C0E4, #C5EDF7"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Crystal Rainbow Late Autumn",
+    "Hex": "#982316, #E0861F, #302438"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Crystal Rainbow Maple Leaf",
+    "Hex": "#F1545E, #EBA744, #37806C"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Crystal Rainbow Nebulae",
+    "Hex": "#515FF4, #571F60"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Crystal Rainbow Prairie",
+    "Hex": "#24D2D3, #4BE5A5"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Crystal Rainbow Wheat Field",
+    "Hex": "#F9AD29, #73C749"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Black",
+    "Hex": "#111112"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Blue",
+    "Hex": "#1E3E94"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Cold White",
+    "Hex": "#F5F5F8"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Fire Engine Red",
+    "Hex": "#93181D"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Green",
+    "Hex": "#0E2B32"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Grey",
+    "Hex": "#888889"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Red",
+    "Hex": "#FF443B"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Very Peri",
+    "Hex": "#6A74CB"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite White",
+    "Hex": "#FFFFFD"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Yellow",
+    "Hex": "#FEEC02"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Almond Yellow",
+    "Hex": "#FFF08C"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Brown",
+    "Hex": "#8C6B67"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Dark Grey",
+    "Hex": "#4D5970"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Deep Black",
+    "Hex": "#000001"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Fire Engine Red",
+    "Hex": "#DE3135"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Light Blue",
+    "Hex": "#3CD0F1"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Light Khaki",
+    "Hex": "#E3DDCA"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Milky White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Mint Green",
+    "Hex": "#A7E9C7"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Morandi Green",
+    "Hex": "#144D5C"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Morandi Purple",
+    "Hex": "#C26368"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Olive Green",
+    "Hex": "#748265"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Peach Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Strawberry red",
+    "Hex": "#FE6371"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Tangerine",
+    "Hex": "#FF8901"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Almond Yellow",
+    "Hex": "#E3DB93"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Baby Blue",
+    "Hex": "#C5F4FF"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Beige",
+    "Hex": "#F1D0B4"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Black",
+    "Hex": "#111112"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Blue",
+    "Hex": "#0259FA"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Bone White",
+    "Hex": "#D8C9A3"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Brown",
+    "Hex": "#4D2E1A"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Cold White",
+    "Hex": "#F5F5F8"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Coral Orange",
+    "Hex": "#FF7500"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Green",
+    "Hex": "#11454B"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Grey",
+    "Hex": "#6B7085"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Haze Blue",
+    "Hex": "#6290B9"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Light Blue",
+    "Hex": "#3CD0F1"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Lilac",
+    "Hex": "#ECB0EF"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Magenta",
+    "Hex": "#DF3D88"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Matcha Green",
+    "Hex": "#A9C29A"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Orange",
+    "Hex": "#F36C22"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Peak Green",
+    "Hex": "#4BCB43"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Pine Green",
+    "Hex": "#13403A"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Pink",
+    "Hex": "#FC737D"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Purple",
+    "Hex": "#843C9F"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Red",
+    "Hex": "#D62F36"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Silver",
+    "Hex": "#D3D3D4"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Soft Pink",
+    "Hex": "#FAB1BC"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Space Blue",
+    "Hex": "#81C5E0"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Yellow",
+    "Hex": "#FEE301"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Rapid Black",
+    "Hex": "#191A1C"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Rapid Blue",
+    "Hex": "#043A87"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Rapid Grey",
+    "Hex": "#A09DA7"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Rapid Orange",
+    "Hex": "#FE6E38"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Rapid Red",
+    "Hex": "#F8211E"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Rapid White",
+    "Hex": "#ECEBE8"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Rapid Yellow",
+    "Hex": "#FEBF25"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Black Gold",
+    "Hex": "#080808, #FDAE49"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Black Green",
+    "Hex": "#080808, #00DFA3"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Black Purple",
+    "Hex": "#080808, #953ECD"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Black Red",
+    "Hex": "#FB323A, #292927"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Black Red Gold",
+    "Hex": "#313234, #EA4857, #FECC5D"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Blue",
+    "Hex": "#035FF1"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Blue Green",
+    "Hex": "#0038BF, #116D48"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Blue Green Orange",
+    "Hex": "#1A52E7, #54FD88, #FF8B64"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Blue Purple",
+    "Hex": "#2B6EF1, #9C37D3"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Blue Purple Red",
+    "Hex": "#2976D6, #983AD8, #DA5292"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Blue Silver",
+    "Hex": "#0C51C6, #E3EAF4"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Bronze",
+    "Hex": "#5C532F"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Copper",
+    "Hex": "#DC7D50"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Gold",
+    "Hex": "#FEBE27"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Gold Silver",
+    "Hex": "#FECC5D, #E3EAF4"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Gold Silver Copper",
+    "Hex": "#FECC5D, #E3EAF4, #BD5C4C"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Green",
+    "Hex": "#1BE11A"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Pink",
+    "Hex": "#F0B5C3"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Purple",
+    "Hex": "#854194"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Purple Gold",
+    "Hex": "#9C37D3, #FCD35D"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Purple Green",
+    "Hex": "#CB329C, #00905C"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Rainbow Blood Orange",
+    "Hex": "#D64132, #FF7939, #D2A64D"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Rainbow Coral Reef",
+    "Hex": "#EEDA6A, #216F73, #9D5583"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Rainbow Fiery Rose",
+    "Hex": "#E21F18, #FD6A1A"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Rainbow Ivy",
+    "Hex": "#FAD867, #85B84F, #2A7087"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Rainbow Lavender",
+    "Hex": "#85B5D9, #BF9AD8, #C5A165"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Rainbow Macaron",
+    "Hex": "#96D7CB, #F6A6A6, #E3D75F"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Rainbow Tulipa",
+    "Hex": "#D33E37, #779861, #FCC187"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Red",
+    "Hex": "#CB4F4C"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Red Blue",
+    "Hex": "#E135A1, #49B8EF"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Red Gold",
+    "Hex": "#FE2B34, #FFC255"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Red Gold Purple",
+    "Hex": "#FC5078, #FEC957, #833DAD"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Red Green",
+    "Hex": "#F33267, #40CF4F"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Red Green Blue",
+    "Hex": "#DB43A5, #138456, #2572D0"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Red Yellow Blue",
+    "Hex": "#FC5078, #FCF366, #2B7DD1"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Silver",
+    "Hex": "#C0C0C1"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk White",
+    "Hex": "#FDFDFD"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Wood Natural",
+    "Hex": "#F0DBA6"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA-CF",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#363538"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA-CF",
+    "Variant": null,
+    "Color": "Brown",
+    "Hex": "#626255"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA-CF",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#5C6E64"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA-CF",
+    "Variant": null,
+    "Color": "Purple",
+    "Hex": "#5E566B"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "PLA-CF",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#735851"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "Clear",
+    "Hex": "#E7E6E4"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "Grey",
+    "Hex": "#A0A4A7"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "Transparent Blue",
+    "Hex": "#1094E7"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "Transparent Green",
+    "Hex": "#6AE740"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "Transparent Orange",
+    "Hex": "#FE9202"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "Transparent Pink",
+    "Hex": "#FE7F96"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "Transparent Purple",
+    "Hex": "#9E2081"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "Transparent Red",
+    "Hex": "#D21112"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "Transparent Yellow",
+    "Hex": "#EBF205"
+  },
+  {
+    "Brand": "3DHoJor",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
   },
   {
     "Brand": "3DJAKE",
@@ -845,6 +1923,111 @@
     "Variant": null,
     "Color": "Yellow",
     "Hex": "#EDFF21"
+  },
+  {
+    "Brand": "3DO",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#0A0A0A"
+  },
+  {
+    "Brand": "3DO",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#A02128"
+  },
+  {
+    "Brand": "3DO",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "3DO",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#0A0A0A"
+  },
+  {
+    "Brand": "3DO",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Transparent",
+    "Hex": "#EDEDED"
+  },
+  {
+    "Brand": "3DO",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Anthracite",
+    "Hex": "#373F43"
+  },
+  {
+    "Brand": "3DO",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Army Green",
+    "Hex": "#4B573E"
+  },
+  {
+    "Brand": "3DO",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#0A0A0A"
+  },
+  {
+    "Brand": "3DO",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Brown",
+    "Hex": "#6F4A2F"
+  },
+  {
+    "Brand": "3DO",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Orange",
+    "Hex": "#FF2300"
+  },
+  {
+    "Brand": "3DO",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#A02128"
+  },
+  {
+    "Brand": "3DO",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silver",
+    "Hex": "#8F999F"
+  },
+  {
+    "Brand": "3DO",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Steel Blue",
+    "Hex": "#232D53"
+  },
+  {
+    "Brand": "3DO",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Stone Grey",
+    "Hex": "#939388"
+  },
+  {
+    "Brand": "3DO",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
   },
   {
     "Brand": "3DXTECH",
@@ -2397,6 +3580,48 @@
     "Brand": "Ambrosia",
     "Material": "ABS",
     "Variant": null,
+    "Color": "Matte Black",
+    "Hex": "#25282A"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Matte British Racing Green",
+    "Hex": "#2D6467"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Matte Galactic Black",
+    "Hex": "#454546"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Matte Grey Abyss",
+    "Hex": "#4B4747"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Matte Hot Pink",
+    "Hex": "#FA008A"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Matte Voron Red",
+    "Hex": "#A12336"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ABS",
+    "Variant": null,
     "Color": "Voron Red",
     "Hex": "#A12336"
   },
@@ -2565,8 +3790,141 @@
     "Brand": "Ambrosia",
     "Material": "ASA",
     "Variant": null,
+    "Color": "Galactic Armored Turtle Green",
+    "Hex": "#0E945B"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ASA",
+    "Variant": null,
     "Color": "Galactic Black",
     "Hex": "#352F38"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Galactic Black Multi Color Glitter",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Galactic Galactic Black",
+    "Hex": "#352F38"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Galactic Galactic Glow",
+    "Hex": "#00ED60"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Galactic Galactic Grape",
+    "Hex": "#A82A82"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Galactic Galactic Green",
+    "Hex": "#0AF53D"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Galactic Galactic Grey",
+    "Hex": "#79797B"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Galactic Galactic Holiday Green",
+    "Hex": "#C8D639"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Galactic Galactic Holiday Red",
+    "Hex": "#EF2D1D"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Galactic Galactic Hot Pink",
+    "Hex": "#FF3486"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Galactic Galactic Midnight Meteorite",
+    "Hex": "#40298E"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Galactic Galactic Pink",
+    "Hex": "#FF54AE"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Galactic Galactic Planetary Blue",
+    "Hex": "#23ADE9"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Galactic Galactic Quadra Teal",
+    "Hex": "#22AAC9"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Galactic Galactic Santa's Robe",
+    "Hex": "#FC3629"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Galactic Galactic Super Blue",
+    "Hex": "#2055E0"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Galactic Galactic Super Red",
+    "Hex": "#EE3329"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Galactic Galactic Voron Red",
+    "Hex": "#BC2421"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Galactic Galactic Yellow",
+    "Hex": "#D2DC22"
   },
   {
     "Brand": "Ambrosia",
@@ -2656,6 +4014,13 @@
     "Brand": "Ambrosia",
     "Material": "ASA",
     "Variant": null,
+    "Color": "Galactic Skin Rash (Light)",
+    "Hex": "#CE9E7E"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ASA",
+    "Variant": null,
     "Color": "Galactic Super Blue",
     "Hex": "#2055E0"
   },
@@ -2665,6 +4030,13 @@
     "Variant": null,
     "Color": "Galactic Super Red",
     "Hex": "#EE3329"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Galactic Supernova Black",
+    "Hex": "#2A292E"
   },
   {
     "Brand": "Ambrosia",
@@ -2889,6 +4261,27 @@
     "Variant": null,
     "Color": "Voron Red",
     "Hex": "#A12336"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PC+ABS",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PC+ABS",
+    "Variant": null,
+    "Color": "Galactic Black",
+    "Hex": "#000002"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PC+ABS",
+    "Variant": null,
+    "Color": "Galactic Grey",
+    "Hex": "#79797B"
   },
   {
     "Brand": "Ambrosia",
@@ -3167,6 +4560,111 @@
     "Brand": "Ambrosia",
     "Material": "PLA",
     "Variant": null,
+    "Color": "Galactic Armored Turtle Green",
+    "Hex": "#0E945B"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Galactic Galactic Glow Blue",
+    "Hex": "#09D6EB"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Galactic Galactic Glow Green",
+    "Hex": "#00ED60"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Galactic Galactic Grape",
+    "Hex": "#A82A82"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Galactic Galactic Green",
+    "Hex": "#0AF53D"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Galactic Galactic Grey",
+    "Hex": "#79797B"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Galactic Galactic Hot Pink",
+    "Hex": "#FA008A"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Galactic Galactic Midnight Meteorite",
+    "Hex": "#40298E"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Galactic Galactic Pink",
+    "Hex": "#FF54AE"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Galactic Galactic Planetary Blue",
+    "Hex": "#23ADE9"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Galactic Galactic Quadra Teal",
+    "Hex": "#009CA6"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Galactic Galactic Super Blue",
+    "Hex": "#2055E0"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Galactic Galactic Velvet Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Galactic Galactic Voron Red",
+    "Hex": "#BC2421"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Galactic Galactic Yellow",
+    "Hex": "#D2DC22"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "Galactic Glow Blue",
     "Hex": "#09D6EB"
   },
@@ -3197,6 +4695,20 @@
     "Variant": null,
     "Color": "Galactic Grey",
     "Hex": "#79797B"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Galactic Holiday Green",
+    "Hex": "#C8D639"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Galactic Holiday Red",
+    "Hex": "#EF2D1D"
   },
   {
     "Brand": "Ambrosia",
@@ -3237,8 +4749,22 @@
     "Brand": "Ambrosia",
     "Material": "PLA",
     "Variant": null,
+    "Color": "Galactic Santa's Robe",
+    "Hex": "#FC3629"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "Galactic Super Blue",
     "Hex": "#2055E0"
+  },
+  {
+    "Brand": "Ambrosia",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Galactic Supernova Black",
+    "Hex": "#2A292E"
   },
   {
     "Brand": "Ambrosia",
@@ -3526,6 +5052,83 @@
     "Variant": null,
     "Color": "Black",
     "Hex": "#000000"
+  },
+  {
+    "Brand": "AmeLeis",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Brick Red",
+    "Hex": "#AA524D"
+  },
+  {
+    "Brand": "AmeLeis",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pastel Blue",
+    "Hex": "#A7C7E7"
+  },
+  {
+    "Brand": "AmeLeis",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pastel Mint",
+    "Hex": "#C2E5D3"
+  },
+  {
+    "Brand": "AmeLeis",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pastel Pink",
+    "Hex": "#FFB3DE"
+  },
+  {
+    "Brand": "AmeLeis",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pastel Purple",
+    "Hex": "#B19CD9"
+  },
+  {
+    "Brand": "AmeLeis",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Peach",
+    "Hex": "#FFF0DB"
+  },
+  {
+    "Brand": "Artillery",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Artillery",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Blue",
+    "Hex": "#290FF0"
+  },
+  {
+    "Brand": "Artillery",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Gray",
+    "Hex": "#707F89"
+  },
+  {
+    "Brand": "Artillery",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Red",
+    "Hex": "#C8102E"
+  },
+  {
+    "Brand": "Artillery",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic White",
+    "Hex": "#FFFFFF"
   },
   {
     "Brand": "AzureFilm",
@@ -5033,6 +6636,34 @@
     "Hex": "#EDF6F2"
   },
   {
+    "Brand": "BIQU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "GO Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "BIQU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "GO Blue",
+    "Hex": "#061DCB"
+  },
+  {
+    "Brand": "BIQU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "GO Gray",
+    "Hex": "#6B6B6B"
+  },
+  {
+    "Brand": "BIQU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "GO White",
+    "Hex": "#FFFFFF"
+  },
+  {
     "Brand": "CC3D",
     "Material": "ABS",
     "Variant": null,
@@ -5101,6 +6732,13 @@
     "Variant": null,
     "Color": "Silk Gold",
     "Hex": "#FFDF00"
+  },
+  {
+    "Brand": "CHCKX",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#80FF00"
   },
   {
     "Brand": "CR3D",
@@ -8725,7 +10363,7 @@
     "Brand": "Extrudr",
     "Material": "ABS",
     "Variant": null,
-    "Color": "DuraPro - Black ",
+    "Color": "DuraPro - Black",
     "Hex": "#1E1E1E"
   },
   {
@@ -8788,7 +10426,7 @@
     "Brand": "Extrudr",
     "Material": "ASA",
     "Variant": null,
-    "Color": "DuraPro - Black ",
+    "Color": "DuraPro - Black",
     "Hex": "#1E1E1E"
   },
   {
@@ -8935,7 +10573,7 @@
     "Brand": "Extrudr",
     "Material": "BIOFUSION",
     "Variant": null,
-    "Color": "Jet Black ",
+    "Color": "Jet Black",
     "Hex": "#282828"
   },
   {
@@ -8991,7 +10629,7 @@
     "Brand": "Extrudr",
     "Material": "GREENTEC",
     "Variant": null,
-    "Color": "Black ",
+    "Color": "Black",
     "Hex": "#1E1E1E"
   },
   {
@@ -9019,7 +10657,7 @@
     "Brand": "Extrudr",
     "Material": "GREENTEC",
     "Variant": null,
-    "Color": "Pro Black ",
+    "Color": "Pro Black",
     "Hex": "#1E1E1E"
   },
   {
@@ -9236,7 +10874,7 @@
     "Brand": "Extrudr",
     "Material": "PETG",
     "Variant": null,
-    "Color": "Hellfire Red ",
+    "Color": "Hellfire Red",
     "Hex": "#F80000"
   },
   {
@@ -9481,7 +11119,7 @@
     "Brand": "Extrudr",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Basic - Black ",
+    "Color": "Basic - Black",
     "Hex": "#1E1E1E"
   },
   {
@@ -9523,7 +11161,7 @@
     "Brand": "Extrudr",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Basic - Transparent ",
+    "Color": "Basic - Transparent",
     "Hex": "#FFFFFF"
   },
   {
@@ -9532,6 +11170,153 @@
     "Variant": null,
     "Color": "Basic - White",
     "Hex": "#F4F4F4"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS - Anthracite",
+    "Hex": "#293133"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS - Black",
+    "Hex": "#1E1E1E"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS - Brown",
+    "Hex": "#59351F"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS - Grey",
+    "Hex": "#CAC4B0"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS - Hellfire Red",
+    "Hex": "#F80000"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS - Light Blue",
+    "Hex": "#3B83BD"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS - Metallic Grey",
+    "Hex": "#828282"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS - Military Beige",
+    "Hex": "#C2B078"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS - Military Green",
+    "Hex": "#424632"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS - Navy Blue",
+    "Hex": "#1D1E33"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS - Neon Green",
+    "Hex": "#98FA42"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS - Neon Orange",
+    "Hex": "#FF2301"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS - Neon Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS - Orange",
+    "Hex": "#F54021"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS - Pastel Blue",
+    "Hex": "#A7C9E5"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS - Pastel Green",
+    "Hex": "#A5D0B7"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS - Red",
+    "Hex": "#A52019"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS - Silver",
+    "Hex": "#A5A5A5"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS - Turquoise",
+    "Hex": "#3F888F"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS - White",
+    "Hex": "#F4F4F4"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS - Yellow",
+    "Hex": "#FAD201"
   },
   {
     "Brand": "Extrudr",
@@ -9586,7 +11371,7 @@
     "Brand": "Extrudr",
     "Material": "PLA",
     "Variant": null,
-    "Color": "NX2-MATT - Hellfire Red ",
+    "Color": "NX2-MATT - Hellfire Red",
     "Hex": "#F80000"
   },
   {
@@ -9726,7 +11511,7 @@
     "Brand": "Extrudr",
     "Material": "TPU",
     "Variant": null,
-    "Color": "FLEX - Hellfire Red  - Medium",
+    "Color": "FLEX - Hellfire Red - Medium",
     "Hex": "#F80000"
   },
   {
@@ -14483,6 +16268,279 @@
     "Hex": "#38D3EC"
   },
   {
+    "Brand": "Inslogic",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#201F1F"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#F6F5F2"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pro Black",
+    "Hex": "#101820"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pro Blue",
+    "Hex": "#0032A0"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pro Green",
+    "Hex": "#00B140"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pro Grey",
+    "Hex": "#A7A8A9"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pro Mint Green",
+    "Hex": "#11BBA9"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pro Orange",
+    "Hex": "#FF6A13"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pro Pink",
+    "Hex": "#E4007E"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pro Red",
+    "Hex": "#CD001A"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pro Sky Blue",
+    "Hex": "#00A3E0"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pro White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pro Yellow",
+    "Hex": "#F8E600"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High-Speed Pro Black",
+    "Hex": "#101820"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High-Speed Pro Blue",
+    "Hex": "#0032A0"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High-Speed Pro Green",
+    "Hex": "#00AA13"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High-Speed Pro Grey",
+    "Hex": "#A7A8A9"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High-Speed Pro Red",
+    "Hex": "#CD001A"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High-Speed Pro White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High-Speed Pro Yellow",
+    "Hex": "#F8E600"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Black",
+    "Hex": "#101820"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Blue",
+    "Hex": "#0032A0"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Green",
+    "Hex": "#00AA13"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Grey",
+    "Hex": "#A7A8A9"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Red",
+    "Hex": "#CD001A"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Yellow",
+    "Hex": "#F8E600"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Beige",
+    "Hex": "#F3DFD5"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Black",
+    "Hex": "#101820"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Blue",
+    "Hex": "#0032A0"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Bone White",
+    "Hex": "#F1F0E8"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Brown",
+    "Hex": "#623412"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Green",
+    "Hex": "#00AA13"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Grey",
+    "Hex": "#A7A8A9"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Olive Green",
+    "Hex": "#67823A"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Orange",
+    "Hex": "#FF6A14"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Red",
+    "Hex": "#CD001A"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Inslogic",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pro Yellow",
+    "Hex": "#F8E600"
+  },
+  {
     "Brand": "JAYO",
     "Material": "PETG",
     "Variant": null,
@@ -14714,6 +16772,391 @@
     "Hex": "#92CECC"
   },
   {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Bamboo Green",
+    "Hex": "#389620"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#050505"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Blue",
+    "Hex": "#2153B5"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Brown",
+    "Hex": "#563D00"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Carrot Orange",
+    "Hex": "#D9631D"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Cyan",
+    "Hex": "#1C83D4"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Dark Green",
+    "Hex": "#2A3625"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Grass Green",
+    "Hex": "#0B7E48"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Gray",
+    "Hex": "#A1A1A1"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#19A973"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Lemon Yellow",
+    "Hex": "#E1CF36"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Light Apricot",
+    "Hex": "#C8C3C1"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Light Pink",
+    "Hex": "#BE9DA4"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Mint Green",
+    "Hex": "#009B7F"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Navy Blue",
+    "Hex": "#0E6ACE"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Ocean Blue",
+    "Hex": "#17426F"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Olive Green",
+    "Hex": "#4C552C"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Orange",
+    "Hex": "#FF9300"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Peony Pink",
+    "Hex": "#EF76A3"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pink",
+    "Hex": "#E2B2B0"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Porcelain Blue",
+    "Hex": "#097478"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Purple",
+    "Hex": "#670C79"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#ED2C2C"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Silver",
+    "Hex": "#A4B2BC"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Skin",
+    "Hex": "#FDDDBF"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Sky Blue",
+    "Hex": "#45C4EF"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Transparent",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Transparent Pink",
+    "Hex": "#733435"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Wood Color",
+    "Hex": "#A3806A"
+  },
+  {
+    "Brand": "Kingroon",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Yellow",
+    "Hex": "#E2B930"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Grey",
+    "Hex": "#A3A3A3"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matt Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matt White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Orange",
+    "Hex": "#FF810A"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Yellow",
+    "Hex": "#FFEE00"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Blue",
+    "Hex": "#3224FF"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Cyan",
+    "Hex": "#52AEFF"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Dark Gray",
+    "Hex": "#616161"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Gold",
+    "Hex": "#EEA11B"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Green",
+    "Hex": "#2C8901"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Magenta",
+    "Hex": "#F73B86"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Yellow",
+    "Hex": "#FFDD00"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Army green",
+    "Hex": "#008A10"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Copper",
+    "Hex": "#800000"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Gold",
+    "Hex": "#C7BA00"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Light Blue",
+    "Hex": "#38B3FF"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Light Green",
+    "Hex": "#55EB1E"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Light Lilla",
+    "Hex": "#ED61FF"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Rose",
+    "Hex": "#FF9494"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Silver",
+    "Hex": "#A3A3A3"
+  },
+  {
+    "Brand": "L3D",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk White",
+    "Hex": "#DEDEDE"
+  },
+  {
     "Brand": "LDO",
     "Material": "ABS",
     "Variant": null,
@@ -14803,6 +17246,699 @@
     "Variant": null,
     "Color": "Black",
     "Hex": "#2D2926"
+  },
+  {
+    "Brand": "LOVOON",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Magic Color Red-Yellow-Blue",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Landu",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Metal Aurora Green",
+    "Hex": "#3A8D88"
+  },
+  {
+    "Brand": "MarsWork",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Blue",
+    "Hex": "#012F7B"
+  },
+  {
+    "Brand": "MarsWork",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Marine Blue",
+    "Hex": "#346EB2"
+  },
+  {
+    "Brand": "MarsWork",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Blue",
+    "Hex": "#0000B3"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Cayman Blue",
+    "Hex": "#009CDE"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Chocolate Brown",
+    "Hex": "#7B3F00"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Dark/Forest Green",
+    "Hex": "#44693D"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Fighter Jet Blue",
+    "Hex": "#023862"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Fuchsia/Magenta",
+    "Hex": "#C20078"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Gunmetal Grey",
+    "Hex": "#0F1314"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Lavender",
+    "Hex": "#845CD6"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Light Grey",
+    "Hex": "#B2B2B2"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Black",
+    "Hex": "#3E413F"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Blue",
+    "Hex": "#0353BA"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Dark/Forest Green",
+    "Hex": "#44693D"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Gunmetal Grey",
+    "Hex": "#545252"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Red",
+    "Hex": "#FF2C29"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Slate Grey",
+    "Hex": "#7B7B7B"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Sunshine Yellow",
+    "Hex": "#FFE900"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte White",
+    "Hex": "#F5F5F5"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Ocean Blue",
+    "Hex": "#0056F9"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Royal Purple",
+    "Hex": "#4B006E"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Safety Orange",
+    "Hex": "#FE5000"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Sky Blue",
+    "Hex": "#87CEFA"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Slate Grey",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Sunshine Yellow",
+    "Hex": "#FFE900"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#F5F5F5"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "10% - Prototyping",
+    "Hex": "#545252"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "15% - Functional Use",
+    "Hex": "#545252"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "/Glitter Blue",
+    "Hex": "#4F03D7"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Aqua",
+    "Hex": "#74E5EA"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Blue",
+    "Hex": "#0000B3"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Bone White",
+    "Hex": "#D7D0C0"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Bubblegum Pink",
+    "Hex": "#E87191"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Caterpillar Yellow",
+    "Hex": "#FFCC00"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Cayman Blue",
+    "Hex": "#009CDE"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Chocolate Brown",
+    "Hex": "#7B3F00"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Clay/Brick Red",
+    "Hex": "#853523"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Dark/Forest Green",
+    "Hex": "#44693D"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Egg Shell White",
+    "Hex": "#EEEAE6"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Evergreen",
+    "Hex": "#0D5C54"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Fighter Jet Blue",
+    "Hex": "#023862"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Fuchsia/Magenta",
+    "Hex": "#C20078"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glitter Silk Antique Gold",
+    "Hex": "#A38F59"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glitter Silk Gold",
+    "Hex": "#F3BC00"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glitter Silk Metallic Blue",
+    "Hex": "#003287"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glitter Silk Metallic Orange",
+    "Hex": "#F07821"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glitter Silk Metallic Red",
+    "Hex": "#C00000"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glitter Silk Pearl White",
+    "Hex": "#F0EBE5"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glitter Silk Silver",
+    "Hex": "#5E6C6F"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glitter Silk Steel Wool",
+    "Hex": "#4A4949"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Grape Drink Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Grass Green",
+    "Hex": "#009925"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Gunmetal Grey",
+    "Hex": "#0F1314"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Industrial Blue",
+    "Hex": "#007987"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Khaki/ Desert Tan",
+    "Hex": "#FAEAAC"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lavender",
+    "Hex": "#845CD6"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Light Grey",
+    "Hex": "#D9D9D6"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Light Pink",
+    "Hex": "#FFB5C0"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lime Green",
+    "Hex": "#97D700"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Black",
+    "Hex": "#232323"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Dark/Forest Green",
+    "Hex": "#44693D"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Gunmetal Grey",
+    "Hex": "#545252"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Ocean Blue",
+    "Hex": "#0000B3"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Red",
+    "Hex": "#E31A1F"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Slate Grey",
+    "Hex": "#7B7B7B"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte White",
+    "Hex": "#F5F5F5"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Mocha Brown",
+    "Hex": "#CB5400"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Neon Green",
+    "Hex": "#73D700"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Ocean Blue",
+    "Hex": "#0056F9"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Peach",
+    "Hex": "#FFC3A0"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Performance Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Performance Blue",
+    "Hex": "#0000B3"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Performance Brown",
+    "Hex": "#883800"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Performance Green",
+    "Hex": "#206233"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Performance Grey",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Performance Orange",
+    "Hex": "#FF8400"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Performance Pink",
+    "Hex": "#FC6D8E"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Performance Purple",
+    "Hex": "#C00698"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Performance Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Performance White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Performance Yellow",
+    "Hex": "#FFFC25"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Recycled",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#F80000"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Royal Purple",
+    "Hex": "#4B006E"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Safety Orange",
+    "Hex": "#FE5000"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Sandstone",
+    "Hex": "#D1B48D"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Sky Blue",
+    "Hex": "#87CEFA"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Slate Grey",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Snow White",
+    "Hex": "#F9FDFE"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Sunshine Yellow",
+    "Hex": "#FFE900"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Turquoise",
+    "Hex": "#8CFFDB"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Matter3D Inc",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Wine Red",
+    "Hex": "#C01616"
   },
   {
     "Brand": "NTH Grillon",
@@ -16538,6 +19674,34 @@
     "Material": "TPU",
     "Variant": null,
     "Color": "High Speed 95A White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Patron EG",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Marble Baby Blue Marble",
+    "Hex": "#7DDBFF"
+  },
+  {
+    "Brand": "Patron EG",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Marble Mocha Marble",
+    "Hex": "#F1D3AD"
+  },
+  {
+    "Brand": "Patron EG",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Marble Turquoise Marble",
+    "Hex": "#73E9F4"
+  },
+  {
+    "Brand": "Patron EG",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Marble White Marble",
     "Hex": "#FFFFFF"
   },
   {
@@ -19593,6 +22757,1119 @@
     "Hex": "#000000"
   },
   {
+    "Brand": "Professional LAB",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Blue",
+    "Hex": "#0056D6"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Brown",
+    "Hex": "#7C2A00"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Blue",
+    "Hex": "#0372E9"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Gray",
+    "Hex": "#9FA9B6"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#0EFF26"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#FF1942"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Silver",
+    "Hex": "#E5ECF1"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#F5F5F5"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "glass fiber black",
+    "Hex": "#050B11"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PA12-CF15",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Blue",
+    "Hex": "#0056D6"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Brown",
+    "Hex": "#AA7942"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#77BB41"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Beige",
+    "Hex": "#F2E7CD"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Blue",
+    "Hex": "#0085EB"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Brown",
+    "Hex": "#7E5A39"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Dark Green",
+    "Hex": "#6F764F"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Green",
+    "Hex": "#7AC343"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Red",
+    "Hex": "#C60606"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Yellow",
+    "Hex": "#F9F001"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Transparent Blue",
+    "Hex": "#0056D6"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Transparent Clear",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Transparent Green",
+    "Hex": "#669C35"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Transparent Red",
+    "Hex": "#B51A00"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Transparent yellow",
+    "Hex": "#C4BC00"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "Blue",
+    "Hex": "#323C5D"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#538685"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "Grey",
+    "Hex": "#6F7074"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Apple Green",
+    "Hex": "#00F900"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Blue",
+    "Hex": "#3A88FE"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Brown",
+    "Hex": "#AA7942"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Chocolate",
+    "Hex": "#831100"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Claret",
+    "Hex": "#7F1734"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Cyan",
+    "Hex": "#00FDFF"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Galaxy Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Galaxy Blue",
+    "Hex": "#0056D6"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow Blue",
+    "Hex": "#00FDFF"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow Green",
+    "Hex": "#00F900"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow Yellow",
+    "Hex": "#FFFB00"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Gradient",
+    "Hex": "#00C7FC"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Grass Green",
+    "Hex": "#B1DD8C"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Gray",
+    "Hex": "#AAAAAA"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#669C35"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS Blue",
+    "Hex": "#0056D6"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS Gray",
+    "Hex": "#919191"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS Green",
+    "Hex": "#77BB41"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS Orange",
+    "Hex": "#FF9300"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS Red",
+    "Hex": "#FF2600"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS Transparent",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HS Yellow",
+    "Hex": "#FFFB00"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Light brown",
+    "Hex": "#AA7942"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Magenta",
+    "Hex": "#FF40FF"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Marble Brick Red",
+    "Hex": "#B55239"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Marble Concrete",
+    "Hex": "#B0B0B0"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Marble Marble",
+    "Hex": "#D6D6D6"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Blue",
+    "Hex": "#0056D6"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Gray",
+    "Hex": "#7A7A7A"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Red",
+    "Hex": "#B51A00"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Meta Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Meta Blue",
+    "Hex": "#0061FF"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Meta Gray",
+    "Hex": "#919191"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Meta Green",
+    "Hex": "#96D35F"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Meta Red",
+    "Hex": "#FF2600"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Meta White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Meta Yellow",
+    "Hex": "#F5EC00"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Navy Blue",
+    "Hex": "#000080"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "New Pink",
+    "Hex": "#F9D3E0"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Olive Green",
+    "Hex": "#6F7608"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Orange",
+    "Hex": "#FFB43F"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pastel Blue",
+    "Hex": "#51B6E1"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pastel Green",
+    "Hex": "#A7EB88"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pastel Orange",
+    "Hex": "#FCC351"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pastel Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pastel Purple",
+    "Hex": "#D599EB"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pastel Raspberry",
+    "Hex": "#FF8A92"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pastel Yellow",
+    "Hex": "#FAF181"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Plum",
+    "Hex": "#8E4585"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Purple",
+    "Hex": "#9929BD"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Raspberry",
+    "Hex": "#C72C48"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#FF2600"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Brass",
+    "Hex": "#B5A642"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Copper",
+    "Hex": "#B87333"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Dual Black Blue",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Dual Black Gold",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Dual Black Green",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Dual Black Purple",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Dual Oceans Embrace",
+    "Hex": "#008CB4"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Dual Pink Gold",
+    "Hex": "#FF40FF"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Dual Red Blue",
+    "Hex": "#E32400"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Dual Red Gold",
+    "Hex": "#E32400"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Dual Twilight Serenity",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Glamour",
+    "Hex": "#E8D8A8"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Gold",
+    "Hex": "#D4AF37"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Green",
+    "Hex": "#90EE90"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Rainbow",
+    "Hex": "#BE38F3"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Silver",
+    "Hex": "#919191"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Transparent",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Tri Army",
+    "Hex": "#9AA60E"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Tri Black Gold Purple",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Tri Blue Green Purple",
+    "Hex": "#0433FF"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Tri Blue Purple Black",
+    "Hex": "#371A94"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Tri Orange Blue Green",
+    "Hex": "#FEC700"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Tri Red Blue Green",
+    "Hex": "#FF2600"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Tri Red Yellow Green",
+    "Hex": "#FF2600"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Tri Royal Blossom",
+    "Hex": "#38571A"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Tri Storms Whisper",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Tri Sunset Horizon",
+    "Hex": "#C4BC00"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Yellow",
+    "Hex": "#FFEF00"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silver",
+    "Hex": "#C0C0C0"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Skin",
+    "Hex": "#F2C9AC"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Transparent",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Wood Black Walnut",
+    "Hex": "#745036"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Wood Maple",
+    "Hex": "#EAD2A0"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Wood Wood",
+    "Hex": "#B1874F"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Yellow",
+    "Hex": "#F5EC00"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Blue",
+    "Hex": "#0433FF"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Brown",
+    "Hex": "#AA7942"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Gray",
+    "Hex": "#919191"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#00F900"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "New Pink",
+    "Hex": "#FF40FF"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Orange",
+    "Hex": "#FFAA00"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Purple",
+    "Hex": "#D357FE"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#FF2600"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Sand Gold",
+    "Hex": "#C4BC00"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silver",
+    "Hex": "#919191"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Transparent",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Yellow",
+    "Hex": "#FFFB00"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA-CF",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA-CF",
+    "Variant": null,
+    "Color": "Blue",
+    "Hex": "#0042AA"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA-CF",
+    "Variant": null,
+    "Color": "Gray",
+    "Hex": "#606060"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA-CF",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#669C35"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA-CF",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#B51A00"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Blue",
+    "Hex": "#0056D6"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Gray",
+    "Hex": "#7A7A7A"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#00F900"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Orange",
+    "Hex": "#FF9300"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#FF2600"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Transparent",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
     "Brand": "Protopasta",
     "Material": "PETG",
     "Variant": null,
@@ -20672,6 +24949,181 @@
   },
   {
     "Brand": "QIDI Tech",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Metal Rapido Champagne Gold",
+    "Hex": "#C9C6A5"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Metal Rapido Midnight Green",
+    "Hex": "#40746D"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Metal Rapido Silver",
+    "Hex": "#ADADAD"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Odorless Rapido Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Odorless Rapido Blue",
+    "Hex": "#3140B3"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Odorless Rapido Gray",
+    "Hex": "#B6B6B6"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Odorless Rapido Green",
+    "Hex": "#6AC72F"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Odorless Rapido Purple",
+    "Hex": "#663197"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Odorless Rapido Red",
+    "Hex": "#E92828"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Odorless Rapido Silver",
+    "Hex": "#B9BCC1"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Odorless Rapido White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Odorless Rapido Yellow",
+    "Hex": "#FFEC2D"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Rapido Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Rapido Blue",
+    "Hex": "#00358E"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Rapido Gray",
+    "Hex": "#A0A0A0"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Rapido Green",
+    "Hex": "#098C3E"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Rapido Red",
+    "Hex": "#8E0422"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Rapido White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Rapido Yellow",
+    "Hex": "#FCE300"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS-GF25",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS-GF25",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#00A247"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS-GF25",
+    "Variant": null,
+    "Color": "Purple",
+    "Hex": "#7F347C"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ABS-GF25",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#C03023"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Aero Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Aero Natural",
+    "Hex": "#E5E9E3"
+  },
+  {
+    "Brand": "QIDI Tech",
     "Material": "ASA",
     "Variant": null,
     "Color": "Black",
@@ -20728,6 +25180,13 @@
   },
   {
     "Brand": "QIDI Tech",
+    "Material": "PA12",
+    "Variant": null,
+    "Color": "S-White Support White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "QIDI Tech",
     "Material": "PA12-CF",
     "Variant": null,
     "Color": "Black",
@@ -20739,6 +25198,118 @@
     "Variant": null,
     "Color": "Black",
     "Hex": "#000000"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PC",
+    "Variant": null,
+    "Color": "ABS-FR Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PEBA",
+    "Variant": null,
+    "Color": "95A Black",
+    "Hex": "#070809"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PET-CF",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PET-GF",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#212322"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PET-GF",
+    "Variant": null,
+    "Color": "Brown",
+    "Hex": "#946037"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PET-GF",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#CD001A"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Beige",
+    "Hex": "#D0B891"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Cyan",
+    "Hex": "#00AEEF"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Green",
+    "Hex": "#1F4E3A"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Klein Blue",
+    "Hex": "#0065BD"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Light Gray",
+    "Hex": "#D1D3D4"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Red",
+    "Hex": "#D3100C"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Skin",
+    "Hex": "#E3BC9A"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic White",
+    "Hex": "#F2F0EB"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Yellow",
+    "Hex": "#F6D155"
   },
   {
     "Brand": "QIDI Tech",
@@ -20791,10 +25362,584 @@
   },
   {
     "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Rapido Black",
+    "Hex": "#0E0E0F"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Rapido Blue",
+    "Hex": "#00187F"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Rapido Copper",
+    "Hex": "#604629"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Rapido Diffuse Clear White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Rapido Grass Green",
+    "Hex": "#7CCE51"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Rapido Gray",
+    "Hex": "#A0A0A0"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Rapido Red",
+    "Hex": "#AF0009"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Rapido White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Rapido Yellow",
+    "Hex": "#FCE300"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Black",
+    "Hex": "#333333"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Blue",
+    "Hex": "#3399FF"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Clear",
+    "Hex": "#E0E0E0"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Purple",
+    "Hex": "#9933FF"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Red",
+    "Hex": "#FF4D4D"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Yellow",
+    "Hex": "#FFFF33"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG-GF",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG-GF",
+    "Variant": null,
+    "Color": "Macchiato Brown",
+    "Hex": "#AC8266"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG-GF",
+    "Variant": null,
+    "Color": "Skylight Blue",
+    "Hex": "#C8E0E0"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG-GF",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Blue",
+    "Hex": "#0074BC"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Brown",
+    "Hex": "#6D3F2B"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Dark Green",
+    "Hex": "#1F4E3A"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Gray",
+    "Hex": "#888B8D"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Red",
+    "Hex": "#D3100C"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Skin",
+    "Hex": "#E3BC9A"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Sky Blue",
+    "Hex": "#9BCBEB"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic White",
+    "Hex": "#F2F0EB"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Yellow",
+    "Hex": "#F8C711"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Basic Coconut White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Basic Latte Brown",
+    "Hex": "#8C6952"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Basic Malt Green",
+    "Hex": "#9AD24B"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Basic Milky Green",
+    "Hex": "#D8E9DB"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Basic Mint Blue",
+    "Hex": "#9CD4EB"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Basic Peach Pink",
+    "Hex": "#F5D3D6"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Basic Sesame Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Basic Watermelon Red",
+    "Hex": "#F45D6D"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Rapido Ash Gray",
+    "Hex": "#313335"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Rapido Black",
+    "Hex": "#212322"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Rapido Kraft",
+    "Hex": "#C6AA76"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Rapido Malt Clay",
+    "Hex": "#876E59"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Rapido Navy Blue",
+    "Hex": "#353E47"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Rapido Olive Green",
+    "Hex": "#555B43"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Rapido Tech Gray",
+    "Hex": "#C1C1C1"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Rapido Warm Gray",
+    "Hex": "#B7ADA5"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Rapido White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Metal Rapido Blue",
+    "Hex": "#4A6992"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Metal Rapido Coffee Gold",
+    "Hex": "#876249"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Metal Rapido Midnight Green",
+    "Hex": "#46756A"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Metal Rapido Silver",
+    "Hex": "#DDDDDD"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Rapido Black",
+    "Hex": "#212322"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Rapido Blue",
+    "Hex": "#00358E"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Rapido Gray",
+    "Hex": "#A3A3A0"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Rapido Green",
+    "Hex": "#009F4D"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Rapido Orange",
+    "Hex": "#FF6A13"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Rapido Pink",
+    "Hex": "#FF5869"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Rapido Purple",
+    "Hex": "#AD3DA0"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Rapido Red",
+    "Hex": "#C1101D"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Rapido White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Rapido Yellow",
+    "Hex": "#FCE300"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Rapido Bronze",
+    "Hex": "#BEB09E"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Rapido Green",
+    "Hex": "#BDF2E0"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Rapido Rose Red",
+    "Hex": "#D6A2A1"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Rapido Skin",
+    "Hex": "#F2DCC2"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Wood Cedar Brown",
+    "Hex": "#A67F6B"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Wood Yellow",
+    "Hex": "#B7916C"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA-CF",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA-CF",
+    "Variant": null,
+    "Color": "Dark Red",
+    "Hex": "#9A5C6B"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA-CF",
+    "Variant": null,
+    "Color": "Lavender Purple",
+    "Hex": "#660066"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA-CF",
+    "Variant": null,
+    "Color": "Midnight Blue",
+    "Hex": "#566B8F"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PLA-CF",
+    "Variant": null,
+    "Color": "Olive Green",
+    "Hex": "#67785A"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PPA",
+    "Variant": null,
+    "Color": "UltraPA Natural",
+    "Hex": "#F5F5DC"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PPA-CF",
+    "Variant": null,
+    "Color": "PAHT Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PPA-CF25",
+    "Variant": null,
+    "Color": "UltraPA Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PPA-GF",
+    "Variant": null,
+    "Color": "PAHT Blue",
+    "Hex": "#7CA6DE"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PPA-GF",
+    "Variant": null,
+    "Color": "PAHT Gray",
+    "Hex": "#A2AAAD"
+  },
+  {
+    "Brand": "QIDI Tech",
     "Material": "PPS-CF",
     "Variant": null,
     "Color": "Black",
     "Hex": "#000000"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PPS-GF20",
+    "Variant": null,
+    "Color": "Gray",
+    "Hex": "#75787B"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "95A HF Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "95A HF White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Aero Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Aero White",
+    "Hex": "#FFFFFF"
   },
   {
     "Brand": "R3D",
@@ -21588,6 +26733,13 @@
     "Hex": "#131718"
   },
   {
+    "Brand": "Renkforce",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Clear",
+    "Hex": "#FFFFFF"
+  },
+  {
     "Brand": "Rosa3D",
     "Material": "ABS",
     "Variant": null,
@@ -22060,190 +27212,2101 @@
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Arctic Teal ABS",
+    "Color": "Arctic Teal",
     "Hex": "#5D928A"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Army Blue ABS",
+    "Color": "Army Blue",
     "Hex": "#062B4D"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Army Green ABS",
+    "Color": "Army Green",
     "Hex": "#515234"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Ash Grey ABS",
+    "Color": "Ash Grey",
     "Hex": "#454343"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Black ABS",
+    "Color": "Black",
     "Hex": "#0E0E10"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Blue ABS",
+    "Color": "Blue",
     "Hex": "#00387B"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Earth Brown ABS",
+    "Color": "Earth Brown",
     "Hex": "#623E2A"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Fossil Grey ABS",
+    "Color": "Fossil Grey",
     "Hex": "#6F727E"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Green ABS",
+    "Color": "Green",
     "Hex": "#61993B"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Lava Red ABS",
+    "Color": "Lava Red",
     "Hex": "#DE1619"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Lime Green ABS",
+    "Color": "Lime Green",
     "Hex": "#D0E740"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Mint Green ABS",
+    "Color": "Mint Green",
     "Hex": "#BEC9A5"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Muted Blue ABS",
+    "Color": "Muted Blue",
     "Hex": "#4E6A84"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Muted Purple ABS",
+    "Color": "Muted Purple",
     "Hex": "#7C5577"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Muted White ABS",
+    "Color": "Muted White",
     "Hex": "#AFA198"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Orange ABS",
+    "Color": "Orange",
     "Hex": "#FF4D06"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Pastel Peanut ABS",
+    "Color": "Pastel Peanut",
     "Hex": "#C29572"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Pastel Watermelon ABS",
+    "Color": "Pastel Watermelon",
     "Hex": "#E93A3F"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Pink ABS",
+    "Color": "Pink",
     "Hex": "#D99CA4"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Purple ABS",
+    "Color": "Purple",
     "Hex": "#694482"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Red ABS",
+    "Color": "Red",
     "Hex": "#CF0000"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Sakura Pink ABS",
+    "Color": "Sakura Pink",
     "Hex": "#E0A8BB"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Savannah Yellow ABS",
+    "Color": "Savannah Yellow",
     "Hex": "#F0BE02"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Silver ABS",
+    "Color": "Silver",
     "Hex": "#A7A7A7"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Sunrise Orange ABS",
+    "Color": "Sunrise Orange",
     "Hex": "#F78E0E"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "White ABS",
+    "Color": "White",
     "Hex": "#F1F0EA"
   },
   {
     "Brand": "Siddament",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Yellow ABS",
+    "Color": "Yellow",
     "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Aquatic Blue",
+    "Hex": "#00CFFF"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Aquatic Blue V2",
+    "Hex": "#00CFFF"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Azure Blue V2",
+    "Hex": "#0037FF"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#0E0E10"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Black V2",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Blue",
+    "Hex": "#00378B"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Blue V2",
+    "Hex": "#0037FF"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Bright Magenta",
+    "Hex": "#FF00CC"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Bright Purple",
+    "Hex": "#D200FF"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Bright Turquoise",
+    "Hex": "#40E0D0"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Brown V2",
+    "Hex": "#674230"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Burnt Grey V2",
+    "Hex": "#4B4F54"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Burnt Titanium",
+    "Hex": "#152532"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Earth Brown",
+    "Hex": "#623E2A"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Electric Green",
+    "Hex": "#515234"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Electric Green V2",
+    "Hex": "#DFFF00"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Fluro Lavender",
+    "Hex": "#CC99FF"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Fluro Red",
+    "Hex": "#FF2200"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Fluro Red V2",
+    "Hex": "#FF2200"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#529B26"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Grey",
+    "Hex": "#C5C7C4"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Grey V2",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "HS Metallic Blue",
+    "Hex": "#4276A2"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "HS Metallic Bright Gold",
+    "Hex": "#FFE369"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "HS Metallic Gold",
+    "Hex": "#7B5B42"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "HS Metallic Green",
+    "Hex": "#346235"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "HS Metallic Grey",
+    "Hex": "#4D4D4B"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "HS Metallic Purple",
+    "Hex": "#39022B"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "HS Metallic Red",
+    "Hex": "#88393F"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "HS Metallic Silver",
+    "Hex": "#CBCACD"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Hot Pink",
+    "Hex": "#FF007F"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Hot Pink V2",
+    "Hex": "#FF007F"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Light Brown V2",
+    "Hex": "#876857"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Light Green V2",
+    "Hex": "#A1FF99"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Light Grey V2",
+    "Hex": "#CCCCCC"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Light Orange V2",
+    "Hex": "#FFA683"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Light Pink V2",
+    "Hex": "#F6A2D6"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Light Purple V2",
+    "Hex": "#CA80FF"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Light Red V2",
+    "Hex": "#FE9999"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Light Yellow V2",
+    "Hex": "#FFFA99"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Marble",
+    "Hex": "#A1A9B2"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Black",
+    "Hex": "#0E0E10"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Black V2",
+    "Hex": "#0E0E10"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Blue",
+    "Hex": "#00387B"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Blush V2",
+    "Hex": "#F3C4CE"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Boot Green V2",
+    "Hex": "#0E7A3A"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Burgundy V2",
+    "Hex": "#5A1A2C"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Burnt Grey V2",
+    "Hex": "#4B4F54"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Cartridge Red V2",
+    "Hex": "#C7382E"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Cement V2",
+    "Hex": "#8A8780"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Chocolate V2",
+    "Hex": "#3A2618"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Coral V2",
+    "Hex": "#FF6F5E"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Cosmic Grape V2",
+    "Hex": "#6B3FA0"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Cream V2",
+    "Hex": "#FBF3C4"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte DeWhat Yellow V2",
+    "Hex": "#F2A900"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Disc Grey V2",
+    "Hex": "#CFC9B8"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Emerald V2",
+    "Hex": "#1F8A70"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Forest V2",
+    "Hex": "#1B4332"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Frost Cyan V2",
+    "Hex": "#9FD8E8"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Green",
+    "Hex": "#81B36D"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Grey",
+    "Hex": "#A1A1A0"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Grey V2",
+    "Hex": "#A1A1A0"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Khaki V2",
+    "Hex": "#5E5B3A"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Mega Blue V2",
+    "Hex": "#1E63C8"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Mocha V2",
+    "Hex": "#4B3621"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Navy V2",
+    "Hex": "#14213D"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Orange",
+    "Hex": "#FF2A00"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Oxblood V2",
+    "Hex": "#6E1414"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Petrol V2",
+    "Hex": "#0C3B3C"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Pink",
+    "Hex": "#D99CA4"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Plum V2",
+    "Hex": "#3C1F3A"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Pocket Green V2",
+    "Hex": "#8BAC0F"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Purple",
+    "Hex": "#694482"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Red",
+    "Hex": "#B84A1B"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Rust V2",
+    "Hex": "#8B3A1B"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Sage V2",
+    "Hex": "#9CA487"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Shi Green V2",
+    "Hex": "#6CBB3C"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Skin V2",
+    "Hex": "#E7B89A"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Slate V2",
+    "Hex": "#51606E"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Sleeper Beige V2",
+    "Hex": "#DDD3B8"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Super Violet V2",
+    "Hex": "#5B4B9E"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Swirl Orange V2",
+    "Hex": "#F26B21"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Tan V2",
+    "Hex": "#A9763F"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Terracotta V2",
+    "Hex": "#A8442A"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Toaster Grey V2",
+    "Hex": "#BDB7A8"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Tool Blue V2",
+    "Hex": "#007577"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Tool Green V2",
+    "Hex": "#CCDA46"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Tool Red V2",
+    "Hex": "#C8102E"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte White",
+    "Hex": "#F1F0EA"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte White V2",
+    "Hex": "#F1F0EA"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Matte Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Nebula",
+    "Hex": "#791CFD"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Neon Yellow",
+    "Hex": "#DFFF00"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Neon Yellow V2",
+    "Hex": "#DFFF00"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Off White V2",
+    "Hex": "#F5F5F5"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Orange (Bright)",
+    "Hex": "#FF2A00"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Orange V2",
+    "Hex": "#FF4D06"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pastel Blue V2",
+    "Hex": "#D6EAFF"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pastel Green V2",
+    "Hex": "#ECFFEB"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pastel Orange V2",
+    "Hex": "#FFE4DA"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pastel Pink V2",
+    "Hex": "#FCE3F3"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pastel Purple V2",
+    "Hex": "#F4E6FF"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pastel Red V2",
+    "Hex": "#FFECEC"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pastel Yellow V2",
+    "Hex": "#FFFA99"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Peanut V2",
+    "Hex": "#BF9474"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pink",
+    "Hex": "#D99CA4"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pink V2",
+    "Hex": "#FF00F2"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pure White V2",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Purple",
+    "Hex": "#694482"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Purple V2",
+    "Hex": "#9500FF"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#BF3922"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Red V2",
+    "Hex": "#FC0000"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Silver",
+    "Hex": "#A7A7A7"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Tool Blue V2",
+    "Hex": "#007577"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Tool Green V2",
+    "Hex": "#CCDA46"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Tool Red V2",
+    "Hex": "#C8102E"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Black",
+    "Hex": "#1C1C1C"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Black V2",
+    "Hex": "#1C1C1C"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Blood Red",
+    "Hex": "#861A22"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Blood Red V2",
+    "Hex": "#861A22"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Dark Blue",
+    "Hex": "#193153"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Dark Blue V2",
+    "Hex": "#193153"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Dark Green",
+    "Hex": "#81B36D"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Green V2",
+    "Hex": "#81B36D"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Orange",
+    "Hex": "#FF2A00"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Orange V2",
+    "Hex": "#FF4B11"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Purple",
+    "Hex": "#193153"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Purple V2",
+    "Hex": "#193153"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Storm Grey",
+    "Hex": "#A1A1A0"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Storm Grey V2",
+    "Hex": "#A1A1A0"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Yellow V2",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Transparent",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Ultra Violet",
+    "Hex": "#9400D3"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Vivid Cyan",
+    "Hex": "#00FFFF"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Wood",
+    "Hex": "#9A7F42"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Yellow V2",
+    "Hex": "#FFF200"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#0E0E10"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "Blue",
+    "Hex": "#00387B"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#81B36D"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "Grey",
+    "Hex": "#A1A1A0"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "Purple",
+    "Hex": "#694482"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#B84A1B"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "V2 Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "V2 Blue",
+    "Hex": "#0037FF"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "V2 Green",
+    "Hex": "#131F0E"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "V2 Grey",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG-GF",
+    "Variant": null,
+    "Color": "Grey",
+    "Hex": "#585954"
+  },
+  {
+    "Brand": "Siddament",
+    "Material": "PETG-GF",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "(RFID) Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "(RFID) Dark Gray",
+    "Hex": "#54585A"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "(RFID) Green",
+    "Hex": "#3A913F"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "(RFID) Light Blue",
+    "Hex": "#5BC2E7"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "(RFID) Navy Blue",
+    "Hex": "#002677"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "(RFID) Orange",
+    "Hex": "#FF6A13"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "(RFID) Purple",
+    "Hex": "#6E3FA3"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "(RFID) Red",
+    "Hex": "#DE4343"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "(RFID) White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "(RFID) Yellow",
+    "Hex": "#FFB81C"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "(RFID) Black",
+    "Hex": "#161618"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "(RFID) Dark Gray",
+    "Hex": "#53565A"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "(RFID) Red",
+    "Hex": "#AF231C"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "(RFID) White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "(RFID) Yellow",
+    "Hex": "#FFE800"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PA",
+    "Variant": null,
+    "Color": "Nylon Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Blue",
+    "Hex": "#0066FF"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "HF Black",
+    "Hex": "#16171B"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "HF Cobalt Blue",
+    "Hex": "#0049B8"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "HF Cocoa Brown",
+    "Hex": "#6B504C"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "HF Deep Purple",
+    "Hex": "#473378"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "HF Light Gray",
+    "Hex": "#ACB8C5"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "HF Orange",
+    "Hex": "#FB7E1B"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "HF Red",
+    "Hex": "#FF1523"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "HF Silver Gray",
+    "Hex": "#7C818E"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "HF Violet",
+    "Hex": "#493AB2"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "HF White",
+    "Hex": "#F4F9FF"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#E60000"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Blue",
+    "Hex": "#338CC4"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Brown",
+    "Hex": "#92713F"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Gray",
+    "Hex": "#7F8896"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Green",
+    "Hex": "#537A37"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Orange",
+    "Hex": "#FB8D02"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Pink",
+    "Hex": "#E68FBD"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Purple",
+    "Hex": "#D480EF"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Teal",
+    "Hex": "#3DD1CE"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Breakaway Support White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow-in-the-dark Green",
+    "Hex": "#3CB371"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Ash Grey",
+    "Hex": "#485155"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Butter Cream",
+    "Hex": "#FEE5A5"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Carbon Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Celestial Blue",
+    "Hex": "#8BD5EE"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Engine Red",
+    "Hex": "#DE1619"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Ivory White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Latte Brown",
+    "Hex": "#D3B7A7"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Lava Orange",
+    "Hex": "#F78E0E"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Lavender Purple",
+    "Hex": "#AE96D4"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Lime Green",
+    "Hex": "#D4E458"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Marine Blue",
+    "Hex": "#0078BF"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Mocha Brown",
+    "Hex": "#775C50"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Moss Mist",
+    "Hex": "#BEC9A5"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Olive Green",
+    "Hex": "#68724D"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Periwinkle",
+    "Hex": "#ADB4E6"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Pine Green",
+    "Hex": "#519F61"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Sakura Pink",
+    "Hex": "#F3D6E5"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Sky Blue",
+    "Hex": "#56B7E6"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Steel Blue",
+    "Hex": "#2E4462"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Sunburst Yellow",
+    "Hex": "#F0BE02"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Terracotta Red",
+    "Hex": "#D84B2E"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Violet Purple",
+    "Hex": "#6600CC"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Watermelon Red",
+    "Hex": "#FC6371"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Copper",
+    "Hex": "#AF6B4C"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Dual-Color Aurora Gold",
+    "Hex": "#D9A63A, #9675CD"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Dual-Color City Billboard",
+    "Hex": "#CBF914, #D623AA"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Dual-Color Ice Lake",
+    "Hex": "#C4C7D9, #44ADE5"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Dual-Color Mint Lemonade",
+    "Hex": "#ECED17, #44ADE5"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Dual-Color Sea Glass",
+    "Hex": "#44ADE5, #18CCAF"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Dual-Color Solar Alloy",
+    "Hex": "#D9A63A, #C4C7D9"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Dual-Color Sunset Ember",
+    "Hex": "#D9A63A, #CC434F"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Garnet Red",
+    "Hex": "#C1443F"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Gold",
+    "Hex": "#F6CE1B"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Pearl Pink",
+    "Hex": "#EFC2CA"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Sapphire Blue",
+    "Hex": "#768EC7"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Silver",
+    "Hex": "#BCC2C8"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "SnapSpeed Black",
+    "Hex": "#080A0D"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "SnapSpeed Blue",
+    "Hex": "#003776"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "SnapSpeed Blue Gray",
+    "Hex": "#94B7C9"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "SnapSpeed Bright Yellow",
+    "Hex": "#F8F81C"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "SnapSpeed Brown",
+    "Hex": "#6F4C2F"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "SnapSpeed Cocoa Brown",
+    "Hex": "#674B47"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "SnapSpeed Cool White",
+    "Hex": "#D9DFE5"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "SnapSpeed Cream",
+    "Hex": "#FFF5E0"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "SnapSpeed Green",
+    "Hex": "#2D9E59"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "SnapSpeed Grey",
+    "Hex": "#8C9099"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "SnapSpeed Magenta",
+    "Hex": "#F24574"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "SnapSpeed Olive Green",
+    "Hex": "#AFC33C"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "SnapSpeed Orange",
+    "Hex": "#F97429"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "SnapSpeed Pearl White",
+    "Hex": "#E2DEDB"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "SnapSpeed Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "SnapSpeed Purple",
+    "Hex": "#6C5BB1"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "SnapSpeed Red",
+    "Hex": "#E72F1D"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "SnapSpeed Sky Blue",
+    "Hex": "#5EBDDB"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "SnapSpeed Warm Beige",
+    "Hex": "#C19E86"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "SnapSpeed Yellow",
+    "Hex": "#F4C032"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Wood (RFID) Maple",
+    "Hex": "#F2C6A2"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Wood (RFID) Oak",
+    "Hex": "#C0A086"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Wood (RFID) Rosewood",
+    "Hex": "#AE7575"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Wood (RFID) Walnut",
+    "Hex": "#775C50"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Wood Maple",
+    "Hex": "#F2C6A2"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Wood Oak",
+    "Hex": "#C0A086"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Wood Rosewood",
+    "Hex": "#AE7575"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Wood Walnut",
+    "Hex": "#775C50"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "PVA",
+    "Variant": null,
+    "Color": "Natural",
+    "Hex": "#F0E8C8"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "TPU-90A",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#16161A"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "TPU-90A",
+    "Variant": null,
+    "Color": "Gray",
+    "Hex": "#B2B4B2"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "TPU-90A",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#F8F8F5"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "HF (RFID) Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "HF (RFID) Bright Blue",
+    "Hex": "#0683EF"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "HF (RFID) Brown",
+    "Hex": "#865B41"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "HF (RFID) Dark Gray",
+    "Hex": "#595E69"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "HF (RFID) Green",
+    "Hex": "#33A15A"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "HF (RFID) Red",
+    "Hex": "#EE2A20"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "HF (RFID) Silver Gray",
+    "Hex": "#9E9E9E"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "HF (RFID) White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "HF (RFID) Yellow",
+    "Hex": "#FFC72C"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "HF Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Snapmaker",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "Yellow",
+    "Hex": "#F5CE00"
   },
   {
     "Brand": "Soleyin",
@@ -22432,41 +29495,62 @@
     "Material": "ABS",
     "Variant": null,
     "Color": "Black",
-    "Hex": "#3A3C3B"
+    "Hex": "#000000"
   },
   {
     "Brand": "SUNLU",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Blue",
-    "Hex": "#0000FF"
+    "Color": "Blue (Klein Blue)",
+    "Hex": "#1729AB"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "FR Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "FR Natural",
+    "Hex": "#F6F2E8"
   },
   {
     "Brand": "SUNLU",
     "Material": "ABS",
     "Variant": null,
     "Color": "Green",
-    "Hex": "#5FC50D"
+    "Hex": "#1DAA27"
   },
   {
     "Brand": "SUNLU",
     "Material": "ABS",
     "Variant": null,
     "Color": "Grey",
-    "Hex": "#808080"
+    "Hex": "#75787B"
   },
   {
     "Brand": "SUNLU",
     "Material": "ABS",
     "Variant": null,
     "Color": "Red",
-    "Hex": "#FF0000"
+    "Hex": "#BC2726"
   },
   {
     "Brand": "SUNLU",
     "Material": "ABS",
     "Variant": null,
     "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "ABS-GF",
+    "Variant": null,
+    "Color": "Natural",
     "Hex": "#FFFFFF"
   },
   {
@@ -22529,6 +29613,13 @@
     "Brand": "SUNLU",
     "Material": "ASA",
     "Variant": null,
+    "Color": "Sunny Orange",
+    "Hex": "#ED7334"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "ASA",
+    "Variant": null,
     "Color": "White",
     "Hex": "#FFFFFF"
   },
@@ -22541,6 +29632,216 @@
   },
   {
     "Brand": "SUNLU",
+    "Material": "PA",
+    "Variant": null,
+    "Color": "Easy Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PA",
+    "Variant": null,
+    "Color": "Easy Natural",
+    "Hex": "#F6F2E8"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PA12-CF",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PA6-CF",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PA6-GF",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PA6-GF",
+    "Variant": null,
+    "Color": "Grey",
+    "Hex": "#6E7174"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PC",
+    "Variant": null,
+    "Color": "Natural",
+    "Hex": "#FEFEFF"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PC+ABS",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PC+ABS",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#F9F8F4"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PEEK",
+    "Variant": null,
+    "Color": "Natural",
+    "Hex": "#C8BCA5"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "2.0 Aqua Blue",
+    "Hex": "#00ADAD"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "2.0 Beige",
+    "Hex": "#F3DFD5"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "2.0 Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "2.0 Blue (Klein Blue)",
+    "Hex": "#1729AB"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "2.0 Blush Pink",
+    "Hex": "#F9C5C2"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "2.0 Bone White",
+    "Hex": "#EEE7D4"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "2.0 Coffee Brown",
+    "Hex": "#362111"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "2.0 Cyan",
+    "Hex": "#00A3E0"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "2.0 Green",
+    "Hex": "#1DAA27"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "2.0 Grey",
+    "Hex": "#75787B"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "2.0 Lavender Purple",
+    "Hex": "#685BC7"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "2.0 Magenta",
+    "Hex": "#D9027D"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "2.0 Oak",
+    "Hex": "#C2B29A"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "2.0 Olive Green",
+    "Hex": "#5A6D3D"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "2.0 Peach Pink",
+    "Hex": "#FF9A8D"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "2.0 Red",
+    "Hex": "#CD001A"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "2.0 Sunny Orange",
+    "Hex": "#FF6A14"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "2.0 Vivid Yellow",
+    "Hex": "#F1C400"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "2.0 White",
+    "Hex": "#EFF0F1"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "2.0 Yellow",
+    "Hex": "#FEDD00"
+  },
+  {
+    "Brand": "SUNLU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Black",
@@ -22550,8 +29851,8 @@
     "Brand": "SUNLU",
     "Material": "PETG",
     "Variant": null,
-    "Color": "Blue",
-    "Hex": "#0000FF"
+    "Color": "Blue (Klein Blue)",
+    "Hex": "#1729AB"
   },
   {
     "Brand": "SUNLU",
@@ -22565,14 +29866,14 @@
     "Material": "PETG",
     "Variant": null,
     "Color": "Green",
-    "Hex": "#5FC50D"
+    "Hex": "#1DAA27"
   },
   {
     "Brand": "SUNLU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Grey",
-    "Hex": "#808080"
+    "Hex": "#75787B"
   },
   {
     "Brand": "SUNLU",
@@ -22677,14 +29978,14 @@
     "Material": "PETG",
     "Variant": null,
     "Color": "Purple",
-    "Hex": "#942192"
+    "Hex": "#685BC7"
   },
   {
     "Brand": "SUNLU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Red",
-    "Hex": "#FF0000"
+    "Hex": "#BC2726"
   },
   {
     "Brand": "SUNLU",
@@ -22754,7 +30055,49 @@
     "Material": "PETG",
     "Variant": null,
     "Color": "Yellow",
-    "Hex": "#F6FA00"
+    "Hex": "#FFF13F"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Anti-string Black",
+    "Hex": "#1F2123"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Anti-string Cream White",
+    "Hex": "#EEE7D4"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Anti-string Grey",
+    "Hex": "#63666A"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Anti-string Light Blue",
+    "Hex": "#AEEAFF"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Anti-string Olive Green",
+    "Hex": "#5A6D3D"
   },
   {
     "Brand": "SUNLU",
@@ -22788,6 +30131,13 @@
     "Brand": "SUNLU",
     "Material": "PLA",
     "Variant": null,
+    "Color": "High Speed Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "High Speed Brick Red Marble",
     "Hex": "#8F4938"
   },
@@ -22802,8 +30152,169 @@
     "Brand": "SUNLU",
     "Material": "PLA",
     "Variant": null,
+    "Color": "High Speed Coral Pink",
+    "Hex": "#FF8674"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "High Speed Forest Green Marble",
     "Hex": "#C3D3D0"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Green",
+    "Hex": "#1DAA27"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Grey",
+    "Hex": "#75787B"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Jelly Green",
+    "Hex": "#72DBD4"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Klein Blue",
+    "Hex": "#1729AB"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Lavender Purple",
+    "Hex": "#685BC7"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Matte Black",
+    "Hex": "#1F2123"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Matte Cherry Red",
+    "Hex": "#FD404B"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Matte Chocolate",
+    "Hex": "#906557"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Matte Grey",
+    "Hex": "#63666A"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Matte Lemon Yellow",
+    "Hex": "#F2F0A1"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Matte Mint Green",
+    "Hex": "#00C7B1"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Matte Olive Green",
+    "Hex": "#5A6D3D"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Matte Pri-Cyan",
+    "Hex": "#00A4E1"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Matte Pri-Magenta",
+    "Hex": "#D5419E"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Matte Pri-White",
+    "Hex": "#F9FDFF"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Matte Pri-Yellow",
+    "Hex": "#F0EA02"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Matte Sakura Pink",
+    "Hex": "#FFE0E8"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Matte Sky Blue",
+    "Hex": "#AEEAFF"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Matte Sunny Orange",
+    "Hex": "#FF8C54"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Matte White",
+    "Hex": "#FFFFF9"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Mocha Mousse",
+    "Hex": "#A47B67"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Olive Green",
+    "Hex": "#5A6D3D"
   },
   {
     "Brand": "SUNLU",
@@ -22816,8 +30327,274 @@
     "Brand": "SUNLU",
     "Material": "PLA",
     "Variant": null,
+    "Color": "High Speed Pink",
+    "Hex": "#FF89C0"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Red",
+    "Hex": "#BC2726"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "High Speed Shadow Storm Marble",
     "Hex": "#D8D7D8"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Sky Blue",
+    "Hex": "#4CCBFE"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Sunny Orange",
+    "Hex": "#ED7334"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "High Speed Yellow",
+    "Hex": "#FFF13F"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lightweight White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Black",
+    "Hex": "#1F2123"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Cherry Red",
+    "Hex": "#FD404B"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Chocolate",
+    "Hex": "#906557"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Grey",
+    "Hex": "#63666A"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Lemon Yellow",
+    "Hex": "#F2F0A1"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Mint Green",
+    "Hex": "#00C7B1"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Olive Green",
+    "Hex": "#5A6D3D"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Pri-Cyan",
+    "Hex": "#00A4E1"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Pri-Magenta",
+    "Hex": "#D5419E"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Pri-White",
+    "Hex": "#F9FDFF"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Pri-Yellow",
+    "Hex": "#F0EA02"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Sakura Pink",
+    "Hex": "#FFE0E8"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Sky Blue",
+    "Hex": "#AEEAFF"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite Sunny Orange",
+    "Hex": "#FF8C54"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lite White",
+    "Hex": "#FFFFF9"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Bone White",
+    "Hex": "#EEE7D4"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Clay",
+    "Hex": "#978F81"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Green",
+    "Hex": "#1DAA27"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Grey",
+    "Hex": "#75787B"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Klein Blue",
+    "Hex": "#1729AB"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Lavender Purple",
+    "Hex": "#685BC7"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Oak",
+    "Hex": "#C2B29A"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Ocean Blue",
+    "Hex": "#A6D4E8"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Olive Green",
+    "Hex": "#5A6D3D"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Pink",
+    "Hex": "#E684B4"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Red",
+    "Hex": "#BC2726"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Sprout Green",
+    "Hex": "#DDF650"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Sunny Orange",
+    "Hex": "#ED7334"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Yellow",
+    "Hex": "#FFF13F"
   },
   {
     "Brand": "SUNLU",
@@ -22949,6 +30726,48 @@
     "Brand": "SUNLU",
     "Material": "PLA",
     "Variant": null,
+    "Color": "Transparent Grape Jelly",
+    "Hex": "#C5B5E4"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Transparent Mint Ice",
+    "Hex": "#7ECDB6"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Transparent Mist Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Transparent Ocean Haze",
+    "Hex": "#75AABE"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Transparent Orange Juice",
+    "Hex": "#FFC867"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Transparent Strawberry Jam",
+    "Hex": "#F87272"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "White",
     "Hex": "#C7CDD7"
   },
@@ -22957,14 +30776,14 @@
     "Material": "PLA",
     "Variant": null,
     "Color": "White (Glow Blue)",
-    "Hex": "#000000"
+    "Hex": "#F1F4ED"
   },
   {
     "Brand": "SUNLU",
     "Material": "PLA",
     "Variant": null,
     "Color": "White (Glow Green)",
-    "Hex": "#000000"
+    "Hex": "#DCEABE"
   },
   {
     "Brand": "SUNLU",
@@ -22977,8 +30796,148 @@
     "Brand": "SUNLU",
     "Material": "PLA+",
     "Variant": null,
+    "Color": "2.0 Beige",
+    "Hex": "#F0E0D6"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "2.0 Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "2.0 Blue (Klein Blue)",
+    "Hex": "#1729AB"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "2.0 Bone White",
+    "Hex": "#EEE7D4"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "2.0 Ceramic White",
+    "Hex": "#F4F9FF"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "2.0 Coffee Brown",
+    "Hex": "#362111"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "2.0 Cyan",
+    "Hex": "#00A3E0"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "2.0 Green",
+    "Hex": "#1DAA27"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "2.0 Grey",
+    "Hex": "#75787B"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "2.0 Lavender Purple",
+    "Hex": "#685BC7"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "2.0 Magenta",
+    "Hex": "#C52E79"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "2.0 Midnight",
+    "Hex": "#28334A"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "2.0 Oak",
+    "Hex": "#C2B29A"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "2.0 Olive Green",
+    "Hex": "#5A6D3D"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "2.0 Red",
+    "Hex": "#BC2726"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "2.0 Roasted Chestnut",
+    "Hex": "#1D0E07"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "2.0 Sunny Orange",
+    "Hex": "#ED7334"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "2.0 Vivid Yellow",
+    "Hex": "#EAC642"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "2.0 White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "2.0 Yellow",
+    "Hex": "#FFF13F"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
     "Color": "Beige",
-    "Hex": "#FFE8DB"
+    "Hex": "#F0E0D6"
   },
   {
     "Brand": "SUNLU",
@@ -22991,8 +30950,8 @@
     "Brand": "SUNLU",
     "Material": "PLA+",
     "Variant": null,
-    "Color": "Blue",
-    "Hex": "#0000FF"
+    "Color": "Blue (Klein Blue)",
+    "Hex": "#1729AB"
   },
   {
     "Brand": "SUNLU",
@@ -23026,8 +30985,15 @@
     "Brand": "SUNLU",
     "Material": "PLA+",
     "Variant": null,
+    "Color": "Coffee Brown",
+    "Hex": "#362111"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
     "Color": "Cyan",
-    "Hex": "#39D0F1"
+    "Hex": "#00A3E0"
   },
   {
     "Brand": "SUNLU",
@@ -23055,14 +31021,14 @@
     "Material": "PLA+",
     "Variant": null,
     "Color": "Green",
-    "Hex": "#5FC50D"
+    "Hex": "#1DAA27"
   },
   {
     "Brand": "SUNLU",
     "Material": "PLA+",
     "Variant": null,
     "Color": "Grey",
-    "Hex": "#808080"
+    "Hex": "#75787B"
   },
   {
     "Brand": "SUNLU",
@@ -23077,6 +31043,13 @@
     "Variant": null,
     "Color": "Light Gold",
     "Hex": "#FADD47"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Midnight",
+    "Hex": "#28334A"
   },
   {
     "Brand": "SUNLU",
@@ -23104,14 +31077,21 @@
     "Material": "PLA+",
     "Variant": null,
     "Color": "Purple",
-    "Hex": "#942192"
+    "Hex": "#685BC7"
   },
   {
     "Brand": "SUNLU",
     "Material": "PLA+",
     "Variant": null,
     "Color": "Red",
-    "Hex": "#FF0000"
+    "Hex": "#BC2726"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Roasted Chestnut",
+    "Hex": "#1D0E07"
   },
   {
     "Brand": "SUNLU",
@@ -23119,6 +31099,230 @@
     "Variant": null,
     "Color": "Sakura Pink",
     "Hex": "#F6C7B3"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk 2.0 Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk 2.0 Copper Red",
+    "Hex": "#A55F49"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk 2.0 Glossy Lake Cyan",
+    "Hex": "#009CA6"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk 2.0 Gold",
+    "Hex": "#F1BE48"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk 2.0 Light Gilded Gold",
+    "Hex": "#AC906A"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk 2.0 Luxury Bright Red",
+    "Hex": "#D6001C"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk 2.0 Metallic Green",
+    "Hex": "#679A6F"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk 2.0 Satin Glow Orange",
+    "Hex": "#FF6720"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk 2.0 Shiny Blue",
+    "Hex": "#0072CE"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk 2.0 Silver",
+    "Hex": "#919CAC"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk 2.0 Soft Satin Pink",
+    "Hex": "#F8B5C4"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk 2.0 Streamer Blue",
+    "Hex": "#A7C6ED"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk 2.0 Titanium Steel",
+    "Hex": "#8C8B89"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk 2.0 Violet",
+    "Hex": "#753BBD"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk 2.0 Vivid Rose",
+    "Hex": "#E31C79"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk 2.0 White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk Black",
+    "Hex": "#1D1C1B"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk Black Jade",
+    "Hex": "#3D493E"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk Blue",
+    "Hex": "#00AAEA"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk Brass",
+    "Hex": "#FFAE11"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk Bronze",
+    "Hex": "#779E7C"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk Candy Dandy",
+    "Hex": "#FB637E"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk Green",
+    "Hex": "#04C7B1"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk Grey",
+    "Hex": "#7F95A5"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk Light Gold",
+    "Hex": "#F1BE48"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk Orange",
+    "Hex": "#FF7F32"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk Pink",
+    "Hex": "#FFC2D8"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk Red",
+    "Hex": "#E13E52"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk Red Copper",
+    "Hex": "#A45E49"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk Silver",
+    "Hex": "#91A2C0"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk White",
+    "Hex": "#FFFFF9"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA+",
+    "Variant": null,
+    "Color": "Silk Yellow",
+    "Hex": "#F7DE02"
   },
   {
     "Brand": "SUNLU",
@@ -23160,70 +31364,196 @@
     "Material": "PLA+",
     "Variant": null,
     "Color": "Yellow",
-    "Hex": "#F6FA00"
+    "Hex": "#FFF13F"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PLA-CF",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "PP",
+    "Variant": null,
+    "Color": "2.0 Natural",
+    "Hex": "#FFFFFF"
   },
   {
     "Brand": "SUNLU",
     "Material": "TPU",
     "Variant": null,
     "Color": "Silk Black",
-    "Hex": "#000000"
+    "Hex": "#1D1C1B"
   },
   {
     "Brand": "SUNLU",
     "Material": "TPU",
     "Variant": null,
     "Color": "Silk Burgundy",
-    "Hex": "#3F2028"
+    "Hex": "#66435A"
   },
   {
     "Brand": "SUNLU",
     "Material": "TPU",
     "Variant": null,
     "Color": "Silk Cream White",
-    "Hex": "#F7F1D1"
+    "Hex": "#F9F4E2"
   },
   {
     "Brand": "SUNLU",
     "Material": "TPU",
     "Variant": null,
     "Color": "Silk Dark Blue",
-    "Hex": "#1D2353"
+    "Hex": "#304C87"
   },
   {
     "Brand": "SUNLU",
     "Material": "TPU",
     "Variant": null,
     "Color": "Silk Light Blue",
-    "Hex": "#92CECC"
+    "Hex": "#96E0E5"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "TPU-90A",
+    "Variant": null,
+    "Color": "Azure",
+    "Hex": "#008BE4"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "TPU-90A",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "TPU-90A",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#1DAA27"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "TPU-90A",
+    "Variant": null,
+    "Color": "Grey",
+    "Hex": "#75787B"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "TPU-90A",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#BC2726"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "TPU-90A",
+    "Variant": null,
+    "Color": "Sunny Orange",
+    "Hex": "#ED7334"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "TPU-90A",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "Azure",
+    "Hex": "#008BE4"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#1DAA27"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "Grey",
+    "Hex": "#75787B"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "Pink",
+    "Hex": "#F57EB6"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#BC2726"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "Sunny Orange",
+    "Hex": "#ED7334"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "SUNLU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "Yellow",
+    "Hex": "#FCE300"
   },
   {
     "Brand": "SUNLU",
     "Material": "WOOD",
     "Variant": null,
-    "Color": "Cherry Wood",
-    "Hex": "#6C4F4C"
+    "Color": "Cherry",
+    "Hex": "#AC7575"
   },
   {
     "Brand": "SUNLU",
     "Material": "WOOD",
     "Variant": null,
-    "Color": "Maple Wood",
-    "Hex": "#C7AA8D"
+    "Color": "Maple",
+    "Hex": "#E5BD8E"
   },
   {
     "Brand": "SUNLU",
     "Material": "WOOD",
     "Variant": null,
-    "Color": "Walnut Wood",
-    "Hex": "#564E44"
+    "Color": "Walnut",
+    "Hex": "#58473F"
   },
   {
     "Brand": "SUNLU",
     "Material": "WOOD",
     "Variant": null,
-    "Color": "Wood Wood",
-    "Hex": "#CFAF94"
+    "Color": "Wood",
+    "Hex": "#997D73"
   },
   {
     "Brand": "TECBEARS",
@@ -28558,6 +36888,27 @@
     "Variant": null,
     "Color": "flame-bright Yellow",
     "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "kexcelled",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "The K5 T Transparent Clear Blue",
+    "Hex": "#69B6F8"
+  },
+  {
+    "Brand": "kexcelled",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "The K5 T Transparent Clear Clear Green",
+    "Hex": "#4CE169"
+  },
+  {
+    "Brand": "kexcelled",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "The K8 64D Transparent White",
+    "Hex": "#FFFFFF"
   },
   {
     "Brand": "Colorfabb",
@@ -34072,13 +42423,6 @@
     "Brand": "Bambu Lab",
     "Material": "<span",
     "Variant": "class=\"align-middle\">PLA Basic</span>",
-    "Color": "Gold",
-    "Hex": "#FFD700"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Basic</span>",
     "Color": "Pumpkin Orange",
     "Hex": "#FFA500"
   },
@@ -34088,6 +42432,13 @@
     "Variant": "class=\"align-middle\">PLA Basic</span>",
     "Color": "Orange",
     "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic</span>",
+    "Color": "Gold",
+    "Hex": "#FFD700"
   },
   {
     "Brand": "Bambu Lab",
@@ -34372,142 +42723,51 @@
   {
     "Brand": "Bambu Lab",
     "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Translucent</span>",
-    "Color": "Teal",
-    "Hex": "#008080"
+    "Variant": "class=\"align-middle\">PLA Tough+</span>",
+    "Color": "Black",
+    "Hex": "#000000"
   },
   {
     "Brand": "Bambu Lab",
     "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Translucent</span>",
-    "Color": "Blue",
-    "Hex": "#0000FF"
+    "Variant": "class=\"align-middle\">PLA Tough+</span>",
+    "Color": "White",
+    "Hex": "#FFFFFF"
   },
   {
     "Brand": "Bambu Lab",
     "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Translucent</span>",
-    "Color": "Purple",
-    "Hex": "#800080"
+    "Variant": "class=\"align-middle\">PLA Tough+</span>",
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
   },
   {
     "Brand": "Bambu Lab",
     "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Translucent</span>",
+    "Variant": "class=\"align-middle\">PLA Tough+</span>",
     "Color": "Orange",
     "Hex": "#FFA500"
   },
   {
     "Brand": "Bambu Lab",
     "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Translucent</span>",
-    "Color": "Red",
-    "Hex": "#FF0000"
+    "Variant": "class=\"align-middle\">PLA Tough+</span>",
+    "Color": "Gray",
+    "Hex": "#808080"
   },
   {
     "Brand": "Bambu Lab",
     "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Translucent</span>",
-    "Color": "Light Jade",
-    "Hex": "#00A86B"
+    "Variant": "class=\"align-middle\">PLA Tough+</span>",
+    "Color": "Silver",
+    "Hex": "#C0C0C0"
   },
   {
     "Brand": "Bambu Lab",
     "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Translucent</span>",
-    "Color": "Mellow Yellow",
-    "Hex": "#FFFF00"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Translucent</span>",
-    "Color": "Cherry Pink",
-    "Hex": "#FFC0CB"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Translucent</span>",
-    "Color": "Ice Blue",
-    "Hex": "#0000FF"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Translucent</span>",
-    "Color": "Lavender",
-    "Hex": "#E6E6FA"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Silk Multi-Color</span>",
-    "Color": "Dawn Radiance",
-    "Hex": null
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Silk Multi-Color</span>",
-    "Color": "Aurora Purple",
-    "Hex": "#800080"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Silk Multi-Color</span>",
-    "Color": "South Beach",
-    "Hex": null
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Silk Multi-Color</span>",
-    "Color": "Phantom Blue",
-    "Hex": "#0000FF"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Silk Multi-Color</span>",
-    "Color": "Mystic Magenta",
-    "Hex": "#FF00FF"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Silk Multi-Color</span>",
-    "Color": "Velvet Eclipse",
-    "Hex": null
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Silk Multi-Color</span>",
-    "Color": "Neon City",
-    "Hex": null
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Silk Multi-Color</span>",
-    "Color": "Midnight Blaze",
-    "Hex": "#FF6600"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Silk Multi-Color</span>",
-    "Color": "Gilded Rose",
-    "Hex": null
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Silk Multi-Color</span>",
-    "Color": "Blue Hawaii",
-    "Hex": "#0000FF"
+    "Variant": "class=\"align-middle\">PLA Tough+</span>",
+    "Color": "Cyan",
+    "Hex": "#00FFFF"
   },
   {
     "Brand": "Bambu Lab",
@@ -34688,15 +42948,15 @@
     "Brand": "Bambu Lab",
     "Material": "<span",
     "Variant": "class=\"align-middle\">ABS</span>",
-    "Color": "Black",
-    "Hex": "#000000"
+    "Color": "Silver",
+    "Hex": "#C0C0C0"
   },
   {
     "Brand": "Bambu Lab",
     "Material": "<span",
     "Variant": "class=\"align-middle\">ABS</span>",
-    "Color": "Silver",
-    "Hex": "#C0C0C0"
+    "Color": "Black",
+    "Hex": "#000000"
   },
   {
     "Brand": "Bambu Lab",
@@ -34723,27 +42983,6 @@
     "Brand": "Bambu Lab",
     "Material": "<span",
     "Variant": "class=\"align-middle\">ABS</span>",
-    "Color": "Azure",
-    "Hex": "#F0FFFF"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">ABS</span>",
-    "Color": "Blue",
-    "Hex": "#0000FF"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">ABS</span>",
-    "Color": "Navy Blue",
-    "Hex": "#0000FF"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">ABS</span>",
     "Color": "Tangerine Yellow",
     "Hex": "#FFFF00"
   },
@@ -34764,9 +43003,23 @@
   {
     "Brand": "Bambu Lab",
     "Material": "<span",
-    "Variant": "class=\"align-middle\">PETG Translucent</span>",
-    "Color": "Light Blue",
-    "Hex": "#ADD8E6"
+    "Variant": "class=\"align-middle\">ABS</span>",
+    "Color": "Azure",
+    "Hex": "#F0FFFF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">ABS</span>",
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">ABS</span>",
+    "Color": "Navy Blue",
+    "Hex": "#0000FF"
   },
   {
     "Brand": "Bambu Lab",
@@ -34774,6 +43027,13 @@
     "Variant": "class=\"align-middle\">PETG Translucent</span>",
     "Color": "Teal",
     "Hex": "#008080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PETG Translucent</span>",
+    "Color": "Light Blue",
+    "Hex": "#ADD8E6"
   },
   {
     "Brand": "Bambu Lab",
@@ -34827,86 +43087,72 @@
   {
     "Brand": "Bambu Lab",
     "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Tough+</span>",
-    "Color": "Yellow",
-    "Hex": "#FFFF00"
+    "Variant": "class=\"align-middle\">PLA Translucent</span>",
+    "Color": "Teal",
+    "Hex": "#008080"
   },
   {
     "Brand": "Bambu Lab",
     "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Tough+</span>",
-    "Color": "White",
-    "Hex": "#FFFFFF"
+    "Variant": "class=\"align-middle\">PLA Translucent</span>",
+    "Color": "Blue",
+    "Hex": "#0000FF"
   },
   {
     "Brand": "Bambu Lab",
     "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Tough+</span>",
+    "Variant": "class=\"align-middle\">PLA Translucent</span>",
     "Color": "Orange",
     "Hex": "#FFA500"
   },
   {
     "Brand": "Bambu Lab",
     "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Tough+</span>",
-    "Color": "Gray",
-    "Hex": "#808080"
+    "Variant": "class=\"align-middle\">PLA Translucent</span>",
+    "Color": "Purple",
+    "Hex": "#800080"
   },
   {
     "Brand": "Bambu Lab",
     "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Tough+</span>",
-    "Color": "Silver",
-    "Hex": "#C0C0C0"
+    "Variant": "class=\"align-middle\">PLA Translucent</span>",
+    "Color": "Red",
+    "Hex": "#FF0000"
   },
   {
     "Brand": "Bambu Lab",
     "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Tough+</span>",
-    "Color": "Cyan",
-    "Hex": "#00FFFF"
+    "Variant": "class=\"align-middle\">PLA Translucent</span>",
+    "Color": "Light Jade",
+    "Hex": "#00A86B"
   },
   {
     "Brand": "Bambu Lab",
     "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Tough+</span>",
-    "Color": "Black",
-    "Hex": "#000000"
+    "Variant": "class=\"align-middle\">PLA Translucent</span>",
+    "Color": "Mellow Yellow",
+    "Hex": "#FFFF00"
   },
   {
     "Brand": "Bambu Lab",
     "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Glow</span>",
-    "Color": "Glow Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Glow</span>",
-    "Color": "Glow Pink",
+    "Variant": "class=\"align-middle\">PLA Translucent</span>",
+    "Color": "Cherry Pink",
     "Hex": "#FFC0CB"
   },
   {
     "Brand": "Bambu Lab",
     "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Glow</span>",
-    "Color": "Glow Blue",
+    "Variant": "class=\"align-middle\">PLA Translucent</span>",
+    "Color": "Ice Blue",
     "Hex": "#0000FF"
   },
   {
     "Brand": "Bambu Lab",
     "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Glow</span>",
-    "Color": "Glow Orange",
-    "Hex": "#FFA500"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Glow</span>",
-    "Color": "Glow Yellow",
-    "Hex": "#FFFF00"
+    "Variant": "class=\"align-middle\">PLA Translucent</span>",
+    "Color": "Lavender",
+    "Hex": "#E6E6FA"
   },
   {
     "Brand": "Hatchbox",
