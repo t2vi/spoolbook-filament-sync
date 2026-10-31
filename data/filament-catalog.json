@@ -8599,6 +8599,13 @@
     "Brand": "Deeplee",
     "Material": "PLA+",
     "Variant": null,
+    "Color": "High Speed 2.0 Hot Pink",
+    "Hex": "#FF5CCD"
+  },
+  {
+    "Brand": "Deeplee",
+    "Material": "PLA+",
+    "Variant": null,
     "Color": "Light Green",
     "Hex": "#6EDC85"
   },
@@ -14278,6 +14285,27 @@
     "Variant": null,
     "Color": "Uranium Yellow",
     "Hex": "#ACCB35"
+  },
+  {
+    "Brand": "Fusion",
+    "Material": "PCTG",
+    "Variant": null,
+    "Color": "Atomic Orange",
+    "Hex": "#FF3300"
+  },
+  {
+    "Brand": "Fusion",
+    "Material": "PCTG",
+    "Variant": null,
+    "Color": "Cold Fusion Blue",
+    "Hex": "#00CED1"
+  },
+  {
+    "Brand": "Fusion",
+    "Material": "PCTG",
+    "Variant": null,
+    "Color": "Reactor Red",
+    "Hex": "#FF0000"
   },
   {
     "Brand": "Fusion",
