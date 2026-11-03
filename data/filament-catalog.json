@@ -8463,6 +8463,27 @@
     "Hex": "#FFFFFF"
   },
   {
+    "Brand": "Das Filament",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Natur",
+    "Hex": "#E4E7E5"
+  },
+  {
+    "Brand": "Das Filament",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Schwarz",
+    "Hex": "#0A0A0A"
+  },
+  {
+    "Brand": "Das Filament",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Weiß",
+    "Hex": "#FFFFFF"
+  },
+  {
     "Brand": "Deeplee",
     "Material": "PLA",
     "Variant": null,
@@ -39558,34 +39579,6 @@
   },
   {
     "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": "Luminous",
-    "Color": "Luminous Blue",
-    "Hex": "#0000FF"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PETG",
-    "Variant": "Luminous",
-    "Color": "Luminous Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Luminous",
-    "Color": "Luminous Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "eSUN",
-    "Material": "PLA",
-    "Variant": "Luminous",
-    "Color": "Luminous Blue",
-    "Hex": "#0000FF"
-  },
-  {
-    "Brand": "eSUN",
     "Material": "PLA",
     "Variant": "LW",
     "Color": "Natural",
@@ -42093,6 +42086,20 @@
   {
     "Brand": "eSUN",
     "Material": "PLA",
+    "Variant": "Luminous",
+    "Color": "Luminous Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
+    "Variant": "Luminous",
+    "Color": "Luminous Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PLA",
     "Variant": "UV Color Change",
     "Color": "UV Change Orange",
     "Hex": "#FFA500"
@@ -42194,6 +42201,20 @@
     "Variant": "Rock",
     "Color": "Sandstone",
     "Hex": "#C2985B"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Luminous",
+    "Color": "Luminous Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "eSUN",
+    "Material": "PETG",
+    "Variant": "Luminous",
+    "Color": "Luminous Green",
+    "Hex": "#008000"
   },
   {
     "Brand": "eSUN",
