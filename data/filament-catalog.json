@@ -37213,6 +37213,62 @@
   },
   {
     "Brand": "Colorfabb",
+    "Material": "TPU",
+    "Variant": "Varioshore",
+    "Color": "75A JET BLACK",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Colorfabb",
+    "Material": "TPU",
+    "Variant": "Varioshore",
+    "Color": "75A LIGHT IVORY",
+    "Hex": "#FFFFF0"
+  },
+  {
+    "Brand": "Colorfabb",
+    "Material": "TPU",
+    "Variant": "Varioshore",
+    "Color": "75A MOON GREY",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Colorfabb",
+    "Material": "TPU",
+    "Variant": "Varioshore",
+    "Color": "75A PURE ORANGE",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Colorfabb",
+    "Material": "TPU",
+    "Variant": "Varioshore",
+    "Color": "75A TRAFFIC YELLOW",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Colorfabb",
+    "Material": "TPU",
+    "Variant": "Varioshore",
+    "Color": "75A PASTEL VIOLET",
+    "Hex": "#EE82EE"
+  },
+  {
+    "Brand": "Colorfabb",
+    "Material": "TPU",
+    "Variant": "Varioshore",
+    "Color": "75A TRAFFIC RED",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Colorfabb",
+    "Material": "TPU",
+    "Variant": "Varioshore",
+    "Color": "75A SKY BLUE",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Colorfabb",
     "Material": "TPU 95A",
     "Variant": "Varioshore",
     "Color": "NATURAL",
