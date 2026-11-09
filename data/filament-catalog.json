@@ -20856,286 +20856,6 @@
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Luminous Blue",
-    "Hex": "#419EC2"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Luminous Green",
-    "Hex": "#75DF69"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Luminous Orange",
-    "Hex": "#EC7626"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Luminous Pink",
-    "Hex": "#F48079"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Luminous Yellow",
-    "Hex": "#CCC93C"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Black",
-    "Hex": "#363538"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Blue",
-    "Hex": "#4999C9"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Brass",
-    "Hex": "#968162"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Bronze",
-    "Hex": "#AF6B4C"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Chrome",
-    "Hex": "#85898B"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Dark Blue",
-    "Hex": "#23599A"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Gold",
-    "Hex": "#C49449"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Green",
-    "Hex": "#55B687"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Gunmetal Grey",
-    "Hex": "#676B6A"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Light Blue",
-    "Hex": "#4CC1CB"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Lime",
-    "Hex": "#C4CF4C"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Magenta",
-    "Hex": "#AA538E"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Orange",
-    "Hex": "#EB6232"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Peridot Green",
-    "Hex": "#7F865B"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Periwinkle",
-    "Hex": "#768EC7"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Purple",
-    "Hex": "#786BB0"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Quartz Pink",
-    "Hex": "#DBBBBB"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Red",
-    "Hex": "#C1443F"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Rose",
-    "Hex": "#CF6076"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Rose Gold",
-    "Hex": "#CBB0B1"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Silver",
-    "Hex": "#BCC2C8"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Teal",
-    "Hex": "#66C2B6"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk White",
-    "Hex": "#DFE4E4"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Silk Yellow",
-    "Hex": "#EEC810"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Starlight Aurora",
-    "Hex": "#314530"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Starlight Comet",
-    "Hex": "#1F312A"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Starlight Jupiter",
-    "Hex": "#774718"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Starlight Mars",
-    "Hex": "#962E31"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Starlight Mercury",
-    "Hex": "#33322D"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Starlight Meteor",
-    "Hex": "#2F3117"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Starlight Midnight",
-    "Hex": "#475A64"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Starlight Nebula",
-    "Hex": "#462F32"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Starlight Neptune",
-    "Hex": "#113148"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Starlight Pulsar",
-    "Hex": "#5C7BC1"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Panchroma™ (Formerly PolyLite™) Starlight Twilight",
-    "Hex": "#1E3445"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
     "Color": "Panchroma™ Celestial Blue",
     "Hex": "#6ADCF7"
   },
@@ -21185,393 +20905,505 @@
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Dual Chameleon (Teal-Yellow)",
-    "Hex": "#5AABB1, #F0BE02"
+    "Color": "Panchroma™ Dual Camouflage (Dark Green-Brown)",
+    "Hex": "#5F6244, #795A4D"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Marble (Formerly PolyTerra™ Marble) Brick",
+    "Color": "Panchroma™ Dual Chameleon (Teal-Yellow)",
+    "Hex": "#61BCC3, #F3C432"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Dual Flamingo (Pink-Red)",
+    "Hex": "#EAADBD, #ED2F2E"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Dual Foggy Orange (Grey-Orange)",
+    "Hex": "#8A8C94, #F88B17"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Dual Foggy Purple (Grey-Purple)",
+    "Hex": "#8A8C94, #9572BF"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Dual Glacier Blue (Ice-Blue)",
+    "Hex": "#A4D0DF, #0163A6"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Dual Mixed Berries (Red-Dark Blue)",
+    "Hex": "#BF312E, #2E4462"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Dual Shadow Black (White-Black)",
+    "Hex": "#F4EFEB, #2F2E30"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Dual Shadow Orange (Orange-Black)",
+    "Hex": "#F88B17, #2F2E30"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Dual Shadow Red (Black-Red)",
+    "Hex": "#2F2E30, #ED2F2E"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Dual Sunrise (Red-Yellow)",
+    "Hex": "#ED2F2E, #F3C432"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Luminous Blue",
+    "Hex": "#419EC2"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Luminous Green",
+    "Hex": "#75DF69"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Luminous Orange",
+    "Hex": "#EC7626"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Luminous Pink",
+    "Hex": "#F48079"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Luminous Yellow",
+    "Hex": "#CCC93C"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Marble Brick",
     "Hex": "#CF6646"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Marble (Formerly PolyTerra™ Marble) Limestone",
+    "Color": "Panchroma™ Marble Limestone",
     "Hex": "#BFBFB3"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Marble (Formerly PolyTerra™ Marble) Sandstone",
+    "Color": "Panchroma™ Marble Sandstone",
     "Hex": "#C6C781"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Marble (Formerly PolyTerra™ Marble) Slate Grey",
+    "Color": "Panchroma™ Marble Slate Grey",
     "Hex": "#91C2CC"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Marble (Formerly PolyTerra™ Marble) White",
+    "Color": "Panchroma™ Marble White",
     "Hex": "#CFCCD6"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Arctic Teal",
-    "Hex": "#5AABB1"
+    "Color": "Panchroma™ Matte Arctic Teal",
+    "Hex": "#61BCC3"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Army Beige",
-    "Hex": "#CCA897"
+    "Color": "Panchroma™ Matte Army Beige",
+    "Hex": "#DBBAA5"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Army Blue",
-    "Hex": "#062B4D"
+    "Color": "Panchroma™ Matte Army Blue",
+    "Hex": "#2E4462"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Army Brown",
-    "Hex": "#724E3D"
+    "Color": "Panchroma™ Matte Army Brown",
+    "Hex": "#795A4D"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Army Dark Green",
-    "Hex": "#515234"
+    "Color": "Panchroma™ Matte Army Dark Green",
+    "Hex": "#5F6244"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Army Light Green",
-    "Hex": "#A78403"
+    "Color": "Panchroma™ Matte Army Light Green",
+    "Hex": "#AB8C02"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Army Purple",
-    "Hex": "#292036"
+    "Color": "Panchroma™ Matte Army Purple",
+    "Hex": "#36364A"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Army Red",
-    "Hex": "#AC1A17"
+    "Color": "Panchroma™ Matte Army Red",
+    "Hex": "#BF312E"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Ash Grey",
-    "Hex": "#575E75"
+    "Color": "Panchroma™ Matte Ash Grey",
+    "Hex": "#485155"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Charcoal Black",
-    "Hex": "#1C1C1C"
+    "Color": "Panchroma™ Matte Charcoal Black",
+    "Hex": "#2F2E30"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Cotton White",
-    "Hex": "#E6DDDB"
+    "Color": "Panchroma™ Matte Cotton White",
+    "Hex": "#F4EFEB"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Earth Brown",
+    "Color": "Panchroma™ Matte Earth Brown",
     "Hex": "#7C594A"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Electric Indigo",
-    "Hex": "#764C99"
+    "Color": "Panchroma™ Matte Electric Indigo",
+    "Hex": "#6858A9"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Emerald Green",
+    "Color": "Panchroma™ Matte Electric Magenta",
+    "Hex": "#F05B8F"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Matte Emerald Green",
     "Hex": "#22624F"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Forest Green",
-    "Hex": "#519F61"
+    "Color": "Panchroma™ Matte Forest Green",
+    "Hex": "#60AD70"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Fossil Grey",
-    "Hex": "#6F727E"
+    "Color": "Panchroma™ Matte Fossil Grey",
+    "Hex": "#8A8C94"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Grass Green",
+    "Color": "Panchroma™ Matte Grass Green",
     "Hex": "#32BC46"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Lava Red",
-    "Hex": "#DE1619"
+    "Color": "Panchroma™ Matte Lava Red",
+    "Hex": "#ED2F2E"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Lavender Purple",
-    "Hex": "#8A68B5"
+    "Color": "Panchroma™ Matte Lavender Purple",
+    "Hex": "#9572BF"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Lime Green",
-    "Hex": "#D0E740"
+    "Color": "Panchroma™ Matte Lime Green",
+    "Hex": "#D7D602"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Lotus Pink",
-    "Hex": "#F98289"
+    "Color": "Panchroma™ Matte Lotus Pink",
+    "Hex": "#DD76C0"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Muted Blue",
-    "Hex": "#4E6A84"
+    "Color": "Panchroma™ Matte Muted Blue",
+    "Hex": "#5F778E"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Muted Green",
-    "Hex": "#656D60"
+    "Color": "Panchroma™ Matte Muted Green",
+    "Hex": "#777E71"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Muted Mauve",
+    "Color": "Panchroma™ Matte Muted Mauve",
     "Hex": "#A36D82"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Muted Moss",
+    "Color": "Panchroma™ Matte Muted Moss",
     "Hex": "#92864F"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Muted Purple",
-    "Hex": "#7C5577"
+    "Color": "Panchroma™ Matte Muted Purple",
+    "Hex": "#7C5C78"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Muted Red",
-    "Hex": "#DB3E14"
+    "Color": "Panchroma™ Matte Muted Red",
+    "Hex": "#D84B2E"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Muted Teal",
+    "Color": "Panchroma™ Matte Muted Teal",
     "Hex": "#5D989E"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Muted Terracotta",
+    "Color": "Panchroma™ Matte Muted Terracotta",
     "Hex": "#C06443"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Muted White",
-    "Hex": "#AFA198"
+    "Color": "Panchroma™ Matte Muted White",
+    "Hex": "#BBADA4"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Pastel Banana",
-    "Hex": "#F5CF6F"
+    "Color": "Panchroma™ Matte Pastel Banana",
+    "Hex": "#F7D475"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Pastel Beige",
+    "Color": "Panchroma™ Matte Pastel Beige",
     "Hex": "#E4D0B0"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Pastel Candy",
-    "Hex": "#DABCC8"
+    "Color": "Panchroma™ Matte Pastel Candy",
+    "Hex": "#F0D6D9"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Pastel Coral",
+    "Color": "Panchroma™ Matte Pastel Coral",
     "Hex": "#F09A7E"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Pastel Ice",
-    "Hex": "#95C5D3"
+    "Color": "Panchroma™ Matte Pastel Ice",
+    "Hex": "#A4D0DF"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Pastel Mint",
-    "Hex": "#BEC9A5"
+    "Color": "Panchroma™ Matte Pastel Mint",
+    "Hex": "#D2DEBB"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Pastel Peach",
-    "Hex": "#F2B67A"
+    "Color": "Panchroma™ Matte Pastel Peach",
+    "Hex": "#F6BF8B"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Pastel Peanut",
-    "Hex": "#C29572"
+    "Color": "Panchroma™ Matte Pastel Peanut",
+    "Hex": "#BF9573"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Pastel Periwinkle",
-    "Hex": "#BFB2E6"
+    "Color": "Panchroma™ Matte Pastel Periwinkle",
+    "Hex": "#ADB4E6"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Pastel Watermelon",
-    "Hex": "#E93A3F"
+    "Color": "Panchroma™ Matte Pastel Watermelon",
+    "Hex": "#EE474B"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Raspberry Blue",
+    "Color": "Panchroma™ Matte Raspberry Blue",
     "Hex": "#5472D0"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Sakura Pink",
-    "Hex": "#E0A8BB"
+    "Color": "Panchroma™ Matte Sakura Pink",
+    "Hex": "#EAADBD"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Sapphire Blue",
-    "Hex": "#005AA2"
+    "Color": "Panchroma™ Matte Sapphire Blue",
+    "Hex": "#0163A6"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Savannah Yellow",
-    "Hex": "#F0BE02"
+    "Color": "Panchroma™ Matte Savannah Yellow",
+    "Hex": "#F3C432"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Seafoam Green",
+    "Color": "Panchroma™ Matte Seafoam Green",
     "Hex": "#7DD4BE"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Sky Blue",
-    "Hex": "#87CEEB"
+    "Color": "Panchroma™ Matte Sky Blue",
+    "Hex": "#1AC5FC"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Sunrise Orange",
-    "Hex": "#F78E0E"
+    "Color": "Panchroma™ Matte Sunrise Orange",
+    "Hex": "#F88B17"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Sunshine Yellow",
+    "Color": "Panchroma™ Matte Sunshine Yellow",
     "Hex": "#F9DA07"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Wine Burgundy",
+    "Color": "Panchroma™ Matte Wine Burgundy",
     "Hex": "#753E4C"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Panchroma™ Matte (Formerly PolyTerra™) Wood Brown",
-    "Hex": "#AD7441"
+    "Color": "Panchroma™ Matte Wood Brown",
+    "Hex": "#AB7449"
   },
   {
     "Brand": "Polymaker",
@@ -21775,6 +21607,251 @@
     "Variant": null,
     "Color": "Panchroma™ Regular Yellow",
     "Hex": "#F3B400"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Black",
+    "Hex": "#363538"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Blue",
+    "Hex": "#4999C9"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Brass",
+    "Hex": "#968162"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Bronze",
+    "Hex": "#AF6B4C"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Chrome",
+    "Hex": "#85898B"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Dark Blue",
+    "Hex": "#23599A"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Gold",
+    "Hex": "#C49449"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Green",
+    "Hex": "#55B687"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Gunmetal Grey",
+    "Hex": "#676B6A"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Light Blue",
+    "Hex": "#4CC1CB"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Lime",
+    "Hex": "#C4CF4C"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Magenta",
+    "Hex": "#AA538E"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Orange",
+    "Hex": "#EB6232"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Peridot Green",
+    "Hex": "#7F865B"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Periwinkle",
+    "Hex": "#768EC7"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Purple",
+    "Hex": "#786BB0"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Quartz Pink",
+    "Hex": "#DBBBBB"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Red",
+    "Hex": "#C1443F"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Rose",
+    "Hex": "#CF6076"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Rose Gold",
+    "Hex": "#CBB0B1"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Silver",
+    "Hex": "#BCC2C8"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Teal",
+    "Hex": "#66C2B6"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk White",
+    "Hex": "#DFE4E4"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Silk Yellow",
+    "Hex": "#EEC810"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Starlight Aurora",
+    "Hex": "#314530"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Starlight Comet",
+    "Hex": "#1F312A"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Starlight Jupiter",
+    "Hex": "#774718"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Starlight Mars",
+    "Hex": "#962E31"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Starlight Mercury",
+    "Hex": "#33322D"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Starlight Meteor",
+    "Hex": "#2F3117"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Starlight Midnight",
+    "Hex": "#475A64"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Starlight Nebula",
+    "Hex": "#462F32"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Starlight Neptune",
+    "Hex": "#113148"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Starlight Pulsar",
+    "Hex": "#5C7BC1"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Panchroma™ Starlight Twilight",
+    "Hex": "#1E3445"
   },
   {
     "Brand": "Polymaker",
@@ -43006,181 +43083,6 @@
     "Variant": "class=\"align-middle\">PLA Tough+</span>",
     "Color": "Cyan",
     "Hex": "#00FFFF"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Ivory White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Bone White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Lemon Yellow",
-    "Hex": "#FFFF00"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Mandarin Orange",
-    "Hex": "#FFA500"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Sakura Pink",
-    "Hex": "#FFC0CB"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Lilac purple",
-    "Hex": "#800080"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Plum",
-    "Hex": "#DDA0DD"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Scarlet Red",
-    "Hex": "#FF0000"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Dark Red",
-    "Hex": "#8B0000"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Apple Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Grass Green",
-    "Hex": "#008000"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Dark Green",
-    "Hex": "#006400"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Ice Blue",
-    "Hex": "#0000FF"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Sky Blue",
-    "Hex": "#87CEEB"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Marine Blue",
-    "Hex": "#0000FF"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Dark Blue",
-    "Hex": "#00008B"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Desert Tan",
-    "Hex": "#D2B48C"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Latte Brown",
-    "Hex": "#A52A2A"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Caramel",
-    "Hex": "#C68E17"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Terracotta",
-    "Hex": "#E2725B"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Dark Brown",
-    "Hex": "#A52A2A"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Dark Chocolate",
-    "Hex": "#D2691E"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Ash Gray",
-    "Hex": "#808080"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Nardo Gray",
-    "Hex": "#808080"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte</span>",
-    "Color": "Charcoal",
-    "Hex": "#36454F"
   },
   {
     "Brand": "Bambu Lab",
