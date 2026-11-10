@@ -11350,8 +11350,36 @@
     "Brand": "Extrudr",
     "Material": "PLA",
     "Variant": null,
+    "Color": "NX2-MATT - Active Green",
+    "Hex": "#47A185"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "NX2-MATT - Anthracite",
     "Hex": "#293133"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Autumn Yellow",
+    "Hex": "#D6A209"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Beige",
+    "Hex": "#C6B286"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Bird Blue Grey",
+    "Hex": "#818E9E"
   },
   {
     "Brand": "Extrudr",
@@ -11371,8 +11399,99 @@
     "Brand": "Extrudr",
     "Material": "PLA",
     "Variant": null,
+    "Color": "NX2-MATT - Brick Brown",
+    "Hex": "#804D48"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "NX2-MATT - Brown",
     "Hex": "#59351F"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Cardinal Red",
+    "Hex": "#8F355A"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Carmine Red",
+    "Hex": "#8D1F24"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Carriage Yellow",
+    "Hex": "#EFBF5D"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Caviar Black",
+    "Hex": "#4E413A"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Chestnut Red",
+    "Hex": "#633640"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Colombo Red Mauve",
+    "Hex": "#B273AE"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Concrete Grey",
+    "Hex": "#7D7F76"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Coral Red",
+    "Hex": "#963D2F"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Cucumber Green",
+    "Hex": "#4C6356"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Dark Grey",
+    "Hex": "#5C5C5C"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Date Fruit Brown",
+    "Hex": "#A06932"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Dream Green",
+    "Hex": "#4C816E"
   },
   {
     "Brand": "Extrudr",
@@ -11385,8 +11504,64 @@
     "Brand": "Extrudr",
     "Material": "PLA",
     "Variant": null,
+    "Color": "NX2-MATT - Enamel Green",
+    "Hex": "#B8CFAD"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "NX2-MATT - Epic Purple",
     "Hex": "#4A192C"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Fire Yellow",
+    "Hex": "#F1C12B"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Flax Fibre Grey",
+    "Hex": "#B1AB99"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Florentine Brown",
+    "Hex": "#6E5644"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Foggy Grey",
+    "Hex": "#C6C6C5"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Fox Red",
+    "Hex": "#BB5237"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Fresh Green",
+    "Hex": "#729E65"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Gentian Violet",
+    "Hex": "#A283A0"
   },
   {
     "Brand": "Extrudr",
@@ -11399,6 +11574,13 @@
     "Brand": "Extrudr",
     "Material": "PLA",
     "Variant": null,
+    "Color": "NX2-MATT - Halite Blue",
+    "Hex": "#1E314B"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "NX2-MATT - Hellfire Red",
     "Hex": "#F80000"
   },
@@ -11406,8 +11588,99 @@
     "Brand": "Extrudr",
     "Material": "PLA",
     "Variant": null,
+    "Color": "NX2-MATT - Holland Red",
+    "Hex": "#BC4444"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Indian Yellow",
+    "Hex": "#E79539"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Japanese White",
+    "Hex": "#ECE6D9"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Kingfisher Blue",
+    "Hex": "#1F5B90"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Laundry Blue",
+    "Hex": "#A2AAB1"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Led Blue",
+    "Hex": "#134A85"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "NX2-MATT - Light Blue",
     "Hex": "#3B83BD"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Light Corn",
+    "Hex": "#EEE3D0"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Light Pink",
+    "Hex": "#CC9EA4"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Lingonberry Red",
+    "Hex": "#BF4355"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Linoleum Green",
+    "Hex": "#5AA178"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Mango Orange",
+    "Hex": "#E98F57"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Marble Grey",
+    "Hex": "#B7B8B8"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Metallic",
+    "Hex": "#767779"
   },
   {
     "Brand": "Extrudr",
@@ -11427,8 +11700,29 @@
     "Brand": "Extrudr",
     "Material": "PLA",
     "Variant": null,
+    "Color": "NX2-MATT - Military Dark Green",
+    "Hex": "#2A372C"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "NX2-MATT - Military Green",
     "Hex": "#424632"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Mortar Grey",
+    "Hex": "#9C9C9D"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Naples Yellow",
+    "Hex": "#D99D2C"
   },
   {
     "Brand": "Extrudr",
@@ -11441,8 +11735,22 @@
     "Brand": "Extrudr",
     "Material": "PLA",
     "Variant": null,
+    "Color": "NX2-MATT - Neon Green",
+    "Hex": "#20A339"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "NX2-MATT - Neon Orange",
     "Hex": "#FF2301"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Neon Pink",
+    "Hex": "#FFFF00"
   },
   {
     "Brand": "Extrudr",
@@ -11455,6 +11763,20 @@
     "Brand": "Extrudr",
     "Material": "PLA",
     "Variant": null,
+    "Color": "NX2-MATT - Neptune Blue",
+    "Hex": "#425499"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Northern Light Grey",
+    "Hex": "#A6ABB3"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "NX2-MATT - Orange",
     "Hex": "#F54021"
   },
@@ -11462,8 +11784,57 @@
     "Brand": "Extrudr",
     "Material": "PLA",
     "Variant": null,
+    "Color": "NX2-MATT - Pastel Blue",
+    "Hex": "#6C8DAA"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Peach Yellow",
+    "Hex": "#C4A079"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Pear Yellow",
+    "Hex": "#ECC345"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Pebble Grey",
+    "Hex": "#B1B1A1"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Pond Green",
+    "Hex": "#9A906E"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Primal Blue",
+    "Hex": "#3074B4"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "NX2-MATT - Purple",
     "Hex": "#924E7D"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Sandstone Grey",
+    "Hex": "#7E7466"
   },
   {
     "Brand": "Extrudr",
@@ -11483,6 +11854,13 @@
     "Brand": "Extrudr",
     "Material": "PLA",
     "Variant": null,
+    "Color": "NX2-MATT - Tiger Yellow",
+    "Hex": "#F5E485"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "NX2-MATT - Turquoise",
     "Hex": "#3F888F"
   },
@@ -11490,8 +11868,22 @@
     "Brand": "Extrudr",
     "Material": "PLA",
     "Variant": null,
+    "Color": "NX2-MATT - Vibrant Red",
+    "Hex": "#B54867"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "NX2-MATT - White",
     "Hex": "#F4F4F4"
+  },
+  {
+    "Brand": "Extrudr",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "NX2-MATT - Winter White",
+    "Hex": "#E0E1DF"
   },
   {
     "Brand": "Extrudr",
@@ -43083,6 +43475,181 @@
     "Variant": "class=\"align-middle\">PLA Tough+</span>",
     "Color": "Cyan",
     "Hex": "#00FFFF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Ivory White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Bone White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Lemon Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Mandarin Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Sakura Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Lilac purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Plum",
+    "Hex": "#DDA0DD"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Scarlet Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Dark Red",
+    "Hex": "#8B0000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Apple Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Grass Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Dark Green",
+    "Hex": "#006400"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Ice Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Sky Blue",
+    "Hex": "#87CEEB"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Marine Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Dark Blue",
+    "Hex": "#00008B"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Desert Tan",
+    "Hex": "#D2B48C"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Latte Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Caramel",
+    "Hex": "#C68E17"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Terracotta",
+    "Hex": "#E2725B"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Dark Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Dark Chocolate",
+    "Hex": "#D2691E"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Ash Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Nardo Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte</span>",
+    "Color": "Charcoal",
+    "Hex": "#36454F"
   },
   {
     "Brand": "Bambu Lab",
