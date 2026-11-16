@@ -2033,119 +2033,119 @@
     "Brand": "3DXTECH",
     "Material": "ABS",
     "Variant": null,
-    "Color": "3DXTECH™ Alpine Green",
+    "Color": "Alpine Green",
     "Hex": "#556B2F"
   },
   {
     "Brand": "3DXTECH",
     "Material": "ABS",
     "Variant": null,
-    "Color": "3DXTECH™ Army Green",
+    "Color": "Army Green",
     "Hex": "#4B5320"
   },
   {
     "Brand": "3DXTECH",
     "Material": "ABS",
     "Variant": null,
-    "Color": "3DXTECH™ Black",
+    "Color": "Black",
     "Hex": "#000000"
   },
   {
     "Brand": "3DXTECH",
     "Material": "ABS",
     "Variant": null,
-    "Color": "3DXTECH™ Burgundy",
+    "Color": "Burgundy",
     "Hex": "#800020"
   },
   {
     "Brand": "3DXTECH",
     "Material": "ABS",
     "Variant": null,
-    "Color": "3DXTECH™ Dark Grey",
+    "Color": "Dark Grey",
     "Hex": "#A9A9A9"
   },
   {
     "Brand": "3DXTECH",
     "Material": "ABS",
     "Variant": null,
-    "Color": "3DXTECH™ Glacier Grey",
+    "Color": "Glacier Grey",
     "Hex": "#D3D3D3"
   },
   {
     "Brand": "3DXTECH",
     "Material": "ABS",
     "Variant": null,
-    "Color": "3DXTECH™ Green",
+    "Color": "Green",
     "Hex": "#008000"
   },
   {
     "Brand": "3DXTECH",
     "Material": "ABS",
     "Variant": null,
-    "Color": "3DXTECH™ Metallic Copper",
+    "Color": "Metallic Copper",
     "Hex": "#B87333"
   },
   {
     "Brand": "3DXTECH",
     "Material": "ABS",
     "Variant": null,
-    "Color": "3DXTECH™ Metallic Gold",
+    "Color": "Metallic Gold",
     "Hex": "#D4AF37"
   },
   {
     "Brand": "3DXTECH",
     "Material": "ABS",
     "Variant": null,
-    "Color": "3DXTECH™ Natural",
+    "Color": "Natural",
     "Hex": "#F5F5DC"
   },
   {
     "Brand": "3DXTECH",
     "Material": "ABS",
     "Variant": null,
-    "Color": "3DXTECH™ Orange",
+    "Color": "Orange",
     "Hex": "#FFA500"
   },
   {
     "Brand": "3DXTECH",
     "Material": "ABS",
     "Variant": null,
-    "Color": "3DXTECH™ Red",
+    "Color": "Red",
     "Hex": "#FF0000"
   },
   {
     "Brand": "3DXTECH",
     "Material": "ABS",
     "Variant": null,
-    "Color": "3DXTECH™ Reflex Blue",
+    "Color": "Reflex Blue",
     "Hex": "#001489"
   },
   {
     "Brand": "3DXTECH",
     "Material": "ABS",
     "Variant": null,
-    "Color": "3DXTECH™ Ultra Blue",
+    "Color": "Ultra Blue",
     "Hex": "#4169E1"
   },
   {
     "Brand": "3DXTECH",
     "Material": "ABS",
     "Variant": null,
-    "Color": "3DXTECH™ White",
+    "Color": "White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "3DXTECH",
     "Material": "ABS",
     "Variant": null,
-    "Color": "3DXTECH™ Yellow",
+    "Color": "Yellow",
     "Hex": "#FFFF00"
   },
   {
     "Brand": "3DXTECH",
-    "Material": "ABS",
+    "Material": "ABS-CF",
     "Variant": null,
-    "Color": "CarbonX™ Carbon Fiber Black",
+    "Color": "CarbonX™ Black",
     "Hex": "#000000"
   },
   {
@@ -2227,9 +2227,9 @@
   },
   {
     "Brand": "3DXTECH",
-    "Material": "ASA",
+    "Material": "ASA-CF",
     "Variant": null,
-    "Color": "CarbonX™ Carbon Fiber Black",
+    "Color": "CarbonX™ Black",
     "Hex": "#000000"
   },
   {
@@ -2283,86 +2283,86 @@
   },
   {
     "Brand": "3DXTECH",
-    "Material": "PA12",
+    "Material": "PA12-CF",
     "Variant": null,
-    "Color": "CarbonX™ Carbon Fiber Black",
+    "Color": "CarbonX™ Black",
     "Hex": "#000000"
   },
   {
     "Brand": "3DXTECH",
-    "Material": "PA6",
+    "Material": "PA6-CF",
     "Variant": null,
-    "Color": "CarbonX™ Carbon Fiber Black",
+    "Color": "CarbonX™ Black",
     "Hex": "#000000"
   },
   {
     "Brand": "3DXTECH",
-    "Material": "PA6",
+    "Material": "PA6-CF",
     "Variant": null,
-    "Color": "Obsidian™ Carbon Fiber Black",
+    "Color": "Obsidian™ Black",
     "Hex": "#000000"
   },
   {
     "Brand": "3DXTECH",
-    "Material": "PA6",
+    "Material": "PA6-GF",
     "Variant": null,
-    "Color": "Obsidian™ Glass Fiber Blue",
+    "Color": "Obsidian™ Blue",
     "Hex": "#0000FF"
   },
   {
     "Brand": "3DXTECH",
-    "Material": "PA6",
+    "Material": "PA6-GF",
     "Variant": null,
-    "Color": "Obsidian™ Glass Fiber Flat Dark Earth",
+    "Color": "Obsidian™ Flat Dark Earth",
     "Hex": "#8B4513"
   },
   {
     "Brand": "3DXTECH",
-    "Material": "PA6",
+    "Material": "PA6-GF",
     "Variant": null,
-    "Color": "Obsidian™ Glass Fiber O.D. Green",
+    "Color": "Obsidian™ O.D. Green",
     "Hex": "#556B2F"
   },
   {
     "Brand": "3DXTECH",
-    "Material": "PA6",
+    "Material": "PA6-GF",
     "Variant": null,
-    "Color": "Obsidian™ Glass Fiber Orange",
+    "Color": "Obsidian™ Orange",
     "Hex": "#FFA500"
   },
   {
     "Brand": "3DXTECH",
-    "Material": "PA6",
+    "Material": "PA6-GF",
     "Variant": null,
-    "Color": "Obsidian™ Glass Fiber Red",
+    "Color": "Obsidian™ Red",
     "Hex": "#FF0000"
   },
   {
     "Brand": "3DXTECH",
-    "Material": "PA6",
+    "Material": "PA6-GF",
     "Variant": null,
-    "Color": "Obsidian™ Glass Fiber Silver",
+    "Color": "Obsidian™ Silver",
     "Hex": "#C0C0C0"
   },
   {
     "Brand": "3DXTECH",
-    "Material": "PA6",
+    "Material": "PA6-GF",
     "Variant": null,
-    "Color": "Obsidian™ Glass Fiber Snow",
+    "Color": "Obsidian™ Snow",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "3DXTECH",
-    "Material": "PA6",
+    "Material": "PA6-GF",
     "Variant": null,
-    "Color": "Obsidian™ Glass Fiber Tactical Tan",
+    "Color": "Obsidian™ Tactical Tan",
     "Hex": "#D2B48C"
   },
   {
     "Brand": "3DXTECH",
-    "Material": "PA6",
+    "Material": "PA6-GF",
     "Variant": null,
-    "Color": "Obsidian™ Glass Fiber Yellow",
+    "Color": "Obsidian™ Yellow",
     "Hex": "#FFFF00"
   },
   {
@@ -2385,20 +2385,6 @@
     "Variant": null,
     "Color": "3DXMAX™ White",
     "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "3DXTECH",
-    "Material": "PC",
-    "Variant": null,
-    "Color": "CarbonX™ Carbon Fiber Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "3DXTECH",
-    "Material": "PC",
-    "Variant": null,
-    "Color": "CarbonX™ ezPC™ Carbon Fiber Black",
-    "Hex": "#000000"
   },
   {
     "Brand": "3DXTECH",
@@ -2444,16 +2430,30 @@
   },
   {
     "Brand": "3DXTECH",
-    "Material": "PETG",
+    "Material": "PC-CF",
     "Variant": null,
-    "Color": "CarbonX™ Carbon Fiber Black",
+    "Color": "CarbonX™ Black",
     "Hex": "#000000"
   },
   {
     "Brand": "3DXTECH",
-    "Material": "PLA",
+    "Material": "PC-CF",
     "Variant": null,
-    "Color": "CarbonX™ Carbon Fiber Black",
+    "Color": "CarbonX™ ezPC™ Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "3DXTECH",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "CarbonX™ Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "3DXTECH",
+    "Material": "PLA-CF",
+    "Variant": null,
+    "Color": "CarbonX™ Black",
     "Hex": "#000000"
   },
   {
@@ -22102,196 +22102,196 @@
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Black",
+    "Color": "PolyLite™ ABS Black",
     "Hex": "#16161A"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Blue",
+    "Color": "PolyLite™ ABS Blue",
     "Hex": "#003276"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Dark Grey",
+    "Color": "PolyLite™ ABS Dark Grey",
     "Hex": "#474648"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Dark Purple",
+    "Color": "PolyLite™ ABS Dark Purple",
     "Hex": "#292036"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Galaxy Black",
+    "Color": "PolyLite™ ABS Galaxy Black",
     "Hex": "#474648"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Galaxy Dark Grey",
+    "Color": "PolyLite™ ABS Galaxy Dark Grey",
     "Hex": "#474648"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Galaxy Orange",
+    "Color": "PolyLite™ ABS Galaxy Orange",
     "Hex": "#F57517"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Galaxy Purple",
+    "Color": "PolyLite™ ABS Galaxy Purple",
     "Hex": "#6545A5"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Galaxy Teal",
+    "Color": "PolyLite™ ABS Galaxy Teal",
     "Hex": "#2DCCD3"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Gold",
+    "Color": "PolyLite™ ABS Gold",
     "Hex": "#BD6200"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Green",
+    "Color": "PolyLite™ ABS Green",
     "Hex": "#479161"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Grey",
+    "Color": "PolyLite™ ABS Grey",
     "Hex": "#8C8D93"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Light Blue",
+    "Color": "PolyLite™ ABS Light Blue",
     "Hex": "#8EDBEB"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Lime",
+    "Color": "PolyLite™ ABS Lime",
     "Hex": "#C4D100"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Metallic Blue",
+    "Color": "PolyLite™ ABS Metallic Blue",
     "Hex": "#043371"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Metallic Green",
+    "Color": "PolyLite™ ABS Metallic Green",
     "Hex": "#3D441E"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Natural",
+    "Color": "PolyLite™ ABS Natural",
     "Hex": "#E2E0C9"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Neon Green",
+    "Color": "PolyLite™ ABS Neon Green",
     "Hex": "#77F0A2"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Neon Magenta",
+    "Color": "PolyLite™ ABS Neon Magenta",
     "Hex": "#F6162E"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Neon Orange",
+    "Color": "PolyLite™ ABS Neon Orange",
     "Hex": "#FE602B"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Neon Yellow",
+    "Color": "PolyLite™ ABS Neon Yellow",
     "Hex": "#FFC001"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Orange",
+    "Color": "PolyLite™ ABS Orange",
     "Hex": "#F57517"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Pink",
+    "Color": "PolyLite™ ABS Pink",
     "Hex": "#FFA7C4"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Purple",
+    "Color": "PolyLite™ ABS Purple",
     "Hex": "#6545A5"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Red",
+    "Color": "PolyLite™ ABS Red",
     "Hex": "#F3442B"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Teal",
+    "Color": "PolyLite™ ABS Teal",
     "Hex": "#01ACBA"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS White",
+    "Color": "PolyLite™ ABS White",
     "Hex": "#F0EBE8"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Yellow",
+    "Color": "PolyLite™ ABS Yellow",
     "Hex": "#EDA900"
   },
   {
@@ -22466,7 +22466,7 @@
     "Brand": "Polymaker",
     "Material": "PA",
     "Variant": null,
-    "Color": "PolyMide™ CoPA Black",
+    "Color": "PolyMide™ CoPA Black",
     "Hex": "#101820"
   },
   {
@@ -22515,14 +22515,14 @@
     "Brand": "Polymaker",
     "Material": "PC",
     "Variant": null,
-    "Color": "PolyMax™ PC-FR Black",
+    "Color": "PolyMax™ PC-FR Black",
     "Hex": "#101820"
   },
   {
     "Brand": "Polymaker",
     "Material": "PC",
     "Variant": null,
-    "Color": "PolyMax™ PC-FR White",
+    "Color": "PolyMax™ PC-FR White",
     "Hex": "#FFFFFF"
   },
   {
@@ -22704,14 +22704,14 @@
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyMax™ PETG Black",
+    "Color": "PolyMax™ PETG Black",
     "Hex": "#101820"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyMax™ PETG White",
+    "Color": "PolyMax™ PETG White",
     "Hex": "#FFFFFF"
   },
   {
@@ -23733,6 +23733,62 @@
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
+    "Color": "PolyLite™ LW-PLA Black",
+    "Hex": "#4C4E56"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "PolyLite™ LW-PLA Bright Green",
+    "Hex": "#D0ED03"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "PolyLite™ LW-PLA Bright Orange",
+    "Hex": "#FA8423"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "PolyLite™ LW-PLA Bright Red",
+    "Hex": "#E81313"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "PolyLite™ LW-PLA Bright Yellow",
+    "Hex": "#FAD61B"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "PolyLite™ LW-PLA Grey",
+    "Hex": "#A2AAAD"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "PolyLite™ LW-PLA White",
+    "Hex": "#E1DCCD"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "PolyLite™ LW-PLA Wood",
+    "Hex": "#D2A273"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "PolyLite™ PLA Aqua Blue",
     "Hex": "#39B9DB"
   },
@@ -24076,62 +24132,6 @@
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ LW-PLA Black",
-    "Hex": "#4C4E56"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PolyLite™ LW-PLA Bright Green",
-    "Hex": "#D0ED03"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PolyLite™ LW-PLA Bright Orange",
-    "Hex": "#FA8423"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PolyLite™ LW-PLA Bright Red",
-    "Hex": "#E81313"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PolyLite™ LW-PLA Bright Yellow",
-    "Hex": "#FAD61B"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PolyLite™ LW-PLA Grey",
-    "Hex": "#A2AAAD"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PolyLite™ LW-PLA White",
-    "Hex": "#E1DCCD"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PolyLite™ LW-PLA Wood",
-    "Hex": "#D2A273"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
     "Color": "PolyMax™ PLA Black",
     "Hex": "#101820"
   },
@@ -24363,7 +24363,7 @@
     "Brand": "Polymaker",
     "Material": "PVA",
     "Variant": null,
-    "Color": "PolyDissolve™ S1 (PVA) Natural",
+    "Color": "PolyDissolve™ S1 (PVA) Natural",
     "Hex": "#E8E6D0"
   },
   {
@@ -24461,98 +24461,98 @@
     "Brand": "Polymaker",
     "Material": "TPU",
     "Variant": null,
-    "Color": "PolyFlex™ TPU90 Black",
+    "Color": "PolyFlex™ TPU90 Black",
     "Hex": "#101820"
   },
   {
     "Brand": "Polymaker",
     "Material": "TPU",
     "Variant": null,
-    "Color": "PolyFlex™ TPU90 Clear",
+    "Color": "PolyFlex™ TPU90 Clear",
     "Hex": "#F4FAFC"
   },
   {
     "Brand": "Polymaker",
     "Material": "TPU",
     "Variant": null,
-    "Color": "PolyFlex™ TPU90 Grey",
+    "Color": "PolyFlex™ TPU90 Grey",
     "Hex": "#453536"
   },
   {
     "Brand": "Polymaker",
     "Material": "TPU",
     "Variant": null,
-    "Color": "PolyFlex™ TPU90 Polymaker Teal",
+    "Color": "PolyFlex™ TPU90 Polymaker Teal",
     "Hex": "#2DCCD3"
   },
   {
     "Brand": "Polymaker",
     "Material": "TPU",
     "Variant": null,
-    "Color": "PolyFlex™ TPU90 White",
+    "Color": "PolyFlex™ TPU90 White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "Polymaker",
     "Material": "TPU",
     "Variant": null,
-    "Color": "PolyFlex™ TPU95 Black",
+    "Color": "PolyFlex™ TPU95 Black",
     "Hex": "#101820"
   },
   {
     "Brand": "Polymaker",
     "Material": "TPU",
     "Variant": null,
-    "Color": "PolyFlex™ TPU95 Blue",
+    "Color": "PolyFlex™ TPU95 Blue",
     "Hex": "#0076CF"
   },
   {
     "Brand": "Polymaker",
     "Material": "TPU",
     "Variant": null,
-    "Color": "PolyFlex™ TPU95 Orange",
+    "Color": "PolyFlex™ TPU95 Orange",
     "Hex": "#FF9E1B"
   },
   {
     "Brand": "Polymaker",
     "Material": "TPU",
     "Variant": null,
-    "Color": "PolyFlex™ TPU95 Red",
+    "Color": "PolyFlex™ TPU95 Red",
     "Hex": "#D6001C"
   },
   {
     "Brand": "Polymaker",
     "Material": "TPU",
     "Variant": null,
-    "Color": "PolyFlex™ TPU95 White",
+    "Color": "PolyFlex™ TPU95 White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "Polymaker",
     "Material": "TPU",
     "Variant": null,
-    "Color": "PolyFlex™ TPU95 Yellow",
+    "Color": "PolyFlex™ TPU95 Yellow",
     "Hex": "#FEDD00"
   },
   {
     "Brand": "Polymaker",
     "Material": "TPU",
     "Variant": null,
-    "Color": "PolyFlex™ TPU95-HF Black",
+    "Color": "PolyFlex™ TPU95-HF Black",
     "Hex": "#101820"
   },
   {
     "Brand": "Polymaker",
     "Material": "TPU",
     "Variant": null,
-    "Color": "PolyFlex™ TPU95-HF Clear",
+    "Color": "PolyFlex™ TPU95-HF Clear",
     "Hex": "#F4FAFC"
   },
   {
     "Brand": "Polymaker",
     "Material": "TPU",
     "Variant": null,
-    "Color": "PolyFlex™ TPU95-HF White",
+    "Color": "PolyFlex™ TPU95-HF White",
     "Hex": "#FFFFFF"
   },
   {
@@ -38265,148 +38265,148 @@
     "Brand": "add:north",
     "Material": "PC",
     "Variant": null,
-    "Color": "PC Blend HT LCF - Black",
+    "Color": "Blend HT LCF - Black",
     "Hex": "#000000"
   },
   {
     "Brand": "add:north",
     "Material": "PETG",
     "Variant": null,
-    "Color": "ESD PETG - Black",
+    "Color": "Black",
     "Hex": "#1A1A18"
   },
   {
     "Brand": "add:north",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG - Black",
-    "Hex": "#1A1A18"
-  },
-  {
-    "Brand": "add:north",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "PETG - Clear",
+    "Color": "Clear",
     "Hex": "#C0C3C2"
   },
   {
     "Brand": "add:north",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG - Glitz Grey",
-    "Hex": "#000003"
+    "Color": "ESD - Black",
+    "Hex": "#1A1A18"
   },
   {
     "Brand": "add:north",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG - Green",
-    "Hex": "#2DAC33"
-  },
-  {
-    "Brand": "add:north",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "PETG - Grey",
-    "Hex": "#626C6E"
-  },
-  {
-    "Brand": "add:north",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "PETG - Light Grey",
-    "Hex": "#C0C3C4"
-  },
-  {
-    "Brand": "add:north",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "PETG - Lucent Orange",
-    "Hex": "#ED4103"
-  },
-  {
-    "Brand": "add:north",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "PETG - Medium Blue",
-    "Hex": "#4766B2"
-  },
-  {
-    "Brand": "add:north",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "PETG - Red",
-    "Hex": "#FE2A31"
-  },
-  {
-    "Brand": "add:north",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "PETG - White",
-    "Hex": "#F1F1F1"
-  },
-  {
-    "Brand": "add:north",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "PETG - Yellow",
-    "Hex": "#FCFB2C"
-  },
-  {
-    "Brand": "add:north",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "PETG Economy - Black",
+    "Color": "Economy - Black",
     "Hex": "#000000"
   },
   {
     "Brand": "add:north",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Economy - Light Grey",
+    "Color": "Economy - Light Grey",
     "Hex": "#C0C3C4"
   },
   {
     "Brand": "add:north",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Economy - White",
+    "Color": "Economy - White",
     "Hex": "#F1F1F1"
   },
   {
     "Brand": "add:north",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Flame Retardant V0 - Black",
+    "Color": "Flame Retardant V0 - Black",
     "Hex": "#000000"
   },
   {
     "Brand": "add:north",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Flame Retardant V0 - Natural",
+    "Color": "Flame Retardant V0 - Natural",
     "Hex": "#FBF6EF"
   },
   {
     "Brand": "add:north",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Flame Retardant V0 - White",
+    "Color": "Flame Retardant V0 - White",
     "Hex": "#F1F1F1"
   },
   {
     "Brand": "add:north",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG PRO Matte - Black",
+    "Color": "Glitz Grey",
+    "Hex": "#000003"
+  },
+  {
+    "Brand": "add:north",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#2DAC33"
+  },
+  {
+    "Brand": "add:north",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Grey",
+    "Hex": "#626C6E"
+  },
+  {
+    "Brand": "add:north",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Light Grey",
+    "Hex": "#C0C3C4"
+  },
+  {
+    "Brand": "add:north",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Lucent Orange",
+    "Hex": "#ED4103"
+  },
+  {
+    "Brand": "add:north",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Medium Blue",
+    "Hex": "#4766B2"
+  },
+  {
+    "Brand": "add:north",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "PRO Matte - Black",
     "Hex": "#000000"
   },
   {
     "Brand": "add:north",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG PRO Matte - White",
+    "Color": "PRO Matte - White",
     "Hex": "#F1F1F1"
+  },
+  {
+    "Brand": "add:north",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#FE2A31"
+  },
+  {
+    "Brand": "add:north",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#F1F1F1"
+  },
+  {
+    "Brand": "add:north",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Yellow",
+    "Hex": "#FCFB2C"
   },
   {
     "Brand": "add:north",
@@ -38454,238 +38454,238 @@
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Army Green",
+    "Color": "E - Army Green",
     "Hex": "#697142"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Aurora Green",
+    "Color": "E - Aurora Green",
     "Hex": "#000005"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Black",
+    "Color": "E - Black",
     "Hex": "#1A1A18"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Cold White",
+    "Color": "E - Cold White",
     "Hex": "#F9FDFF"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Glitz Black",
+    "Color": "E - Glitz Black",
     "Hex": "#181818"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Glitz Grey",
+    "Color": "E - Glitz Grey",
     "Hex": "#000003"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Glitz Purple",
+    "Color": "E - Glitz Purple",
     "Hex": "#660066"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Glitz Sapphire",
+    "Color": "E - Glitz Sapphire",
     "Hex": "#000002"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Glitz Silver",
+    "Color": "E - Glitz Silver",
     "Hex": "#A6A6A6"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Glow in the Dark Green",
+    "Color": "E - Glow in the Dark Green",
     "Hex": "#E7EAB6"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Gold",
+    "Color": "E - Gold",
     "Hex": "#FFCC00"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Green",
+    "Color": "E - Green",
     "Hex": "#2DAC33"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Light Grey",
+    "Color": "E - Light Grey",
     "Hex": "#C0C3C4"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Lucent Orange",
+    "Color": "E - Lucent Orange",
     "Hex": "#ED4103"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Lucent Pink",
+    "Color": "E - Lucent Pink",
     "Hex": "#FF00A9"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Marble",
+    "Color": "E - Marble",
     "Hex": "#000004"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Medium Blue",
+    "Color": "E - Medium Blue",
     "Hex": "#4766B2"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Natural",
+    "Color": "E - Natural",
     "Hex": "#E0D1BE"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Red",
+    "Color": "E - Red",
     "Hex": "#FE2A31"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - STEMFIE Orange",
+    "Color": "E - STEMFIE Orange",
     "Hex": "#FF9700"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Tropical Turquoise",
+    "Color": "E - Tropical Turquoise",
     "Hex": "#1AC6B6"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Ultramarine Blue",
+    "Color": "E - Ultramarine Blue",
     "Hex": "#0437F2"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - White",
+    "Color": "E - White",
     "Hex": "#F1F1F1"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "E-PLA - Yellow",
+    "Color": "E - Yellow",
     "Hex": "#FCFB2C"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "HT-PLA Pro Matte - Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "add:north",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "HT-PLA Pro Matte - White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "add:north",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PLA Economy - Black",
+    "Color": "Economy - Black",
     "Hex": "#1A1A18"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Economy - Light Grey",
+    "Color": "Economy - Light Grey",
     "Hex": "#C0C3C4"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Economy - White",
+    "Color": "Economy - White",
     "Hex": "#F1F1F1"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Premium Silk - Blue",
+    "Color": "HT Pro Matte - Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "add:north",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "HT Pro Matte - White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "add:north",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Premium Silk - Blue",
     "Hex": "#125BE5"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Premium Silk - Gold",
+    "Color": "Premium Silk - Gold",
     "Hex": "#D4AF37"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Premium Silk - Green",
+    "Color": "Premium Silk - Green",
     "Hex": "#007C5E"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Premium Silk - Red",
+    "Color": "Premium Silk - Red",
     "Hex": "#D3051A"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Premium Silk - Silver",
+    "Color": "Premium Silk - Silver",
     "Hex": "#C0C0C0"
   },
   {
@@ -38755,91 +38755,91 @@
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "X-PLA - Black",
+    "Color": "X - Black",
     "Hex": "#1A1A18"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "X-PLA - Cold White",
+    "Color": "X - Cold White",
     "Hex": "#F9FDFF"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "X-PLA - Light Grey",
+    "Color": "X - Light Grey",
     "Hex": "#C0C3C4"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "X-PLA - Medium Blue",
+    "Color": "X - Medium Blue",
     "Hex": "#4766B2"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "X-PLA - Power Tool Blue",
+    "Color": "X - Power Tool Blue",
     "Hex": "#007577"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "X-PLA - Power Tool Light Green",
+    "Color": "X - Power Tool Light Green",
     "Hex": "#8EE980"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "X-PLA - Power Tool Lime Green",
+    "Color": "X - Power Tool Lime Green",
     "Hex": "#CCDA46"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "X-PLA - Power Tool Red",
+    "Color": "X - Power Tool Red",
     "Hex": "#C92A28"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "X-PLA - Power Tool Yellow",
+    "Color": "X - Power Tool Yellow",
     "Hex": "#ECBB00"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "X-PLA - Red",
+    "Color": "X - Red",
     "Hex": "#FE2A31"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "X-PLA - White",
+    "Color": "X - White",
     "Hex": "#F1F1F1"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "X-PLA High Speed - Black",
+    "Color": "X High Speed - Black",
     "Hex": "#1A1A18"
   },
   {
     "Brand": "add:north",
     "Material": "PLA",
     "Variant": null,
-    "Color": "X-PLA High Speed - White",
+    "Color": "X High Speed - White",
     "Hex": "#F1F1F1"
   },
   {
@@ -38853,21 +38853,21 @@
     "Brand": "add:north",
     "Material": "PLA+WOOD",
     "Variant": null,
-    "Color": "PLA Wood - Light Oak",
+    "Color": "Wood - Light Oak",
     "Hex": "#9C846F"
   },
   {
     "Brand": "add:north",
     "Material": "PLA+WOOD",
     "Variant": null,
-    "Color": "PLA Wood - Nordic Birch",
+    "Color": "Wood - Nordic Birch",
     "Hex": "#F5EDDD"
   },
   {
     "Brand": "add:north",
     "Material": "PLA-CF",
     "Variant": null,
-    "Color": "PLA CF - Black",
+    "Color": "Black",
     "Hex": "#000000"
   },
   {
@@ -38888,28 +38888,28 @@
     "Brand": "add:north",
     "Material": "TPU-85A",
     "Variant": null,
-    "Color": "TPU Pro Matte 85A - Black",
+    "Color": "Pro Matte - Black",
     "Hex": "#000000"
   },
   {
     "Brand": "add:north",
     "Material": "TPU-85A",
     "Variant": null,
-    "Color": "TPU Pro Matte 85A - Brown Leather",
+    "Color": "Pro Matte - Brown Leather",
     "Hex": "#41280D"
   },
   {
     "Brand": "add:north",
     "Material": "TPU-85A",
     "Variant": null,
-    "Color": "TPU Pro Matte 85A - White",
+    "Color": "Pro Matte - White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "add:north",
     "Material": "TPU-85A",
     "Variant": null,
-    "Color": "TPU Pro Matte 85A - Yellow",
+    "Color": "Pro Matte - Yellow",
     "Hex": "#FCFB2C"
   },
   {
@@ -38986,14 +38986,14 @@
     "Brand": "add:north",
     "Material": "TPU-95A",
     "Variant": null,
-    "Color": "TPU Pro Matte 95A - Black",
+    "Color": "Pro Matte - Black",
     "Hex": "#1A1A18"
   },
   {
     "Brand": "add:north",
     "Material": "TPU-95A",
     "Variant": null,
-    "Color": "TPU Pro Matte 95A - White",
+    "Color": "Pro Matte - White",
     "Hex": "#FFFFFF"
   },
   {
