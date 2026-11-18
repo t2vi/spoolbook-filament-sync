@@ -9353,6 +9353,13 @@
   },
   {
     "Brand": "Elegoo",
+    "Material": "PAHT-CF",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
     "Color": "PETG PRO Black",
@@ -15978,7 +15985,7 @@
     "Material": "PLA",
     "Variant": null,
     "Color": "Silk Grey",
-    "Hex": "#BBC6CE"
+    "Hex": "#B6B3A8"
   },
   {
     "Brand": "Inland",
@@ -16047,27 +16054,6 @@
     "Brand": "Inland",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Silk Silk Grey",
-    "Hex": "#B6B3A8"
-  },
-  {
-    "Brand": "Inland",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Silk Silk White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "Inland",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Silk Silk Yellow",
-    "Hex": "#FFFC41"
-  },
-  {
-    "Brand": "Inland",
-    "Material": "PLA",
-    "Variant": null,
     "Color": "Silk Silver",
     "Hex": "#B5C1C6"
   },
@@ -16077,6 +16063,20 @@
     "Variant": null,
     "Color": "Silk Violet",
     "Hex": "#82266E"
+  },
+  {
+    "Brand": "Inland",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Inland",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Yellow",
+    "Hex": "#FFFC41"
   },
   {
     "Brand": "Inland",
@@ -18287,13 +18287,6 @@
     "Brand": "NOVTAU",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Azure",
-    "Hex": "#1B3596"
-  },
-  {
-    "Brand": "NOVTAU",
-    "Material": "ABS",
-    "Variant": null,
     "Color": "Black",
     "Hex": "#313130"
   },
@@ -18308,22 +18301,71 @@
     "Brand": "NOVTAU",
     "Material": "ABS",
     "Variant": null,
+    "Color": "Bronze",
+    "Hex": "#706747"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Brown",
+    "Hex": "#5D2F2A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Gold",
+    "Hex": "#CA872E"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "ABS",
+    "Variant": null,
     "Color": "Gray",
-    "Hex": "#777679"
+    "Hex": "#999C9B"
   },
   {
     "Brand": "NOVTAU",
     "Material": "ABS",
     "Variant": null,
     "Color": "Green",
-    "Hex": "#057A41"
+    "Hex": "#067940"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Natural",
+    "Hex": "#C8BCA1"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Pale Blue",
+    "Hex": "#6CC1B3"
   },
   {
     "Brand": "NOVTAU",
     "Material": "ABS",
     "Variant": null,
     "Color": "Red",
-    "Hex": "#D41D23"
+    "Hex": "#D91527"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Skin Tone",
+    "Hex": "#DCB289"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Sky Blue",
+    "Hex": "#24A7D1"
   },
   {
     "Brand": "NOVTAU",
@@ -18337,14 +18379,147 @@
     "Material": "ABS",
     "Variant": null,
     "Color": "White",
-    "Hex": "#D4D4D6"
+    "Hex": "#E3E1D5"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Wood Tone",
+    "Hex": "#AE9170"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "ABS-GF",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#2C2D2C"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "ABS-GF",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#CFD0CB"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Army Green",
+    "Hex": "#6A7047"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#2F2F2F"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Blue",
+    "Hex": "#379AE1"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Dark Purple",
+    "Hex": "#502C71"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Gray",
+    "Hex": "#9E9E9D"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#21D31E"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Orange",
+    "Hex": "#FA5C18"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#F15865"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "ASA",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#E2E0DD"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "ASA-CF",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#2D2D2D"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PA6-CF",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#2A2A2A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PC",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#292929"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PC",
+    "Variant": null,
+    "Color": "Transparent",
+    "Hex": "#D9D9DA"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PC",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#CFCDCC"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PET-CF",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#2D2D2D"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Apricot Orange",
+    "Hex": "#F8905A"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Aqua Blue",
-    "Hex": "#9DB3D9"
+    "Hex": "#9AB0D5"
   },
   {
     "Brand": "NOVTAU",
@@ -18357,8 +18532,22 @@
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
+    "Color": "Basic Blue",
+    "Hex": "#1569D6"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
     "Color": "Basic Blush Pink",
-    "Hex": "#F3BCC6"
+    "Hex": "#F1BAC4"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Bright Green",
+    "Hex": "#2CD10C"
   },
   {
     "Brand": "NOVTAU",
@@ -18371,29 +18560,43 @@
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
+    "Color": "Basic Bronze",
+    "Hex": "#6F6A44"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
     "Color": "Basic Carrot Orange",
-    "Hex": "#E5873D"
+    "Hex": "#E3863D"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Copper",
+    "Hex": "#542121"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Coral Pink",
-    "Hex": "#F39AA8"
+    "Hex": "#F098A6"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Cream Yellow",
-    "Hex": "#EAE4A2"
+    "Hex": "#E9E3A0"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Cyan",
-    "Hex": "#04B8D1"
+    "Hex": "#05B7CF"
   },
   {
     "Brand": "NOVTAU",
@@ -18413,15 +18616,64 @@
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
+    "Color": "Basic Dark Gray",
+    "Hex": "#49494C"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Dark Green",
+    "Hex": "#0E781E"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Deep Blue",
+    "Hex": "#2A296B"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Fluorescent Red",
+    "Hex": "#F12F48"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
     "Color": "Basic Fluorescent Rose",
-    "Hex": "#E247A9"
+    "Hex": "#E147A7"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Fluorescent Yellow",
+    "Hex": "#D9E948"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Fresh Mint",
-    "Hex": "#92B296"
+    "Hex": "#82D7D1"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Gold",
+    "Hex": "#BF7E2E"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Golden Yellow",
+    "Hex": "#FAC40D"
   },
   {
     "Brand": "NOVTAU",
@@ -18435,49 +18687,91 @@
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Green",
-    "Hex": "#107847"
+    "Hex": "#117746"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Green Grape Ice",
-    "Hex": "#B2C9A0"
+    "Hex": "#B0C79E"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Ice Blue",
-    "Hex": "#72C6F6"
+    "Hex": "#71C4F4"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Jade Green",
+    "Hex": "#048B6F"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Khaki",
+    "Hex": "#AB9C8C"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Light Lilac",
-    "Hex": "#AC9EC5"
+    "Hex": "#AA9DC3"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Light Purple",
+    "Hex": "#9563B6"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Lime Green",
+    "Hex": "#46D362"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Magenta",
+    "Hex": "#BA1D8A"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Milk Green",
-    "Hex": "#A1B291"
+    "Hex": "#9EAF8F"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Mint Dream",
-    "Hex": "#A6CBB2"
+    "Hex": "#A5CAB0"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Mint Green",
+    "Hex": "#5CDEAE"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Misty Blue",
-    "Hex": "#2CBDEB"
+    "Hex": "#2BBCE9"
   },
   {
     "Brand": "NOVTAU",
@@ -18498,21 +18792,42 @@
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Pale Yellow",
-    "Hex": "#EFD37C"
+    "Hex": "#EDD17B"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Peach Nude",
-    "Hex": "#ECC5B3"
+    "Hex": "#EAC3B1"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Peach Pink",
-    "Hex": "#F3BCC0"
+    "Hex": "#F0BABD"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Peacock Blue",
+    "Hex": "#0999B6"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Peacock Green",
+    "Hex": "#0B756C"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Peanut Brown",
+    "Hex": "#C05C17"
   },
   {
     "Brand": "NOVTAU",
@@ -18526,21 +18841,21 @@
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Pink",
-    "Hex": "#D25A86"
+    "Hex": "#D05985"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Purple",
-    "Hex": "#472D5D"
+    "Hex": "#462D5C"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Red",
-    "Hex": "#7A0D10"
+    "Hex": "#C40413"
   },
   {
     "Brand": "NOVTAU",
@@ -18554,49 +18869,77 @@
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Sakura Pink",
-    "Hex": "#DDAAB7"
+    "Hex": "#DCA8B6"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Silver",
+    "Hex": "#A1A3A4"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Skin Tone",
-    "Hex": "#E1C7B2"
+    "Hex": "#DFC5B0"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Sky Blue",
-    "Hex": "#62BCF8"
+    "Hex": "#62BAF5"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Soft Green",
-    "Hex": "#A4BE9D"
+    "Hex": "#6AE1F4"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Soft Lavender",
-    "Hex": "#BAAACE"
+    "Hex": "#B7A8CC"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Sparkle Black",
+    "Hex": "#343434"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Taro Purple",
-    "Hex": "#A67BC9"
+    "Hex": "#A47AC7"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Teal Green",
-    "Hex": "#3EC1C8"
+    "Hex": "#03AD97"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Vermilion Red",
+    "Hex": "#E6203E"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Basic Warm White",
+    "Hex": "#C5B4A0"
   },
   {
     "Brand": "NOVTAU",
@@ -18610,14 +18953,14 @@
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Wisteria",
-    "Hex": "#9F84C1"
+    "Hex": "#C2ABD3"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Basic Wood Tone",
-    "Hex": "#B39476"
+    "Hex": "#B09375"
   },
   {
     "Brand": "NOVTAU",
@@ -18630,204 +18973,176 @@
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
-    "Color": "High-Flow Black",
-    "Hex": "#2D2D2D"
-  },
-  {
-    "Brand": "NOVTAU",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "High-Flow Blue",
-    "Hex": "#0830AA"
-  },
-  {
-    "Brand": "NOVTAU",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "High-Flow Cream",
-    "Hex": "#CFC1AB"
-  },
-  {
-    "Brand": "NOVTAU",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "High-Flow Dark Gray",
-    "Hex": "#4A4B4F"
-  },
-  {
-    "Brand": "NOVTAU",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "High-Flow Forest Green",
-    "Hex": "#384E3B"
-  },
-  {
-    "Brand": "NOVTAU",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "High-Flow Gray",
-    "Hex": "#828488"
-  },
-  {
-    "Brand": "NOVTAU",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "High-Flow Green",
-    "Hex": "#117948"
-  },
-  {
-    "Brand": "NOVTAU",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "High-Flow Lake Blue",
-    "Hex": "#0A86E9"
-  },
-  {
-    "Brand": "NOVTAU",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "High-Flow Lime Green",
-    "Hex": "#209F6E"
-  },
-  {
-    "Brand": "NOVTAU",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "High-Flow Orange",
-    "Hex": "#D23C27"
-  },
-  {
-    "Brand": "NOVTAU",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "High-Flow Peanut Brown",
-    "Hex": "#A04C19"
-  },
-  {
-    "Brand": "NOVTAU",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "High-Flow Red",
-    "Hex": "#7C0B0F"
-  },
-  {
-    "Brand": "NOVTAU",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "High-Flow White",
-    "Hex": "#D7D7D9"
-  },
-  {
-    "Brand": "NOVTAU",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "High-Flow Yellow",
-    "Hex": "#EEC518"
-  },
-  {
-    "Brand": "NOVTAU",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "Marble",
-    "Hex": "#AEAEB1"
+    "Color": "Marble Light Gray",
+    "Hex": "#B0B0B2"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Metallic Coffee Gold",
-    "Hex": "#805C41"
+    "Hex": "#7E5C41"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Metallic Gold",
-    "Hex": "#A67736"
+    "Hex": "#A37636"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Metallic Silver",
-    "Hex": "#7E8083"
+    "Hex": "#7D7F82"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Multi-Color Autumn Blaze",
-    "Hex": "#F89355, #D1452C"
+    "Hex": "#F69154, #CC442B"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Multi-Color Candy Rainbow",
-    "Hex": "#5CA5C1, #EDBA78"
+    "Hex": "#5BA3BF, #E9B777"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Multi-Color Candy Rainbow Mix",
+    "Hex": "#DCB7AF, #68A19C"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Multi-Color Cosmic Rainbow",
+    "Hex": "#C8A7AC, #7C6C89"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Multi-Color Macaron",
-    "Hex": "#E8CFB0, #91C8BE"
+    "Hex": "#E5CDAE, #8FC4BA"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Multi-Color Mini Rainbow",
+    "Hex": "#CEB0B1, #5E848B"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Multi-Color Rainbow Autumn",
+    "Hex": "#E565AD, #782454"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Multi-Color Rainbow Ice Crystal",
+    "Hex": "#F19FC2, #38242A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Multi-Color Rainbow Mist",
+    "Hex": "#7CBBE3, #256F92"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Multi-Color Rainbow Star Sand",
+    "Hex": "#C3DA7B, #50C192"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Multi-Color Rainbow Summer",
+    "Hex": "#75D4A9, #49B480"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Multi-Color Spring Bloom",
-    "Hex": "#B0DD73, #36BB6E"
+    "Hex": "#B0DC73, #38B96C"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Multi-Color Summer Breeze",
-    "Hex": "#ADD5E3, #65ABCF"
+    "Hex": "#A9D3E2, #64A8CC"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Multi-Color Winter Glow",
-    "Hex": "#A7BAF1, #6886C8"
+    "Hex": "#A7B9EF, #6886C3"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Sparkle Blue",
-    "Hex": "#0E59B4"
+    "Hex": "#1073BC"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Sparkle Green",
-    "Hex": "#91C20F"
+    "Hex": "#ADC818"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Sparkle Red",
-    "Hex": "#B32138"
+    "Hex": "#B93147"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Black",
+    "Hex": "#3B3B39"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Blue",
+    "Hex": "#1B64B2"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Translucent Blue-Green",
-    "Hex": "#2ABFBA"
+    "Hex": "#2ABCB7"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Translucent Blue-White-Orange",
-    "Hex": "#BED5B9"
+    "Hex": "#BCD1B6"
   },
   {
     "Brand": "NOVTAU",
@@ -18841,21 +19156,28 @@
     "Material": "PETG",
     "Variant": null,
     "Color": "Translucent Dream Crystal",
-    "Hex": "#DDC084"
+    "Hex": "#DABD83"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Green",
+    "Hex": "#6EB937"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Translucent Green-White",
-    "Hex": "#8ED9B1"
+    "Hex": "#8CD8B0"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
     "Color": "Translucent Iridescent Glaze",
-    "Hex": "#E0BB8F"
+    "Hex": "#DAB88D"
   },
   {
     "Brand": "NOVTAU",
@@ -18863,6 +19185,13 @@
     "Variant": null,
     "Color": "Translucent Light Blue",
     "Hex": "#72D1E5"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Orange",
+    "Hex": "#FBA019"
   },
   {
     "Brand": "NOVTAU",
@@ -18882,8 +19211,36 @@
     "Brand": "NOVTAU",
     "Material": "PETG",
     "Variant": null,
+    "Color": "Translucent Red",
+    "Hex": "#C51B2D"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Rose Pink",
+    "Hex": "#D67F94"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
     "Color": "Translucent Teal",
-    "Hex": "#0BA28A"
+    "Hex": "#1BB19B"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Violet",
+    "Hex": "#A03B92"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Translucent Yellow",
+    "Hex": "#C3D93A"
   },
   {
     "Brand": "NOVTAU",
@@ -18894,24 +19251,66 @@
   },
   {
     "Brand": "NOVTAU",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "Gray",
+    "Hex": "#3D4043"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#1E4D2F"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "Indigo Blue",
+    "Hex": "#2A3654"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#5D1D29"
+  },
+  {
+    "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Apple Green",
-    "Hex": "#A3CF5E"
+    "Hex": "#A1CD5D"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Apricot",
-    "Hex": "#E7BE79"
+    "Hex": "#E4BC78"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Aqua Blue",
-    "Hex": "#A1B4CD"
+    "Hex": "#A0B2CB"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Army Green",
+    "Hex": "#5A7139"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Beige",
+    "Hex": "#CEBBA1"
   },
   {
     "Brand": "NOVTAU",
@@ -18932,21 +19331,28 @@
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Blush Pink",
-    "Hex": "#E8B6BB"
+    "Hex": "#E7B5B9"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Brick Red",
+    "Hex": "#DA6B44"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Bright Green",
-    "Hex": "#5ECF69"
+    "Hex": "#5DCE68"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Bright Yellow",
-    "Hex": "#EDCB66"
+    "Hex": "#EBCA65"
   },
   {
     "Brand": "NOVTAU",
@@ -18960,7 +19366,7 @@
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Classic Green",
-    "Hex": "#0BA058"
+    "Hex": "#0C9F57"
   },
   {
     "Brand": "NOVTAU",
@@ -18980,22 +19386,29 @@
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
+    "Color": "Basic Copper",
+    "Hex": "#964D38"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "Basic Coral Pink",
-    "Hex": "#E79488"
+    "Hex": "#E59387"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Cream Yellow",
-    "Hex": "#E9D799"
+    "Hex": "#C3D194"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Cyan",
-    "Hex": "#0CBCD9"
+    "Hex": "#0DBCD8"
   },
   {
     "Brand": "NOVTAU",
@@ -19008,64 +19421,99 @@
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
+    "Color": "Basic Dark Purple",
+    "Hex": "#663F9C"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Deep Blue",
+    "Hex": "#24234F"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Fluorescent Green",
+    "Hex": "#B0EA4A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Fluorescent Red",
+    "Hex": "#F64038"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "Basic Fresh Mint",
-    "Hex": "#92C3C0"
+    "Hex": "#91C1BE"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Gold",
+    "Hex": "#E3A43D"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Gradient Arctic Whisper",
-    "Hex": "#AEB4E4, #4BAEDC"
+    "Hex": "#ACB4E3, #49A9D6"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Gradient Blueberry Bubblegum",
-    "Hex": "#E1B89B, #AB8188"
+    "Hex": "#E1B79B, #AB8385"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Gradient Classic Rainbow",
+    "Hex": "#E2A78B, #799CAA"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Gradient Dusk Glare",
-    "Hex": "#F69E6A, #D36743"
+    "Hex": "#F49B67, #C76140"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Gradient Mint Lime",
-    "Hex": "#DDC693, #74C8B6"
+    "Hex": "#DCC592, #74C4B2"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Gradient Pink Citrus",
-    "Hex": "#1EC98C, #A1E164"
+    "Hex": "#1FC78A, #A0DF63"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Gradient Solar Breeze",
-    "Hex": "#5ABED3, #CFC1D0"
-  },
-  {
-    "Brand": "NOVTAU",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Basic Hot Pink",
-    "Hex": "#E0A99F"
+    "Hex": "#5CBDD2, #CFBFCD"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Ice Blue",
-    "Hex": "#98C2D5"
+    "Hex": "#6EBBC6"
   },
   {
     "Brand": "NOVTAU",
@@ -19093,14 +19541,21 @@
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Light Lilac",
-    "Hex": "#B8A3C7"
+    "Hex": "#B5A1C5"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Milk Green",
-    "Hex": "#BDC499"
+    "Hex": "#BBC298"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Mint Green",
+    "Hex": "#91D2B4"
   },
   {
     "Brand": "NOVTAU",
@@ -19114,7 +19569,7 @@
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Misty Blue",
-    "Hex": "#19B7F6"
+    "Hex": "#1AB6F4"
   },
   {
     "Brand": "NOVTAU",
@@ -19128,7 +19583,21 @@
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Pale Yellow",
-    "Hex": "#E9C97B"
+    "Hex": "#E7C779"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Pantone 9284C Pink",
+    "Hex": "#E9BDD1"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Peach Pink",
+    "Hex": "#E0A99F"
   },
   {
     "Brand": "NOVTAU",
@@ -19136,6 +19605,13 @@
     "Variant": null,
     "Color": "Basic Pink",
     "Hex": "#E96D93"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Pumpkin Orange",
+    "Hex": "#F77F12"
   },
   {
     "Brand": "NOVTAU",
@@ -19155,85 +19631,239 @@
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
+    "Color": "Basic Rose Red",
+    "Hex": "#F5468F"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "Basic Sakura Pink",
-    "Hex": "#E5A0AF"
+    "Hex": "#E3A0AE"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Basic Silver",
+    "Hex": "#AAABAC"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Skin Tone",
-    "Hex": "#D9BEA7"
+    "Hex": "#D7BDA5"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Sky Blue",
-    "Hex": "#87AECD"
+    "Hex": "#85ADCA"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Soft Lavender",
-    "Hex": "#B293BA"
+    "Hex": "#B092B9"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Turquoise",
-    "Hex": "#0CBCA9"
+    "Hex": "#0DBBA7"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic White",
-    "Hex": "#D8D8D7"
+    "Hex": "#D7D7D7"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Wisteria",
-    "Hex": "#B38CCB"
+    "Hex": "#B18BC9"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Wood Tone",
-    "Hex": "#B69980"
+    "Hex": "#B4987F"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Basic Yellow",
-    "Hex": "#EAD011"
+    "Hex": "#EACF12"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow Blue",
+    "Hex": "#71C5E7"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow Deep Blue",
+    "Hex": "#17A3ED"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow Firefly Blue",
+    "Hex": "#18BDC7"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow Firefly Green",
+    "Hex": "#4DD048"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Glow Green",
-    "Hex": "#55D489"
+    "Hex": "#54D387"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow Light Green",
+    "Hex": "#A6EC2A"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Glow Natural",
-    "Hex": "#CFD3C1"
+    "Hex": "#CDD1BE"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Marble Granite Marble",
-    "Hex": "#A29085"
+    "Color": "Glow Orange",
+    "Hex": "#EAAA6F"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow Purple",
+    "Hex": "#9878DC"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow Rainbow Crystal",
+    "Hex": "#C4B89A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow Rainbow Earth",
+    "Hex": "#8C9060"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow Rainbow No.2",
+    "Hex": "#B3BEDA"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow Rainbow No.5",
+    "Hex": "#A2B6CA"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow Rainbow No.6",
+    "Hex": "#97A78B"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow Rainbow Spectrum",
+    "Hex": "#84B3A8"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow Sky Blue",
+    "Hex": "#01BAFD"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow Violet",
+    "Hex": "#815CE8"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow White Blue",
+    "Hex": "#0988E5"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow White Rainbow",
+    "Hex": "#C2BBA0"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow White Red",
+    "Hex": "#DF3C45"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Glow Yellow",
+    "Hex": "#E3F160"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Marble Cream White",
+    "Hex": "#D0CAC2"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Marble Granite",
+    "Hex": "#9F8E83"
   },
   {
     "Brand": "NOVTAU",
@@ -19246,7 +19876,7 @@
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Marble White Marble",
+    "Color": "Marble White",
     "Hex": "#C1BFC0"
   },
   {
@@ -19254,7 +19884,14 @@
     "Material": "PLA",
     "Variant": null,
     "Color": "Matte Apple Green",
-    "Hex": "#098B4C"
+    "Hex": "#098A4B"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Aqua Blue",
+    "Hex": "#23A3CE"
   },
   {
     "Brand": "NOVTAU",
@@ -19267,15 +19904,15 @@
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte Bone White",
-    "Hex": "#CDCCCC"
+    "Color": "Matte Bone",
+    "Hex": "#C2AC90"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Matte Caramel",
-    "Hex": "#824132"
+    "Hex": "#A15131"
   },
   {
     "Brand": "NOVTAU",
@@ -19288,15 +19925,8 @@
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte Dark Brown",
-    "Hex": "#844132"
-  },
-  {
-    "Brand": "NOVTAU",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Matte Dark Red",
-    "Hex": "#D42423"
+    "Color": "Matte Deep Pink",
+    "Hex": "#DF5080"
   },
   {
     "Brand": "NOVTAU",
@@ -19309,15 +19939,8 @@
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte Grass Green",
-    "Hex": "#088C4C"
-  },
-  {
-    "Brand": "NOVTAU",
-    "Material": "PLA",
-    "Variant": null,
     "Color": "Matte Ice Blue",
-    "Hex": "#0988E0"
+    "Hex": "#2B9DE2"
   },
   {
     "Brand": "NOVTAU",
@@ -19338,14 +19961,14 @@
     "Material": "PLA",
     "Variant": null,
     "Color": "Matte Lemon Yellow",
-    "Hex": "#E6BE15"
+    "Hex": "#E5BD15"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Matte Lilac purple",
-    "Hex": "#784EB1"
+    "Hex": "#743EA1"
   },
   {
     "Brand": "NOVTAU",
@@ -19358,36 +19981,225 @@
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
+    "Color": "Matte Mint Green",
+    "Hex": "#8CD5CD"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "Matte Multi-Color Dopamine",
-    "Hex": "#A1CDEA, #B398B1"
+    "Hex": "#AEC7E1, #8987A4"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Dual Black-Blue",
+    "Hex": "#1E5CBD, #1A315C"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Dual Black-Green",
+    "Hex": "#1F4939, #478F74"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Dual Black-Orange",
+    "Hex": "#D97833, #673D26"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Dual Black-Purple",
+    "Hex": "#45234C, #8E47A2"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Dual Black-Red",
+    "Hex": "#5D2220, #C34035"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Dual Blue-Red",
+    "Hex": "#3063BD, #964052"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Dual Green-Magenta",
+    "Hex": "#AEA8A6, #79656E"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Dual Pink-Yellow",
+    "Hex": "#F2A494, #3E2526"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Dual Purple-Green",
+    "Hex": "#7B9D93, #4A5E66"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Dual Purple-Yellow",
+    "Hex": "#795882, #DDB76B"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Dual Sky Blue-Pink",
+    "Hex": "#B2AAD3, #49547E"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Dual Sky Blue-Purple",
+    "Hex": "#A3A7E1, #7064A7"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Matte Multi-Color Macaron",
-    "Hex": "#DFD1A7, #84CFBE"
+    "Hex": "#DCCFA5, #83CEBD"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Matte Multi-Color Peach Cream",
-    "Hex": "#F0C8B4, #B77A64"
+    "Hex": "#EDC7B3, #B47963"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Rainbow Apple",
+    "Hex": "#C2B0A4, #524446"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Rainbow Cotton Candy",
+    "Hex": "#CCA5A9, #4C3A3D"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Rainbow Deep Sea",
+    "Hex": "#1689B4, #6F9ED6"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Rainbow Dream",
+    "Hex": "#8FD5D2, #D29CB0"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Rainbow Fruit Candy",
+    "Hex": "#B35798, #2856B5"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Rainbow Ice Cream",
+    "Hex": "#B5D1D0, #869494"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Rainbow Lollipop",
+    "Hex": "#CFB6A5, #71635A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Rainbow Peach",
+    "Hex": "#DEB673, #4B8B69"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Rainbow Red-Blue",
+    "Hex": "#78B3DD, #D3A1CE"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Rainbow Rice Field",
+    "Hex": "#5FB761, #BDDE6A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Rainbow Sunrise",
+    "Hex": "#E39852, #779A89"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Rainbow Yellow-Green",
+    "Hex": "#C5EE3E, #3ABE6C"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Matte Multi-Color Spring Bloom",
-    "Hex": "#C8DF9A, #8EB061"
+    "Hex": "#C7DD99, #8DAD62"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Matte Multi-Color Starlit Dream",
-    "Hex": "#B5D2E2, #8099B2"
+    "Hex": "#B2D0DF, #7E98AF"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Tri Pink-Yellow-Blue",
+    "Hex": "#E3BD95, #678FA0"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Multi-Color Tri Red-Yellow-Blue",
+    "Hex": "#DE733B, #355592"
   },
   {
     "Brand": "NOVTAU",
@@ -19400,8 +20212,22 @@
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte Plum",
-    "Hex": "#794FB2"
+    "Color": "Matte Navy Blue",
+    "Hex": "#33455E"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Ochre",
+    "Hex": "#C5A05A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Matte Olive Green",
+    "Hex": "#6D7552"
   },
   {
     "Brand": "NOVTAU",
@@ -19421,29 +20247,43 @@
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte Sky Blue",
-    "Hex": "#0989E1"
+    "Color": "Matte Terracotta Red",
+    "Hex": "#AE705F"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte Terracotta",
-    "Hex": "#F45516"
+    "Color": "Metallic Copper Brown",
+    "Hex": "#634738"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Metallic Iron Gray",
+    "Hex": "#4B4945"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Metallic Steel Gray",
+    "Hex": "#6C6B6B"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Pearl Blue",
-    "Hex": "#79D1E6"
+    "Hex": "#78CFE4"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Pearl Green",
-    "Hex": "#94CCB9"
+    "Hex": "#93CAB7"
   },
   {
     "Brand": "NOVTAU",
@@ -19457,91 +20297,287 @@
     "Material": "PLA",
     "Variant": null,
     "Color": "Pearl Purple",
-    "Hex": "#8A5DC2"
+    "Hex": "#885CBF"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Pearl Yellow",
-    "Hex": "#EFCE37"
+    "Hex": "#EECC38"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Photochromic UV Blue",
-    "Hex": "#76B1E9"
+    "Hex": "#75AFE7"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Photochromic UV Purple-Red",
-    "Hex": "#E99BBE"
+    "Hex": "#E798BB"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Photochromic UV Red",
-    "Hex": "#F27B8E"
+    "Hex": "#EF798C"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Photochromic UV White to Green",
+    "Hex": "#87AB81"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Photochromic UV White to Yellow",
+    "Hex": "#E0DDD9"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Silk Multi-Color Aurora Purple",
-    "Hex": "#D2B9B1, #6CB7B7"
+    "Hex": "#D0B6AF, #6CB4B4"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Black-Blue-Purple Tri",
+    "Hex": "#22327F, #7687DD"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Black-Dark Green Dual",
+    "Hex": "#145A44, #6AC2A2"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Black-Gold Dual",
+    "Hex": "#695023, #D9B654"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Black-Gold-Purple Tri",
+    "Hex": "#613E40, #D0A76A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Black-Purple Dual",
+    "Hex": "#432A58, #A06EBE"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Black-Red Dual",
+    "Hex": "#5E181F, #CC5864"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Black-Red-Gold Tri",
+    "Hex": "#852515, #E5995B"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Black-Rose Red Dual",
+    "Hex": "#602038, #CE658B"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Silk Multi-Color Blue Hawaii",
-    "Hex": "#13629B, #62BBCC"
+    "Hex": "#14619A, #62BBCB"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Blue-Purple Dual",
+    "Hex": "#3946B4, #8D90EA"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Blue-Purple-Green Tri",
+    "Hex": "#265C80, #79B6D1"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Blue-Purple-Orange Tri",
+    "Hex": "#CC8387, #4B55AB"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Blue-Silver Dual",
+    "Hex": "#195697, #74A6CC"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Silk Multi-Color Cloud Yellow",
-    "Hex": "#D6B723, #F3E16D"
+    "Hex": "#D1B321, #F1DF68"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Dark Green-Purple-Yellow Tri",
+    "Hex": "#454D52, #C09F71"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Silk Multi-Color Dawn Radiance",
-    "Hex": "#DBA7B4, #D16A73"
+    "Hex": "#E99192, #957199"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Deep Purple-Teal Dual",
+    "Hex": "#25497D, #64ADD0"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Emerald-Gold-Orange Red Tri",
+    "Hex": "#8C5225, #E3AD63"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Silk Multi-Color Gilded Rose",
-    "Hex": "#E6A3A9, #B15864"
+    "Hex": "#E5A5AA, #B35E6A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Gold-Blue Dual",
+    "Hex": "#2A7484, #B4BE79"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Gold-Blue-Purple Tri",
+    "Hex": "#3A648C, #BEB07A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Gold-Copper Dual",
+    "Hex": "#C04D24, #F1B866"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Gold-Green-Fuchsia Tri",
+    "Hex": "#DEA05E, #73711E"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Gold-Purple-Copper Tri",
+    "Hex": "#733044, #CE8E93"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Gold-Rose Red Dual",
+    "Hex": "#BD3B34, #F39B7B"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Gold-Silver Dual",
+    "Hex": "#84793C, #D0C680"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Gold-Silver-Copper Tri",
+    "Hex": "#95663A, #D2AF80"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Green-Purple-Copper Tri",
+    "Hex": "#705148, #C1A992"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Silk Multi-Color Midnight Blaze",
-    "Hex": "#492B7B, #BD5CA7"
+    "Hex": "#482B79, #BB5CA5"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Silk Multi-Color Mystic Magenta",
-    "Hex": "#F29EC8, #D5639A"
+    "Hex": "#F09CC6, #CE6195"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Silk Multi-Color Neon City",
-    "Hex": "#90DCC3, #2CAA92"
+    "Hex": "#90DBC2, #2DA890"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Orange Red-Purple Dual",
+    "Hex": "#B72D2E, #D97C8F"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Orange-Blue-Green Tri",
+    "Hex": "#2A7177, #BBA554"
   },
   {
     "Brand": "NOVTAU",
@@ -19555,14 +20591,154 @@
     "Material": "PLA",
     "Variant": null,
     "Color": "Silk Multi-Color Pomelo Orange",
-    "Hex": "#E6C19F, #D19965"
+    "Hex": "#E5C09D, #C99361"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Purple-Gold Dual",
+    "Hex": "#7F4255, #D7A786"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Purple-Green Dual",
+    "Hex": "#5B6260, #A5B2A2"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Purple-Orange-Teal Tri",
+    "Hex": "#865666, #B2A9AB"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Purple-Yellow Dual",
+    "Hex": "#5B546C, #B7BA86"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Rainbow Blue-White",
+    "Hex": "#22C1D5, #90E3E4"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Rainbow Cosmos",
+    "Hex": "#3D6897, #A699A9"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Rainbow Dragon Palace",
+    "Hex": "#D49058, #529880"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Rainbow Flower Mountain",
+    "Hex": "#BFB99A, #677F68"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Rainbow Jade Pool",
+    "Hex": "#CEB6AA, #4A4F5A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Rainbow Light Blue-Yellow",
+    "Hex": "#51C3AE, #B7EBA2"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Rainbow Mini",
+    "Hex": "#C2C187, #54AAAB"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Rainbow Moon Palace",
+    "Hex": "#B4B9C9, #559AAA"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Rainbow Peach",
+    "Hex": "#DEA49D, #518179"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Rainbow Pink-White",
+    "Hex": "#F7B2CC, #DD789A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Rainbow Red-Gold",
+    "Hex": "#D13A1F, #F4A869"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Red-Blue-Green Tri",
+    "Hex": "#4B4F67, #9CA7BC"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Silk Multi-Color Red-Gold Dual",
-    "Hex": "#BB3E28, #F28F60"
+    "Hex": "#B73E27, #EF8D60"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Red-Gold-Purple Tri",
+    "Hex": "#A1354A, #E89B87"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Red-Green Dual",
+    "Hex": "#764C36, #CAA28D"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Red-Purple-Green Tri",
+    "Hex": "#6C3A55, #B67EAA"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Red-Yellow-Blue Tri",
+    "Hex": "#C07D43, #3D7C9D"
   },
   {
     "Brand": "NOVTAU",
@@ -19575,29 +20751,71 @@
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
+    "Color": "Silk Multi-Color Rose Red-Light Blue Dual",
+    "Hex": "#B393CD, #7B3770"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Scarlet-Gold Dual",
+    "Hex": "#C22B1F, #F0A15E"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Sky Blue-Rose-Light Green Tri",
+    "Hex": "#C4A9C9, #697D9F"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "Silk Multi-Color South Beach",
-    "Hex": "#D3B9B1, #6FAFBD"
+    "Hex": "#D0B9B0, #6DACBB"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Teal-Orange Red Dual",
+    "Hex": "#D4744E, #529C92"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Multi-Color Teal-Orange Red-Light Yellow Tri",
+    "Hex": "#CF9052, #319B6F"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Silk Multi-Color Velvet Eclipse",
-    "Hex": "#BBA3D9, #8A6EAF"
+    "Hex": "#BCA4D9, #8A70AE"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Silk Multi-Color Yellow-Green Dual",
-    "Hex": "#5CA546, #BFD667"
+    "Hex": "#5CA346, #BED567"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Silk+ Baby Blue",
-    "Hex": "#0491EE"
+    "Hex": "#0690EC"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk+ Black",
+    "Hex": "#2B2B2B"
   },
   {
     "Brand": "NOVTAU",
@@ -19610,8 +20828,15 @@
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
+    "Color": "Silk+ Bronze",
+    "Hex": "#867E4E"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "Silk+ Candy Green",
-    "Hex": "#089359"
+    "Hex": "#099258"
   },
   {
     "Brand": "NOVTAU",
@@ -19631,15 +20856,57 @@
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Silk+ Gold",
-    "Hex": "#E7AE13"
+    "Color": "Silk+ Christmas Green",
+    "Hex": "#077A48"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Silk+ Mint",
-    "Hex": "#07955A"
+    "Color": "Silk+ Cyan Blue",
+    "Hex": "#349AE5"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk+ Dark Gold",
+    "Hex": "#65503A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk+ Gold",
+    "Hex": "#E5AD14"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk+ Light Pink",
+    "Hex": "#F4AAB8"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk+ Light Silver",
+    "Hex": "#A2A1A0"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk+ Ocean Blue",
+    "Hex": "#129DD8"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk+ Orange",
+    "Hex": "#F88429"
   },
   {
     "Brand": "NOVTAU",
@@ -19666,29 +20933,8 @@
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Silk+ Silk Black",
-    "Hex": "#2B2B2B"
-  },
-  {
-    "Brand": "NOVTAU",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Silk+ Silk Bronze",
-    "Hex": "#877F4F"
-  },
-  {
-    "Brand": "NOVTAU",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Silk+ Silk Rose Red",
-    "Hex": "#D3356A"
-  },
-  {
-    "Brand": "NOVTAU",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Silk+ Silk Yellow",
-    "Hex": "#E6B815"
+    "Color": "Silk+ Rose Red",
+    "Hex": "#D03569"
   },
   {
     "Brand": "NOVTAU",
@@ -19701,8 +20947,15 @@
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Silk+ Titan Gray",
-    "Hex": "#97979B"
+    "Color": "Silk+ Turquoise",
+    "Hex": "#2BC8D4"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk+ Vermilion Red",
+    "Hex": "#E52428"
   },
   {
     "Brand": "NOVTAU",
@@ -19710,6 +20963,76 @@
     "Variant": null,
     "Color": "Silk+ White",
     "Hex": "#D5D5D4"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk+ Yellow",
+    "Hex": "#E4B716"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Sparkle Black Green",
+    "Hex": "#2B382F"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Sparkle Blue Gold",
+    "Hex": "#2B679A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Sparkle Classic Gold",
+    "Hex": "#CB8B23"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Sparkle Crimson Red",
+    "Hex": "#9D2317"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Sparkle Onyx Black",
+    "Hex": "#252525"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Sparkle Slate Gray",
+    "Hex": "#76807E"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Sparkle White Gold",
+    "Hex": "#DBBE9E"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Thermochromic Blue to Purple",
+    "Hex": "#786CC8"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Thermochromic Dual Purple-Green to Pink-Yellow",
+    "Hex": "#EEB78A"
   },
   {
     "Brand": "NOVTAU",
@@ -19723,49 +21046,189 @@
     "Material": "PLA",
     "Variant": null,
     "Color": "Thermochromic Orange to Yellow",
-    "Hex": "#EAB252"
+    "Hex": "#E8AF51"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Thermochromic Purple to Blue",
+    "Hex": "#4F62C0"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Thermochromic Purple to Pink",
-    "Hex": "#C767C2"
+    "Hex": "#C366BF"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Thermochromic Yellow to Green",
+    "Hex": "#8BC03D"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Tough+ Black",
+    "Hex": "#2A2A2A"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Tough+ Blue",
-    "Hex": "#0C4AD5"
+    "Hex": "#0D49D1"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Tough+ Bone White",
+    "Hex": "#D9CAAD"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Tough+ Brown",
+    "Hex": "#A57E60"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Tough+ Dark Green",
+    "Hex": "#6FAD74"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Tough+ Golden Yellow",
+    "Hex": "#D7A64A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Tough+ Gray",
+    "Hex": "#737375"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Tough+ Green",
-    "Hex": "#05A053"
+    "Hex": "#069E53"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Tough+ Lake Blue",
+    "Hex": "#477691"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Tough+ Light Blue",
+    "Hex": "#64AAEB"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Tough+ Light Pink",
+    "Hex": "#F9B1C8"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Tough+ Mint Green",
+    "Hex": "#73DFD5"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Tough+ Orange",
+    "Hex": "#E8601D"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Tough+ Pantone 107C Yellow",
+    "Hex": "#F7E109"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Tough+ Pink",
-    "Hex": "#F06290"
+    "Hex": "#EE618E"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Tough+ Purple",
+    "Hex": "#C836AB"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Tough+ Red",
-    "Hex": "#D72025"
+    "Hex": "#D42025"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Tough+ Silver",
+    "Hex": "#6C6D6D"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Tough+ Skin Tone",
-    "Hex": "#DFC2AB"
+    "Hex": "#DEC1A9"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Tough+ White",
+    "Hex": "#A69986"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Tough+ Wood Tone",
+    "Hex": "#D0AA6F"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Tough+ Yellow",
+    "Hex": "#F1BB24"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Translucent Black",
+    "Hex": "#343434"
   },
   {
     "Brand": "NOVTAU",
@@ -19779,7 +21242,7 @@
     "Material": "PLA",
     "Variant": null,
     "Color": "Translucent Blue-White-Orange",
-    "Hex": "#D5CB9F"
+    "Hex": "#D3CA9E"
   },
   {
     "Brand": "NOVTAU",
@@ -19792,36 +21255,99 @@
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
+    "Color": "Translucent Clear",
+    "Hex": "#C9C9CA"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "Translucent Crystal Rainbow (Blue-Green)",
-    "Hex": "#6AD3D1"
+    "Hex": "#68D1CF"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Translucent Crystal Rainbow (Blue-Purple)",
-    "Hex": "#A6A8EB"
+    "Hex": "#A5A7E9"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Translucent Crystal Rainbow (Pink-Yellow)",
-    "Hex": "#F5A78A"
+    "Hex": "#F3A688"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Translucent Crystal Rainbow (Red-Yellow-Blue)",
-    "Hex": "#E4CAA2"
+    "Hex": "#E0C8A0"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Translucent Crystal Rainbow Blue Phantom",
+    "Hex": "#9DB1E2"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Translucent Crystal Rainbow Blue-Purple-Yellow",
+    "Hex": "#BDB7C3"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Translucent Crystal Rainbow Green",
+    "Hex": "#8ADDBD"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Translucent Crystal Rainbow Orange",
+    "Hex": "#FAA76A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Translucent Crystal Rainbow Pink",
+    "Hex": "#F6A9AE"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Translucent Crystal Rainbow Pink-Green-Orange",
+    "Hex": "#C3BF9B"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Translucent Deep Blue",
+    "Hex": "#1D439B"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Translucent Deep Purple",
+    "Hex": "#6C2F88"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Translucent Green",
-    "Hex": "#15BCB3"
+    "Hex": "#17BAB2"
   },
   {
     "Brand": "NOVTAU",
@@ -19835,35 +21361,49 @@
     "Material": "PLA",
     "Variant": null,
     "Color": "Translucent Lavender",
-    "Hex": "#925BD2"
+    "Hex": "#BC9FCF"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Translucent Light Jade",
-    "Hex": "#80D6AF"
+    "Hex": "#7FD6AF"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Translucent Lime Green",
+    "Hex": "#6CC23F"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Translucent Mellow Yellow",
-    "Hex": "#E8C33E"
+    "Hex": "#E7C33E"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Translucent Mint",
+    "Hex": "#8DD8C4"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Translucent Orange",
-    "Hex": "#E9C53F"
+    "Hex": "#C93D27"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Translucent Pink-White",
-    "Hex": "#E5A4B9"
+    "Hex": "#E4A3B8"
   },
   {
     "Brand": "NOVTAU",
@@ -19877,7 +21417,14 @@
     "Material": "PLA",
     "Variant": null,
     "Color": "Translucent Red",
-    "Hex": "#F78293"
+    "Hex": "#AB1D21"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Translucent Smoke Gray",
+    "Hex": "#9C9D9E"
   },
   {
     "Brand": "NOVTAU",
@@ -19890,50 +21437,92 @@
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
+    "Color": "Translucent Yellow-Green",
+    "Hex": "#B7DC37"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Wood Black",
+    "Hex": "#404040"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "Wood Black Walnut",
-    "Hex": "#69473A"
+    "Hex": "#49322A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Wood Cherry",
+    "Hex": "#774737"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Wood Classic Birch",
-    "Hex": "#BD9A7A"
+    "Hex": "#BB9979"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Wood Clay Brown",
-    "Hex": "#6A4839"
+    "Color": "Wood Light",
+    "Hex": "#C6AA89"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Wood Ochre Yellow",
-    "Hex": "#B46031"
+    "Color": "Wood Mahogany",
+    "Hex": "#C16C5D"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Wood Olive",
+    "Hex": "#706D50"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Wood Rosewood",
-    "Hex": "#794737"
+    "Hex": "#7A5243"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Wood Rust Brown",
+    "Hex": "#B46031"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
     "Color": "Wood Tone",
-    "Hex": "#BB9778"
+    "Hex": "#B99677"
   },
   {
     "Brand": "NOVTAU",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Wood White Oak",
-    "Hex": "#BA9878"
+    "Color": "Wood White Pine",
+    "Hex": "#B49E82"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Wood Yellow Rosewood",
+    "Hex": "#C28D5D"
   },
   {
     "Brand": "NOVTAU",
@@ -19953,6 +21542,13 @@
     "Brand": "NOVTAU",
     "Material": "PLA-CF",
     "Variant": null,
+    "Color": "Gray",
+    "Hex": "#6A6A6A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "PLA-CF",
+    "Variant": null,
     "Color": "Iris Purple",
     "Hex": "#874CAF"
   },
@@ -19961,7 +21557,7 @@
     "Material": "PLA-CF",
     "Variant": null,
     "Color": "Jeans Blue",
-    "Hex": "#2550AE"
+    "Hex": "#224683"
   },
   {
     "Brand": "NOVTAU",
@@ -19975,14 +21571,308 @@
     "Material": "PLA-CF",
     "Variant": null,
     "Color": "Matcha Green",
-    "Hex": "#186B4F"
+    "Hex": "#186A4E"
   },
   {
     "Brand": "NOVTAU",
-    "Material": "PLA-CF",
+    "Material": "TPU",
     "Variant": null,
-    "Color": "Royal Blue",
-    "Hex": "#2550AF"
+    "Color": "Flexible Black",
+    "Hex": "#2A2A2A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Flexible Blue",
+    "Hex": "#0F3F91"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Flexible Clear",
+    "Hex": "#C4C6C7"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Flexible Flesh",
+    "Hex": "#C4A172"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Flexible Neon Orange",
+    "Hex": "#ED4526"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Flexible Quicksilver",
+    "Hex": "#3D444A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Flexible Red",
+    "Hex": "#A7252D"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Flexible Translucent Blue",
+    "Hex": "#137AAF"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Flexible Translucent Orange",
+    "Hex": "#D76028"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Flexible Translucent Pink",
+    "Hex": "#E0479A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Flexible Translucent Yellow",
+    "Hex": "#BFD82D"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Flexible Yellow",
+    "Hex": "#EFD53A"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Black",
+    "Hex": "#2C2C2B"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Caramel",
+    "Hex": "#C68C4E"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Clear",
+    "Hex": "#DBD8D3"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Cyan Blue",
+    "Hex": "#11D9E3"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Gold",
+    "Hex": "#F3BC3E"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Gray",
+    "Hex": "#7B7D7F"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Green",
+    "Hex": "#1FD520"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Light Brown",
+    "Hex": "#D8991F"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Light Pink",
+    "Hex": "#FBA3BE"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Mango Yellow",
+    "Hex": "#FCB522"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Orange Red",
+    "Hex": "#FA463C"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Pantone 7514C Skin Tone",
+    "Hex": "#E6BE9B"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Pink Purple",
+    "Hex": "#EA52CA"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Red",
+    "Hex": "#FA4D54"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Silver",
+    "Hex": "#9E9FA0"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Skin Tone",
+    "Hex": "#FACAA8"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Starry Blue",
+    "Hex": "#5A68C0"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Translucent Blue",
+    "Hex": "#0F60D6"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Translucent Coral Orange",
+    "Hex": "#F95A50"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Translucent Emerald",
+    "Hex": "#038F42"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Translucent Gray",
+    "Hex": "#8D8D8D"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Translucent Green",
+    "Hex": "#25D106"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Translucent Orange",
+    "Hex": "#FA992B"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Translucent Pink",
+    "Hex": "#F66BA8"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Translucent Purple",
+    "Hex": "#B135A4"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Translucent Red",
+    "Hex": "#D7122B"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Translucent Teal",
+    "Hex": "#048CA6"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Translucent Violet",
+    "Hex": "#5C4DB8"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Translucent Yellow",
+    "Hex": "#F7EF0D"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow White",
+    "Hex": "#E8E7E8"
+  },
+  {
+    "Brand": "NOVTAU",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "High-Flow Yellow",
+    "Hex": "#EAEA0F"
   },
   {
     "Brand": "NTH Grillon",
@@ -21248,273 +23138,273 @@
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Army Green",
+    "Color": "Matte Army Green",
     "Hex": "#6E8451"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Black",
+    "Color": "Matte Black",
     "Hex": "#1D1E1E"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Black-White",
+    "Color": "Matte Black-White",
     "Hex": "#000000, #FFFFFF"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Blue",
+    "Color": "Matte Blue",
     "Hex": "#005DA4"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Blue-Red",
+    "Color": "Matte Blue-Red",
     "Hex": "#0074BD, #F00024"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Brick Red",
+    "Color": "Matte Brick Red",
     "Hex": "#D22D2F"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Carbon Fiber Black",
+    "Color": "Matte Carbon Fiber Black",
     "Hex": "#000000"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Chocolate",
+    "Color": "Matte Chocolate",
     "Hex": "#503529"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Dark Orange",
+    "Color": "Matte Dark Orange",
     "Hex": "#DC4116"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Grass Green",
+    "Color": "Matte Grass Green",
     "Hex": "#CEFF5C"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Gray Green",
+    "Color": "Matte Gray Green",
     "Hex": "#666F60"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Green",
+    "Color": "Matte Green",
     "Hex": "#519F62"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Jeans Blue",
+    "Color": "Matte Jeans Blue",
     "Hex": "#6787AD"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Jeans Red",
+    "Color": "Matte Jeans Red",
     "Hex": "#F76E6E"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Lavender",
+    "Color": "Matte Lavender",
     "Hex": "#7E5777"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Light Blue",
+    "Color": "Matte Light Blue",
     "Hex": "#99FFFA"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Light Blue-Yellow",
+    "Color": "Matte Light Blue-Yellow",
     "Hex": "#B8FFFF, #FFF49E"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Light Brown",
+    "Color": "Matte Light Brown",
     "Hex": "#EDD5A6"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Light Green",
+    "Color": "Matte Light Green",
     "Hex": "#AFDEB9"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Light Grey",
+    "Color": "Matte Light Grey",
     "Hex": "#BAC4C4"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Light Orange",
+    "Color": "Matte Light Orange",
     "Hex": "#F2B87B"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Light Pink",
+    "Color": "Matte Light Pink",
     "Hex": "#F7E6DE"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Light Teal",
+    "Color": "Matte Light Teal",
     "Hex": "#C7FFE3"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Navy Blue",
+    "Color": "Matte Navy Blue",
     "Hex": "#072E4E"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Olive Green",
+    "Color": "Matte Olive Green",
     "Hex": "#A88704"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Orange",
+    "Color": "Matte Orange",
     "Hex": "#F3C102"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Orange-Red",
+    "Color": "Matte Orange-Red",
     "Hex": "#FCAB59, #F02800"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Pale Green",
+    "Color": "Matte Pale Green",
     "Hex": "#BECBA8"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Pink",
+    "Color": "Matte Pink",
     "Hex": "#FFE0E1"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Purple",
+    "Color": "Matte Purple",
     "Hex": "#8C69B5"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Rainbow",
+    "Color": "Matte Rainbow",
     "Hex": "#FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #8B00FF"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Rainbow A1",
+    "Color": "Matte Rainbow A1",
     "Hex": "#FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #8B00FF"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Red",
+    "Color": "Matte Red",
     "Hex": "#EB3B41"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Repose Gray",
+    "Color": "Matte Repose Gray",
     "Hex": "#B1A498"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Skin",
+    "Color": "Matte Skin",
     "Hex": "#F0DDC2"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Slate Gray",
+    "Color": "Matte Slate Gray",
     "Hex": "#4F6B86"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA White",
+    "Color": "Matte White",
     "Hex": "#E6DEDE"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Wood",
+    "Color": "Matte Wood",
     "Hex": "#CAAC78"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte PLA Yellow",
+    "Color": "Matte Yellow",
     "Hex": "#EFDC4C"
   },
   {
@@ -21563,43 +23453,43 @@
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Rock PLA Fossil Rock",
+    "Color": "Rock Fossil Rock",
     "Hex": "#C2C0BA"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Rock PLA Glacier Blue",
+    "Color": "Rock Glacier Blue",
     "Hex": "#A3EAFF, #FFFFFF"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Rock PLA Mars Red",
+    "Color": "Rock Mars Red",
     "Hex": "#D76D3B"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Rock PLA Rock Rainbow",
+    "Color": "Rock Rainbow",
     "Hex": "#FF0000, #FF7F00, #FFFF00, #00FF00, #0000FF, #4B0082, #8B00FF"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Rock PLA Rock White",
-    "Hex": "#FFFFFF"
+    "Color": "Rock Sedimentary Rock",
+    "Hex": "#C4B199"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Rock PLA Sedimentary Rock",
-    "Hex": "#C4B199"
+    "Color": "Rock White",
+    "Hex": "#FFFFFF"
   },
   {
     "Brand": "Overture",
@@ -21612,84 +23502,84 @@
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Silk PLA Blue",
+    "Color": "Silk Blue",
     "Hex": "#0353BA"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Silk PLA Christmas Red",
+    "Color": "Silk Christmas Red",
     "Hex": "#CE5D4C"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Silk PLA Copper",
+    "Color": "Silk Copper",
     "Hex": "#641501"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Silk PLA Fresh Red",
+    "Color": "Silk Fresh Red",
     "Hex": "#CC0201"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Silk PLA Gold",
+    "Color": "Silk Gold",
     "Hex": "#F9E352"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Silk PLA Gray",
+    "Color": "Silk Gray",
     "Hex": "#394658"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Silk PLA Green",
+    "Color": "Silk Green",
     "Hex": "#018E63"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Silk PLA Neon green",
+    "Color": "Silk Neon green",
     "Hex": "#91C800"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Silk PLA Red",
-    "Hex": "#DA445A"
-  },
-  {
-    "Brand": "Overture",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Silk PLA Silk Purple",
+    "Color": "Silk Purple",
     "Hex": "#7769BC"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Silk PLA Silver",
+    "Color": "Silk Red",
+    "Hex": "#DA445A"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silk Silver",
     "Hex": "#818FA0"
   },
   {
     "Brand": "Overture",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Silk PLA White",
+    "Color": "Silk White",
     "Hex": "#DDD4CA"
   },
   {
@@ -21715,65 +23605,65 @@
   },
   {
     "Brand": "Overture",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "High Speed 95A Black",
+    "Color": "High Speed Black",
     "Hex": "#000000"
   },
   {
     "Brand": "Overture",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "High Speed 95A Clear",
+    "Color": "High Speed Clear",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "Overture",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "High Speed 95A Grass Green",
+    "Color": "High Speed Grass Green",
     "Hex": "#E2F641"
   },
   {
     "Brand": "Overture",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "High Speed 95A Gray",
+    "Color": "High Speed Gray",
     "Hex": "#A3AFA9"
   },
   {
     "Brand": "Overture",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "High Speed 95A Orange",
+    "Color": "High Speed Orange",
     "Hex": "#DB8134"
   },
   {
     "Brand": "Overture",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "High Speed 95A Pink",
+    "Color": "High Speed Pink",
     "Hex": "#F0BAE9"
   },
   {
     "Brand": "Overture",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "High Speed 95A Translucent Blue",
+    "Color": "High Speed Translucent Blue",
     "Hex": "#0000FF"
   },
   {
     "Brand": "Overture",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "High Speed 95A Translucent Red",
+    "Color": "High Speed Translucent Red",
     "Hex": "#FF0000"
   },
   {
     "Brand": "Overture",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "High Speed 95A White",
+    "Color": "High Speed White",
     "Hex": "#FFFFFF"
   },
   {
@@ -22102,365 +23992,344 @@
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Black",
+    "Color": "PolyLite™ Black",
     "Hex": "#16161A"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Blue",
+    "Color": "PolyLite™ Blue",
     "Hex": "#003276"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Dark Grey",
+    "Color": "PolyLite™ Dark Grey",
     "Hex": "#474648"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Dark Purple",
+    "Color": "PolyLite™ Dark Purple",
     "Hex": "#292036"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Galaxy Black",
+    "Color": "PolyLite™ Galaxy Black",
     "Hex": "#474648"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Galaxy Dark Grey",
+    "Color": "PolyLite™ Galaxy Dark Grey",
     "Hex": "#474648"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Galaxy Orange",
+    "Color": "PolyLite™ Galaxy Orange",
     "Hex": "#F57517"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Galaxy Purple",
+    "Color": "PolyLite™ Galaxy Purple",
     "Hex": "#6545A5"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Galaxy Teal",
+    "Color": "PolyLite™ Galaxy Teal",
     "Hex": "#2DCCD3"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Gold",
+    "Color": "PolyLite™ Gold",
     "Hex": "#BD6200"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Green",
+    "Color": "PolyLite™ Green",
     "Hex": "#479161"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Grey",
+    "Color": "PolyLite™ Grey",
     "Hex": "#8C8D93"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Light Blue",
+    "Color": "PolyLite™ Light Blue",
     "Hex": "#8EDBEB"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Lime",
+    "Color": "PolyLite™ Lime",
     "Hex": "#C4D100"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Metallic Blue",
+    "Color": "PolyLite™ Metallic Blue",
     "Hex": "#043371"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Metallic Green",
+    "Color": "PolyLite™ Metallic Green",
     "Hex": "#3D441E"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Natural",
+    "Color": "PolyLite™ Natural",
     "Hex": "#E2E0C9"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Neon Green",
+    "Color": "PolyLite™ Neon Green",
     "Hex": "#77F0A2"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Neon Magenta",
+    "Color": "PolyLite™ Neon Magenta",
     "Hex": "#F6162E"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Neon Orange",
+    "Color": "PolyLite™ Neon Orange",
     "Hex": "#FE602B"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Neon Yellow",
+    "Color": "PolyLite™ Neon Yellow",
     "Hex": "#FFC001"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Orange",
+    "Color": "PolyLite™ Orange",
     "Hex": "#F57517"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Pink",
+    "Color": "PolyLite™ Pink",
     "Hex": "#FFA7C4"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Purple",
+    "Color": "PolyLite™ Purple",
     "Hex": "#6545A5"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Red",
+    "Color": "PolyLite™ Red",
     "Hex": "#F3442B"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Teal",
+    "Color": "PolyLite™ Teal",
     "Hex": "#01ACBA"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS White",
+    "Color": "PolyLite™ White",
     "Hex": "#F0EBE8"
   },
   {
     "Brand": "Polymaker",
     "Material": "ABS",
     "Variant": null,
-    "Color": "PolyLite™ ABS Yellow",
+    "Color": "PolyLite™ Yellow",
     "Hex": "#EDA900"
   },
   {
     "Brand": "Polymaker",
     "Material": "ASA",
     "Variant": null,
-    "Color": "PolyLite™ ASA Army Brown",
+    "Color": "PolyLite™ Army Brown",
     "Hex": "#775C50"
   },
   {
     "Brand": "Polymaker",
     "Material": "ASA",
     "Variant": null,
-    "Color": "PolyLite™ ASA Army Green",
+    "Color": "PolyLite™ Army Green",
     "Hex": "#68724D"
   },
   {
     "Brand": "Polymaker",
     "Material": "ASA",
     "Variant": null,
-    "Color": "PolyLite™ ASA Black",
+    "Color": "PolyLite™ Black",
     "Hex": "#101820"
   },
   {
     "Brand": "Polymaker",
     "Material": "ASA",
     "Variant": null,
-    "Color": "PolyLite™ ASA Blue",
+    "Color": "PolyLite™ Blue",
     "Hex": "#002677"
   },
   {
     "Brand": "Polymaker",
     "Material": "ASA",
     "Variant": null,
-    "Color": "PolyLite™ ASA Dark Green Grey",
+    "Color": "PolyLite™ Dark Green Grey",
     "Hex": "#4C5F46"
   },
   {
     "Brand": "Polymaker",
     "Material": "ASA",
     "Variant": null,
-    "Color": "PolyLite™ ASA Dark Grey",
+    "Color": "PolyLite™ Dark Grey",
     "Hex": "#6C6D71"
   },
   {
     "Brand": "Polymaker",
     "Material": "ASA",
     "Variant": null,
-    "Color": "PolyLite™ ASA Dark Purple",
+    "Color": "PolyLite™ Dark Purple",
     "Hex": "#292036"
   },
   {
     "Brand": "Polymaker",
     "Material": "ASA",
     "Variant": null,
-    "Color": "PolyLite™ ASA Green",
+    "Color": "PolyLite™ Green",
     "Hex": "#00A95C"
   },
   {
     "Brand": "Polymaker",
     "Material": "ASA",
     "Variant": null,
-    "Color": "PolyLite™ ASA Grey",
+    "Color": "PolyLite™ Grey",
     "Hex": "#888B8D"
   },
   {
     "Brand": "Polymaker",
     "Material": "ASA",
     "Variant": null,
-    "Color": "PolyLite™ ASA Jet Black",
+    "Color": "PolyLite™ Jet Black",
     "Hex": "#0A0A0A"
   },
   {
     "Brand": "Polymaker",
     "Material": "ASA",
     "Variant": null,
-    "Color": "PolyLite™ ASA Natural",
+    "Color": "PolyLite™ Natural",
     "Hex": "#F1E6B2"
   },
   {
     "Brand": "Polymaker",
     "Material": "ASA",
     "Variant": null,
-    "Color": "PolyLite™ ASA Olive Brown",
+    "Color": "PolyLite™ Olive Brown",
     "Hex": "#A79565"
   },
   {
     "Brand": "Polymaker",
     "Material": "ASA",
     "Variant": null,
-    "Color": "PolyLite™ ASA Orange",
+    "Color": "PolyLite™ Orange",
     "Hex": "#FF6A13"
   },
   {
     "Brand": "Polymaker",
     "Material": "ASA",
     "Variant": null,
-    "Color": "PolyLite™ ASA Polymaker Teal",
+    "Color": "PolyLite™ Polymaker Teal",
     "Hex": "#00B4BC"
   },
   {
     "Brand": "Polymaker",
     "Material": "ASA",
     "Variant": null,
-    "Color": "PolyLite™ ASA Pop Blue",
+    "Color": "PolyLite™ Pop Blue",
     "Hex": "#2A9BEE"
   },
   {
     "Brand": "Polymaker",
     "Material": "ASA",
     "Variant": null,
-    "Color": "PolyLite™ ASA Pop Green",
+    "Color": "PolyLite™ Pop Green",
     "Hex": "#3CEE2A"
   },
   {
     "Brand": "Polymaker",
     "Material": "ASA",
     "Variant": null,
-    "Color": "PolyLite™ ASA Pop Pink",
+    "Color": "PolyLite™ Pop Pink",
     "Hex": "#EA4E8E"
   },
   {
     "Brand": "Polymaker",
     "Material": "ASA",
     "Variant": null,
-    "Color": "PolyLite™ ASA Purple",
+    "Color": "PolyLite™ Purple",
     "Hex": "#7758B3"
   },
   {
     "Brand": "Polymaker",
     "Material": "ASA",
     "Variant": null,
-    "Color": "PolyLite™ ASA Red",
+    "Color": "PolyLite™ Red",
     "Hex": "#AF231C"
   },
   {
     "Brand": "Polymaker",
     "Material": "ASA",
     "Variant": null,
-    "Color": "PolyLite™ ASA White",
+    "Color": "PolyLite™ White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "Polymaker",
     "Material": "ASA",
     "Variant": null,
-    "Color": "PolyLite™ ASA Yellow",
+    "Color": "PolyLite™ Yellow",
     "Hex": "#FFE800"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PA",
-    "Variant": null,
-    "Color": "Fiberon™ PA12-CF10 Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PA",
-    "Variant": null,
-    "Color": "Fiberon™ PA6-CF20 Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PA",
-    "Variant": null,
-    "Color": "Fiberon™ PA6-GF25 Grey",
-    "Hex": "#9B9B9B"
   },
   {
     "Brand": "Polymaker",
@@ -22471,247 +24340,268 @@
   },
   {
     "Brand": "Polymaker",
+    "Material": "PA12-CF10",
+    "Variant": null,
+    "Color": "Fiberon™ Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PA6-CF20",
+    "Variant": null,
+    "Color": "Fiberon™ Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PA6-GF25",
+    "Variant": null,
+    "Color": "Fiberon™ Grey",
+    "Hex": "#9B9B9B"
+  },
+  {
+    "Brand": "Polymaker",
     "Material": "PC",
     "Variant": null,
-    "Color": "PolyLite™ PC Clear",
+    "Color": "PolyLite™ Clear",
     "Hex": "#F4FAFC"
   },
   {
     "Brand": "Polymaker",
     "Material": "PC",
     "Variant": null,
-    "Color": "PolyMax™ PC Black",
+    "Color": "PolyMax™ Black",
     "Hex": "#101820"
   },
   {
     "Brand": "Polymaker",
     "Material": "PC",
     "Variant": null,
-    "Color": "PolyMax™ PC Blue",
+    "Color": "PolyMax™ Blue",
     "Hex": "#0076CF"
   },
   {
     "Brand": "Polymaker",
     "Material": "PC",
     "Variant": null,
-    "Color": "PolyMax™ PC Grey",
+    "Color": "PolyMax™ Grey",
     "Hex": "#A2AAAD"
   },
   {
     "Brand": "Polymaker",
     "Material": "PC",
     "Variant": null,
-    "Color": "PolyMax™ PC Red",
+    "Color": "PolyMax™ Red",
     "Hex": "#D6001C"
   },
   {
     "Brand": "Polymaker",
     "Material": "PC",
     "Variant": null,
-    "Color": "PolyMax™ PC White",
+    "Color": "PolyMax™ White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "Polymaker",
-    "Material": "PC",
+    "Material": "PC+ABS",
     "Variant": null,
-    "Color": "PolyMax™ PC-FR Black",
+    "Color": "Black",
     "Hex": "#101820"
   },
   {
     "Brand": "Polymaker",
-    "Material": "PC",
+    "Material": "PC+ABS",
     "Variant": null,
-    "Color": "PolyMax™ PC-FR White",
+    "Color": "White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "Polymaker",
-    "Material": "PC",
+    "Material": "PC+FR",
     "Variant": null,
-    "Color": "Polymaker PC-ABS Black",
+    "Color": "PolyMax™ Black",
     "Hex": "#101820"
   },
   {
     "Brand": "Polymaker",
-    "Material": "PC",
+    "Material": "PC+FR",
     "Variant": null,
-    "Color": "Polymaker PC-ABS White",
+    "Color": "PolyMax™ White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "Polymaker",
-    "Material": "PC",
+    "Material": "PC+PBT",
     "Variant": null,
-    "Color": "Polymaker PC-PBT Black",
+    "Color": "Black",
     "Hex": "#101820"
   },
   {
     "Brand": "Polymaker",
-    "Material": "PC",
+    "Material": "PC+PBT",
     "Variant": null,
-    "Color": "Polymaker PC-PBT Natural",
+    "Color": "Natural",
     "Hex": "#E8E6D0"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyLite™ PETG Black",
+    "Color": "PolyLite™ Black",
     "Hex": "#101820"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyLite™ PETG Blue",
+    "Color": "PolyLite™ Blue",
     "Hex": "#004B87"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyLite™ PETG Clear",
+    "Color": "PolyLite™ Clear",
     "Hex": "#F4FAFC"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyLite™ PETG Dark Blue",
+    "Color": "PolyLite™ Dark Blue",
     "Hex": "#13294B"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyLite™ PETG Dark Green",
+    "Color": "PolyLite™ Dark Green",
     "Hex": "#3D441E"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyLite™ PETG Dark Grey",
+    "Color": "PolyLite™ Dark Grey",
     "Hex": "#6C6D71"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyLite™ PETG Dark Purple",
+    "Color": "PolyLite™ Dark Purple",
     "Hex": "#292036"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyLite™ PETG Electric Blue",
+    "Color": "PolyLite™ Electric Blue",
     "Hex": "#0076CF"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyLite™ PETG Gold",
+    "Color": "PolyLite™ Gold",
     "Hex": "#CC8A00"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyLite™ PETG Green",
+    "Color": "PolyLite™ Green",
     "Hex": "#37AD68"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyLite™ PETG Grey",
+    "Color": "PolyLite™ Grey",
     "Hex": "#91999F"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyLite™ PETG Lime",
+    "Color": "PolyLite™ Lime",
     "Hex": "#C4D600"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyLite™ PETG Magenta",
+    "Color": "PolyLite™ Magenta",
     "Hex": "#C6007E"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyLite™ PETG Orange",
+    "Color": "PolyLite™ Orange",
     "Hex": "#FF671F"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyLite™ PETG Pink",
+    "Color": "PolyLite™ Pink",
     "Hex": "#F59BBB"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyLite™ PETG Polymaker Teal",
+    "Color": "PolyLite™ Polymaker Teal",
     "Hex": "#2DCCD3"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyLite™ PETG Purple",
+    "Color": "PolyLite™ Purple",
     "Hex": "#6E3FA3"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyLite™ PETG Red",
+    "Color": "PolyLite™ Red",
     "Hex": "#DE4343"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyLite™ PETG Silver",
+    "Color": "PolyLite™ Silver",
     "Hex": "#75787B"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyLite™ PETG White",
+    "Color": "PolyLite™ White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyLite™ PETG Yellow",
+    "Color": "PolyLite™ Yellow",
     "Hex": "#FFC845"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyMax™ PETG Black",
+    "Color": "PolyMax™ Black",
     "Hex": "#101820"
   },
   {
     "Brand": "Polymaker",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PolyMax™ PETG White",
+    "Color": "PolyMax™ White",
     "Hex": "#FFFFFF"
   },
   {
@@ -23733,623 +25623,623 @@
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ LW-PLA Black",
-    "Hex": "#4C4E56"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PolyLite™ LW-PLA Bright Green",
-    "Hex": "#D0ED03"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PolyLite™ LW-PLA Bright Orange",
-    "Hex": "#FA8423"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PolyLite™ LW-PLA Bright Red",
-    "Hex": "#E81313"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PolyLite™ LW-PLA Bright Yellow",
-    "Hex": "#FAD61B"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PolyLite™ LW-PLA Grey",
-    "Hex": "#A2AAAD"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PolyLite™ LW-PLA White",
-    "Hex": "#E1DCCD"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PolyLite™ LW-PLA Wood",
-    "Hex": "#D2A273"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PolyLite™ PLA Aqua Blue",
+    "Color": "PolyLite™ Aqua Blue",
     "Hex": "#39B9DB"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Azure Blue",
+    "Color": "PolyLite™ Azure Blue",
     "Hex": "#0066D9"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Beige",
+    "Color": "PolyLite™ Beige",
     "Hex": "#C6AD74"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Black",
+    "Color": "PolyLite™ Black",
     "Hex": "#08090D"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Blue",
+    "Color": "PolyLite™ Blue",
     "Hex": "#003776"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Brown",
+    "Color": "PolyLite™ Brown",
     "Hex": "#55331A"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Cream",
+    "Color": "PolyLite™ Cream",
     "Hex": "#E5C8A2"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Dark Blue",
+    "Color": "PolyLite™ Dark Blue",
     "Hex": "#041B3D"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Green",
+    "Color": "PolyLite™ Green",
     "Hex": "#06924D"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Grey",
+    "Color": "PolyLite™ Grey",
     "Hex": "#8C9099"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Jungle Green",
+    "Color": "PolyLite™ Jungle Green",
     "Hex": "#446B20"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Lemon Yellow",
+    "Color": "PolyLite™ LW Black",
+    "Hex": "#4C4E56"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "PolyLite™ LW Bright Green",
+    "Hex": "#D0ED03"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "PolyLite™ LW Bright Orange",
+    "Hex": "#FA8423"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "PolyLite™ LW Bright Red",
+    "Hex": "#E81313"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "PolyLite™ LW Bright Yellow",
+    "Hex": "#FAD61B"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "PolyLite™ LW Grey",
+    "Hex": "#A2AAAD"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "PolyLite™ LW White",
+    "Hex": "#E1DCCD"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "PolyLite™ LW Wood",
+    "Hex": "#D2A273"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "PolyLite™ Lemon Yellow",
     "Hex": "#F1D335"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Lime Green",
+    "Color": "PolyLite™ Lime Green",
     "Hex": "#DEDE00"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Magenta",
+    "Color": "PolyLite™ Magenta",
     "Hex": "#F2306E"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Natural",
+    "Color": "PolyLite™ Natural",
     "Hex": "#E8E6D0"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Olive Green",
+    "Color": "PolyLite™ Olive Green",
     "Hex": "#857C00"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Orange",
+    "Color": "PolyLite™ Orange",
     "Hex": "#F67405"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pink",
+    "Color": "PolyLite™ Pink",
     "Hex": "#F2306E"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Polymaker Teal",
+    "Color": "PolyLite™ Polymaker Teal",
     "Hex": "#4CC0C7"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Army Beige",
+    "Color": "PolyLite™ Pro Army Beige",
     "Hex": "#AA6F3E"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Army Green",
+    "Color": "PolyLite™ Pro Army Green",
     "Hex": "#665A28"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Black",
+    "Color": "PolyLite™ Pro Black",
     "Hex": "#0C0E0C"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Blue",
+    "Color": "PolyLite™ Pro Blue",
     "Hex": "#00307E"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Blue-Green",
+    "Color": "PolyLite™ Pro Blue-Green",
     "Hex": "#00272F"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Brown",
+    "Color": "PolyLite™ Pro Brown",
     "Hex": "#4F2E1E"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Cold White",
+    "Color": "PolyLite™ Pro Cold White",
     "Hex": "#EAECF5"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Dark Purple",
+    "Color": "PolyLite™ Pro Dark Purple",
     "Hex": "#292036"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Dark2 Grey",
+    "Color": "PolyLite™ Pro Dark2 Grey",
     "Hex": "#6C6D71"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Green",
+    "Color": "PolyLite™ Pro Green",
     "Hex": "#178D4A"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Grey",
+    "Color": "PolyLite™ Pro Grey",
     "Hex": "#73767D"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Light Blue",
+    "Color": "PolyLite™ Pro Light Blue",
     "Hex": "#72AECB"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Light Green",
+    "Color": "PolyLite™ Pro Light Green",
     "Hex": "#BBD39B"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Light Red",
+    "Color": "PolyLite™ Pro Light Red",
     "Hex": "#CC4C4B"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Light Yellow",
+    "Color": "PolyLite™ Pro Light Yellow",
     "Hex": "#F3D561"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Magenta",
+    "Color": "PolyLite™ Pro Magenta",
     "Hex": "#E42363"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Orange",
+    "Color": "PolyLite™ Pro Orange",
     "Hex": "#EC6A01"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Pink",
+    "Color": "PolyLite™ Pro Pink",
     "Hex": "#ED92B0"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Polymaker Teal",
+    "Color": "PolyLite™ Pro Polymaker Teal",
     "Hex": "#2FA5AE"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Purple",
+    "Color": "PolyLite™ Pro Purple",
     "Hex": "#6843B1"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Red",
+    "Color": "PolyLite™ Pro Red",
     "Hex": "#E62216"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro White",
+    "Color": "PolyLite™ Pro White",
     "Hex": "#E6E1DE"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Pro Yellow",
+    "Color": "PolyLite™ Pro Yellow",
     "Hex": "#F7B300"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Purple",
+    "Color": "PolyLite™ Purple",
     "Hex": "#6C47B2"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Red",
+    "Color": "PolyLite™ Red",
     "Hex": "#E72F1D"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Steel Grey",
+    "Color": "PolyLite™ Steel Grey",
     "Hex": "#616469"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Stone Blue",
+    "Color": "PolyLite™ Stone Blue",
     "Hex": "#40719A"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA White",
+    "Color": "PolyLite™ White",
     "Hex": "#E2DEDB"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Wine Red",
+    "Color": "PolyLite™ Wine Red",
     "Hex": "#E0191E"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyLite™ PLA Yellow",
+    "Color": "PolyLite™ Yellow",
     "Hex": "#F3B400"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyMax™ PLA Black",
+    "Color": "PolyMax™ Black",
     "Hex": "#101820"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyMax™ PLA Blue",
+    "Color": "PolyMax™ Blue",
     "Hex": "#006EB6"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyMax™ PLA FDE",
+    "Color": "PolyMax™ FDE",
     "Hex": "#8E7B63"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyMax™ PLA Green",
+    "Color": "PolyMax™ Green",
     "Hex": "#00A95C"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyMax™ PLA Grey",
+    "Color": "PolyMax™ Grey",
     "Hex": "#91999F"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyMax™ PLA Orange",
+    "Color": "PolyMax™ Orange",
     "Hex": "#FF9940"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyMax™ PLA Pink",
+    "Color": "PolyMax™ Pink",
     "Hex": "#FD4BAB"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyMax™ PLA Polymaker Teal",
+    "Color": "PolyMax™ Polymaker Teal",
     "Hex": "#00B4BC"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyMax™ PLA Purple",
+    "Color": "PolyMax™ Purple",
     "Hex": "#7758B3"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyMax™ PLA Red",
+    "Color": "PolyMax™ Red",
     "Hex": "#DE4343"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyMax™ PLA White",
+    "Color": "PolyMax™ White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolyMax™ PLA Yellow",
+    "Color": "PolyMax™ Yellow",
     "Hex": "#FFE800"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolySonic™ PLA Black",
+    "Color": "PolySonic™ Black",
     "Hex": "#080A0D"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolySonic™ PLA Blue",
+    "Color": "PolySonic™ Blue",
     "Hex": "#003776"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolySonic™ PLA Green",
+    "Color": "PolySonic™ Green",
     "Hex": "#2D9E59"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolySonic™ PLA Grey",
+    "Color": "PolySonic™ Grey",
     "Hex": "#8C9099"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolySonic™ PLA Orange",
+    "Color": "PolySonic™ Orange",
     "Hex": "#F97429"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolySonic™ PLA Polymaker Teal",
+    "Color": "PolySonic™ Polymaker Teal",
     "Hex": "#50DAE4"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolySonic™ PLA Pro Black",
+    "Color": "PolySonic™ Pro Black",
     "Hex": "#080A0D"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolySonic™ PLA Pro Blue",
+    "Color": "PolySonic™ Pro Blue",
     "Hex": "#003287"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolySonic™ PLA Pro Green",
+    "Color": "PolySonic™ Pro Green",
     "Hex": "#2D9E59"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolySonic™ PLA Pro Grey",
+    "Color": "PolySonic™ Pro Grey",
     "Hex": "#959FA1"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolySonic™ PLA Pro Orange",
+    "Color": "PolySonic™ Pro Orange",
     "Hex": "#F97429"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolySonic™ PLA Pro Polymaker Teal",
+    "Color": "PolySonic™ Pro Polymaker Teal",
     "Hex": "#50DAE4"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolySonic™ PLA Pro Purple",
+    "Color": "PolySonic™ Pro Purple",
     "Hex": "#6C5BB1"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolySonic™ PLA Pro Red",
+    "Color": "PolySonic™ Pro Red",
     "Hex": "#E20010"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolySonic™ PLA Pro White",
+    "Color": "PolySonic™ Pro White",
     "Hex": "#E2DEDB"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolySonic™ PLA Pro Yellow",
+    "Color": "PolySonic™ Pro Yellow",
     "Hex": "#F4C032"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolySonic™ PLA Purple",
+    "Color": "PolySonic™ Purple",
     "Hex": "#6C5BB1"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolySonic™ PLA Red",
+    "Color": "PolySonic™ Red",
     "Hex": "#E72F1D"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolySonic™ PLA White",
+    "Color": "PolySonic™ White",
     "Hex": "#E2DEDB"
   },
   {
     "Brand": "Polymaker",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PolySonic™ PLA Yellow",
+    "Color": "PolySonic™ Yellow",
     "Hex": "#F4C032"
   },
   {
@@ -24363,7 +26253,7 @@
     "Brand": "Polymaker",
     "Material": "PVA",
     "Variant": null,
-    "Color": "PolyDissolve™ S1 (PVA) Natural",
+    "Color": "PolyDissolve™ S1 Natural",
     "Hex": "#E8E6D0"
   },
   {
@@ -24459,101 +26349,101 @@
   },
   {
     "Brand": "Polymaker",
-    "Material": "TPU",
+    "Material": "TPU-90A",
     "Variant": null,
-    "Color": "PolyFlex™ TPU90 Black",
+    "Color": "PolyFlex™ Black",
     "Hex": "#101820"
   },
   {
     "Brand": "Polymaker",
-    "Material": "TPU",
+    "Material": "TPU-90A",
     "Variant": null,
-    "Color": "PolyFlex™ TPU90 Clear",
+    "Color": "PolyFlex™ Clear",
     "Hex": "#F4FAFC"
   },
   {
     "Brand": "Polymaker",
-    "Material": "TPU",
+    "Material": "TPU-90A",
     "Variant": null,
-    "Color": "PolyFlex™ TPU90 Grey",
+    "Color": "PolyFlex™ Grey",
     "Hex": "#453536"
   },
   {
     "Brand": "Polymaker",
-    "Material": "TPU",
+    "Material": "TPU-90A",
     "Variant": null,
-    "Color": "PolyFlex™ TPU90 Polymaker Teal",
+    "Color": "PolyFlex™ Polymaker Teal",
     "Hex": "#2DCCD3"
   },
   {
     "Brand": "Polymaker",
-    "Material": "TPU",
+    "Material": "TPU-90A",
     "Variant": null,
-    "Color": "PolyFlex™ TPU90 White",
+    "Color": "PolyFlex™ White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "Polymaker",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "PolyFlex™ TPU95 Black",
+    "Color": "PolyFlex™ Black",
     "Hex": "#101820"
   },
   {
     "Brand": "Polymaker",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "PolyFlex™ TPU95 Blue",
+    "Color": "PolyFlex™ Blue",
     "Hex": "#0076CF"
   },
   {
     "Brand": "Polymaker",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "PolyFlex™ TPU95 Orange",
-    "Hex": "#FF9E1B"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "TPU",
-    "Variant": null,
-    "Color": "PolyFlex™ TPU95 Red",
-    "Hex": "#D6001C"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "TPU",
-    "Variant": null,
-    "Color": "PolyFlex™ TPU95 White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "TPU",
-    "Variant": null,
-    "Color": "PolyFlex™ TPU95 Yellow",
-    "Hex": "#FEDD00"
-  },
-  {
-    "Brand": "Polymaker",
-    "Material": "TPU",
-    "Variant": null,
-    "Color": "PolyFlex™ TPU95-HF Black",
+    "Color": "PolyFlex™ HF Black",
     "Hex": "#101820"
   },
   {
     "Brand": "Polymaker",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "PolyFlex™ TPU95-HF Clear",
+    "Color": "PolyFlex™ HF Clear",
     "Hex": "#F4FAFC"
   },
   {
     "Brand": "Polymaker",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "PolyFlex™ TPU95-HF White",
+    "Color": "PolyFlex™ HF White",
     "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "PolyFlex™ Orange",
+    "Hex": "#FF9E1B"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "PolyFlex™ Red",
+    "Hex": "#D6001C"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "PolyFlex™ White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Polymaker",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "PolyFlex™ Yellow",
+    "Hex": "#FEDD00"
   },
   {
     "Brand": "Printed Solid",
@@ -25378,6 +27268,13 @@
     "Brand": "Professional LAB",
     "Material": "PLA",
     "Variant": null,
+    "Color": "Marble",
+    "Hex": "#D6D6D6"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "Marble Brick Red",
     "Hex": "#B55239"
   },
@@ -25387,13 +27284,6 @@
     "Variant": null,
     "Color": "Marble Concrete",
     "Hex": "#B0B0B0"
-  },
-  {
-    "Brand": "Professional LAB",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Marble Marble",
-    "Hex": "#D6D6D6"
   },
   {
     "Brand": "Professional LAB",
@@ -25833,6 +27723,13 @@
     "Brand": "Professional LAB",
     "Material": "PLA",
     "Variant": null,
+    "Color": "Wood",
+    "Hex": "#B1874F"
+  },
+  {
+    "Brand": "Professional LAB",
+    "Material": "PLA",
+    "Variant": null,
     "Color": "Wood Black Walnut",
     "Hex": "#745036"
   },
@@ -25842,13 +27739,6 @@
     "Variant": null,
     "Color": "Wood Maple",
     "Hex": "#EAD2A0"
-  },
-  {
-    "Brand": "Professional LAB",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Wood Wood",
-    "Hex": "#B1874F"
   },
   {
     "Brand": "Professional LAB",
@@ -26603,13 +28493,6 @@
     "Brand": "Protopasta",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Iridescent Ice Translucent Translucent",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "Protopasta",
-    "Material": "PLA",
-    "Variant": null,
     "Color": "Juliette's Raspberry Jam Translucent",
     "Hex": "#DD3963"
   },
@@ -26673,42 +28556,42 @@
     "Brand": "Protopasta",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte Fiber Matte Fiber Black",
+    "Color": "Matte Fiber Black",
     "Hex": "#29292B"
   },
   {
     "Brand": "Protopasta",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte Fiber Matte Fiber Daffodil",
+    "Color": "Matte Fiber Daffodil",
     "Hex": "#D5A76F"
   },
   {
     "Brand": "Protopasta",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte Fiber Matte Fiber Gray",
+    "Color": "Matte Fiber Gray",
     "Hex": "#77818A"
   },
   {
     "Brand": "Protopasta",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte Fiber Matte Fiber Mahogany",
+    "Color": "Matte Fiber Mahogany",
     "Hex": "#905F51"
   },
   {
     "Brand": "Protopasta",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte Fiber Matte Fiber Walnut",
+    "Color": "Matte Fiber Walnut",
     "Hex": "#78635A"
   },
   {
     "Brand": "Protopasta",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Matte Fiber Matte Fiber White",
+    "Color": "Matte Fiber White",
     "Hex": "#F6F5F1"
   },
   {
@@ -26926,13 +28809,6 @@
     "Material": "PLA",
     "Variant": null,
     "Color": "Silver Smoke Translucent",
-    "Hex": "#B7B1A9"
-  },
-  {
-    "Brand": "Protopasta",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "Silver Smoke Translucent Translucent",
     "Hex": "#B7B1A9"
   },
   {
@@ -42320,5 +44196,2259 @@
     "Variant": "class=\"align-middle\">PLA Tough+</span>",
     "Color": "Cyan",
     "Hex": "#00FFFF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "White Max Silk",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Red Max Silk",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pink Max Silk",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Gray Max Silk",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Bronze Max Silk",
+    "Hex": "#CD7F32"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Blue Max Silk",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Black Max Silk",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Gold Max Silk",
+    "Hex": "#FFD700"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Silk",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silver",
+    "Hex": "#C0C0C0"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Midnight Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Iron Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Gold",
+    "Hex": "#FFD700"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Cool Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Mint Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Light Blue",
+    "Hex": "#ADD8E6"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Teal",
+    "Hex": "#008080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Sage Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Sea Breeze",
+    "Hex": null
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Slate Blue",
+    "Hex": "#6A5ACD"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Robin Egg Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Peach",
+    "Hex": null
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Pecan Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Olive Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Neon Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Mint Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Mustard",
+    "Hex": "#FFDB58"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Midnight Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Laker Gold",
+    "Hex": "#FFD700"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Flesh",
+    "Hex": "#FFDBAC"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Dark Red",
+    "Hex": "#8B0000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Dark Raspberry",
+    "Hex": null
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Dark Blue",
+    "Hex": "#00008B"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Coral",
+    "Hex": "#FF7F50"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Hot Pink",
+    "Hex": "#FF69B4"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Max V2",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": "Rapid",
+    "Color": "Peacock Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": "Rapid",
+    "Color": "Natural",
+    "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": "Rapid",
+    "Color": "Mint Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": "Rapid",
+    "Color": "Midnight Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": "Rapid",
+    "Color": "Lime Green",
+    "Hex": "#32CD32"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": "Rapid",
+    "Color": "Lake Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": "Rapid",
+    "Color": "Gray Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": "Rapid",
+    "Color": "Electric Lime",
+    "Hex": "#00FF00"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": "Rapid",
+    "Color": "Dark Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": "Rapid",
+    "Color": "Dark Green",
+    "Hex": "#006400"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": "Rapid",
+    "Color": "Copper",
+    "Hex": "#B87333"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": "Rapid",
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": "Rapid",
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": "Rapid",
+    "Color": "Silver",
+    "Hex": "#C0C0C0"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": "Rapid",
+    "Color": "Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": "Rapid",
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": "Rapid",
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": "Rapid",
+    "Color": "Bronze",
+    "Hex": "#CD7F32"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": "Rapid",
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": "Rapid",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Rose Gold",
+    "Hex": "#B76E79"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Apple Sauce",
+    "Hex": null
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Jelly Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Eggplant Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Caribbean Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Brick Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Blush Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Topaz Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Canteloupe Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Dusty Plum",
+    "Hex": "#DDA0DD"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Salmon Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Peopod Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Guacamole Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Butter Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Vivid Tangerine",
+    "Hex": "#F28500"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Wood",
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Wood",
+    "Color": "Ivory",
+    "Hex": "#FFFFF0"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Wood",
+    "Color": "Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Wood",
+    "Color": "Cedar Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Peacock Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Natural",
+    "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Mint Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Midnight Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Light Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Light Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Lime Green",
+    "Hex": "#32CD32"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Iron Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Gray Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Gold",
+    "Hex": "#FFD700"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Forest Green",
+    "Hex": "#228B22"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Dark Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Copper",
+    "Hex": "#B87333"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Chocolate",
+    "Hex": "#D2691E"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Cool Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Bronze",
+    "Hex": "#CD7F32"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Baby Blue",
+    "Hex": "#89CFF0"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Neon Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Beige",
+    "Hex": "#F5F5DC"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Pastel Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Light Blue",
+    "Hex": "#ADD8E6"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Natural",
+    "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Soft Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Seafoam Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Light Periwinkle",
+    "Hex": "#CCCCFF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Light Lavender",
+    "Hex": "#E6E6FA"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Lemon Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Lemonade",
+    "Hex": null
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Cool Mint",
+    "Hex": "#98FF98"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Cherry Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Baby Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Light Rainbow",
+    "Hex": "#E40303, #FF8C00, #FFED00, #008026, #24408E, #732982"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Dark Rainbow",
+    "Hex": "#E40303, #FF8C00, #FFED00, #008026, #24408E, #732982"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Silver",
+    "Hex": "#C0C0C0"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Pastel Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Peacock Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Neon Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Midnight Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Mint",
+    "Hex": "#98FF98"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Light Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Light Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Lime Green",
+    "Hex": "#32CD32"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Light Blue",
+    "Hex": "#ADD8E6"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Iron Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Gray Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Forest Green",
+    "Hex": "#228B22"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Dark Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Copper",
+    "Hex": "#B87333"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Cool Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Bronze",
+    "Hex": "#CD7F32"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Beige",
+    "Hex": "#F5F5DC"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Pro+",
+    "Color": "Baby Blue",
+    "Hex": "#89CFF0"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Dark Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Forest Green",
+    "Hex": "#228B22"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Lime Green",
+    "Hex": "#32CD32"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Gray Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Light Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Baby Blue",
+    "Hex": "#89CFF0"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Light Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Peacock Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Metallic Finish",
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Metallic Finish",
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Metallic Finish",
+    "Color": "Rust",
+    "Hex": "#B7410E"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Metallic Finish",
+    "Color": "Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Metallic Finish",
+    "Color": "Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Metallic Finish",
+    "Color": "Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Metallic Finish",
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Metallic Finish",
+    "Color": "Neon Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Metallic Finish",
+    "Color": "Mint Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Metallic Finish",
+    "Color": "Light Blue",
+    "Hex": "#ADD8E6"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Metallic Finish",
+    "Color": "Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Metallic Finish",
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Metallic Finish",
+    "Color": "Gold",
+    "Hex": "#FFD700"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Metallic Finish",
+    "Color": "Copper",
+    "Hex": "#B87333"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Metallic Finish",
+    "Color": "Bronze",
+    "Hex": "#CD7F32"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Metallic Finish",
+    "Color": "Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Metallic Finish",
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Metallic Finish",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Metallic Finish",
+    "Color": "Beige",
+    "Hex": "#F5F5DC"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Peacock Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pastel Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Pastel Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Pastel Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte Stone",
+    "Color": "Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Terracotta",
+    "Hex": "#E2725B"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Olive",
+    "Hex": "#808000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Navy",
+    "Hex": "#000080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Kraft",
+    "Hex": "#C09A6B"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Matte",
+    "Color": "Ash Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Wood",
+    "Color": "Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Stone",
+    "Color": "Dark Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Wood",
+    "Color": "Natural",
+    "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Transparent",
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Wood",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Midnight Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Light Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Lime Green",
+    "Hex": "#32CD32"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Mint Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Light Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Light Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Electric Lime",
+    "Hex": "#00FF00"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Dark Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Chocolate",
+    "Hex": "#D2691E"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Baby Blue",
+    "Hex": "#89CFF0"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Natural",
+    "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Lake Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Gray Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Dark Green",
+    "Hex": "#006400"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Copper",
+    "Hex": "#B87333"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Bronze",
+    "Hex": "#CD7F32"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": "Paint Free",
+    "Color": "Silver",
+    "Hex": "#C0C0C0"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": "Paint Free",
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": "Paint Free",
+    "Color": "Gold",
+    "Hex": "#FFD700"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": "Paint Free",
+    "Color": "Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": "Paint Free",
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": "Paint Free",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Stone",
+    "Color": "Brick Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Stone",
+    "Color": "Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Stone",
+    "Color": "Granite Rock",
+    "Hex": "#676767"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Stone",
+    "Color": "Granite",
+    "Hex": "#676767"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Stone",
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Stone",
+    "Color": "Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Stone",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Sparkle",
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Sparkle",
+    "Color": "Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Sparkle",
+    "Color": "Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Sparkle",
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Sparkle",
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Sparkle",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": "Transparent",
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Glow In The Dark",
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Glow In The Dark",
+    "Color": "Natural",
+    "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": "Glow In The Dark",
+    "Color": "Natural",
+    "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Silver",
+    "Hex": "#C0C0C0"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Silk",
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Silk",
+    "Color": "Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Silk",
+    "Color": "Silver",
+    "Hex": "#C0C0C0"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Silk",
+    "Color": "Mint",
+    "Hex": "#98FF98"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Silk",
+    "Color": "Light Blue",
+    "Hex": "#ADD8E6"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Silk",
+    "Color": "Gold",
+    "Hex": "#FFD700"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Silk",
+    "Color": "Bronze",
+    "Hex": "#CD7F32"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Silk",
+    "Color": "Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Temperature Color Changing",
+    "Color": "Natural",
+    "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "TPU",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Performance",
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Performance",
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Performance",
+    "Color": "Silver",
+    "Hex": "#C0C0C0"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "UV Color Changing",
+    "Color": "Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "UV Color Changing",
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Transparent",
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Transparent",
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Transparent",
+    "Color": "Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Transparent",
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Transparent",
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Transparent",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Copper",
+    "Hex": "#B87333"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Carbon Fiber",
+    "Color": "Natural",
+    "Hex": "#F5F0E1"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Bronze",
+    "Hex": "#CD7F32"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Neon Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Beige",
+    "Hex": "#F5F5DC"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Silver",
+    "Hex": "#C0C0C0"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Gold",
+    "Hex": "#FFD700"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PC",
+    "Variant": "Transparent",
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PC",
+    "Variant": "Transparent",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "Nylon",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "Nylon",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Performance",
+    "Color": "Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Performance",
+    "Color": "Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Performance",
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Performance",
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Performance",
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "PLA",
+    "Variant": "Performance",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Silver",
+    "Hex": "#C0C0C0"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Purple",
+    "Hex": "#800080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Gold",
+    "Hex": "#FFD700"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": "Transparent",
+    "Color": "Yellow",
+    "Hex": "#FFFF00"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": "Transparent",
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": "Transparent",
+    "Color": "Red",
+    "Hex": "#FF0000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": "Transparent",
+    "Color": "Orange",
+    "Hex": "#FFA500"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": "Transparent",
+    "Color": "Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": "Transparent",
+    "Color": "Blue",
+    "Hex": "#0000FF"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": "Transparent",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Copper",
+    "Hex": "#B87333"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Gray",
+    "Hex": "#808080"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Bronze",
+    "Hex": "#CD7F32"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Neon Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Brown",
+    "Hex": "#A52A2A"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Beige",
+    "Hex": "#F5F5DC"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Mint Green",
+    "Hex": "#008000"
+  },
+  {
+    "Brand": "Hatchbox",
+    "Material": "ABS",
+    "Variant": null,
+    "Color": "Light Blue",
+    "Hex": "#ADD8E6"
   }
 ]
