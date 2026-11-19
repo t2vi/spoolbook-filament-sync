@@ -3629,42 +3629,42 @@
     "Brand": "Ambrosia",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Über ABS Black",
+    "Color": "Über Black",
     "Hex": "#434243"
   },
   {
     "Brand": "Ambrosia",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Über ABS Natural",
+    "Color": "Über Natural",
     "Hex": "#E0D9CD"
   },
   {
     "Brand": "Ambrosia",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Über ABS Pastel Pink",
+    "Color": "Über Pastel Pink",
     "Hex": "#EEAACE"
   },
   {
     "Brand": "Ambrosia",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Über ABS Purple",
+    "Color": "Über Purple",
     "Hex": "#5E4690"
   },
   {
     "Brand": "Ambrosia",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Über ABS Red",
+    "Color": "Über Red",
     "Hex": "#F12D43"
   },
   {
     "Brand": "Ambrosia",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Über ABS White",
+    "Color": "Über White",
     "Hex": "#E3E0DC"
   },
   {
@@ -4903,35 +4903,35 @@
     "Brand": "AzureFilm",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Prime Prime BLACK",
+    "Color": "Prime BLACK",
     "Hex": "#323232"
   },
   {
     "Brand": "AzureFilm",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Prime Prime DARK BLUE",
+    "Color": "Prime DARK BLUE",
     "Hex": "#4871AF"
   },
   {
     "Brand": "AzureFilm",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Prime Prime RED",
+    "Color": "Prime RED",
     "Hex": "#DC4C43"
   },
   {
     "Brand": "AzureFilm",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Prime Prime SILVER",
+    "Color": "Prime SILVER",
     "Hex": "#9B999A"
   },
   {
     "Brand": "AzureFilm",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Prime Prime WHITE",
+    "Color": "Prime WHITE",
     "Hex": "#E5E5E5"
   },
   {
@@ -5041,37 +5041,30 @@
   },
   {
     "Brand": "AzureFilm",
-    "Material": "CF",
+    "Material": "PA-CF",
     "Variant": null,
-    "Color": "Carbon Fiber PAHT",
+    "Color": "Onyx Black",
     "Hex": "#1D1D1C"
   },
   {
     "Brand": "AzureFilm",
-    "Material": "CF",
+    "Material": "PC+ABS",
     "Variant": null,
-    "Color": "Carbon Fiber PET",
-    "Hex": "#2F2F2D"
-  },
-  {
-    "Brand": "AzureFilm",
-    "Material": "PC",
-    "Variant": null,
-    "Color": "PC ABS BLACK",
+    "Color": "BLACK",
     "Hex": "#2D2C32"
   },
   {
     "Brand": "AzureFilm",
-    "Material": "PC",
+    "Material": "PC+ABS",
     "Variant": null,
-    "Color": "PC ABS NATUR",
+    "Color": "NATUR",
     "Hex": "#FEFFFB"
   },
   {
     "Brand": "AzureFilm",
-    "Material": "PC",
+    "Material": "PC+ABS",
     "Variant": null,
-    "Color": "PC ABS WHITE",
+    "Color": "WHITE",
     "Hex": "#E8E8E8"
   },
   {
@@ -5318,6 +5311,13 @@
     "Variant": null,
     "Color": "Transparent YELLOW",
     "Hex": "#ACB954"
+  },
+  {
+    "Brand": "AzureFilm",
+    "Material": "PETG-CF",
+    "Variant": null,
+    "Color": "Onyx Black",
+    "Hex": "#2F2F2D"
   },
   {
     "Brand": "AzureFilm",
@@ -6224,114 +6224,114 @@
   },
   {
     "Brand": "AzureFilm",
-    "Material": "TPU",
+    "Material": "TPU-85A",
     "Variant": null,
-    "Color": "85A 85A BLACK",
+    "Color": "BLACK",
     "Hex": "#101313"
   },
   {
     "Brand": "AzureFilm",
-    "Material": "TPU",
+    "Material": "TPU-85A",
     "Variant": null,
-    "Color": "85A 85A BLUE",
+    "Color": "BLUE",
     "Hex": "#4059A6"
   },
   {
     "Brand": "AzureFilm",
-    "Material": "TPU",
+    "Material": "TPU-85A",
     "Variant": null,
-    "Color": "85A 85A NEON GREEN",
+    "Color": "NEON GREEN",
     "Hex": "#7CBA56"
   },
   {
     "Brand": "AzureFilm",
-    "Material": "TPU",
+    "Material": "TPU-85A",
     "Variant": null,
-    "Color": "85A 85A NEON ORANGE",
+    "Color": "NEON ORANGE",
     "Hex": "#EAA150"
   },
   {
     "Brand": "AzureFilm",
-    "Material": "TPU",
+    "Material": "TPU-85A",
     "Variant": null,
-    "Color": "85A 85A NEON YELLOW",
+    "Color": "NEON YELLOW",
     "Hex": "#D1DD5E"
   },
   {
     "Brand": "AzureFilm",
-    "Material": "TPU",
+    "Material": "TPU-85A",
     "Variant": null,
-    "Color": "85A 85A RED",
+    "Color": "RED",
     "Hex": "#BC3635"
   },
   {
     "Brand": "AzureFilm",
-    "Material": "TPU",
+    "Material": "TPU-85A",
     "Variant": null,
-    "Color": "85A 85A TRANSPARENT",
+    "Color": "TRANSPARENT",
     "Hex": "#EBEEEF"
   },
   {
     "Brand": "AzureFilm",
-    "Material": "TPU",
+    "Material": "TPU-85A",
     "Variant": null,
-    "Color": "85A 85A WHITE",
+    "Color": "WHITE",
     "Hex": "#EDF6F2"
   },
   {
     "Brand": "AzureFilm",
-    "Material": "TPU",
+    "Material": "TPU-98A",
     "Variant": null,
-    "Color": "98A 98A BLACK",
+    "Color": "BLACK",
     "Hex": "#101313"
   },
   {
     "Brand": "AzureFilm",
-    "Material": "TPU",
+    "Material": "TPU-98A",
     "Variant": null,
-    "Color": "98A 98A BLUE",
+    "Color": "BLUE",
     "Hex": "#4059A6"
   },
   {
     "Brand": "AzureFilm",
-    "Material": "TPU",
+    "Material": "TPU-98A",
     "Variant": null,
-    "Color": "98A 98A NEON GREEN",
+    "Color": "NEON GREEN",
     "Hex": "#7CBA56"
   },
   {
     "Brand": "AzureFilm",
-    "Material": "TPU",
+    "Material": "TPU-98A",
     "Variant": null,
-    "Color": "98A 98A NEON ORANGE",
+    "Color": "NEON ORANGE",
     "Hex": "#EAA150"
   },
   {
     "Brand": "AzureFilm",
-    "Material": "TPU",
+    "Material": "TPU-98A",
     "Variant": null,
-    "Color": "98A 98A NEON YELLOW",
+    "Color": "NEON YELLOW",
     "Hex": "#D1DD5E"
   },
   {
     "Brand": "AzureFilm",
-    "Material": "TPU",
+    "Material": "TPU-98A",
     "Variant": null,
-    "Color": "98A 98A RED",
+    "Color": "RED",
     "Hex": "#BC3635"
   },
   {
     "Brand": "AzureFilm",
-    "Material": "TPU",
+    "Material": "TPU-98A",
     "Variant": null,
-    "Color": "98A 98A TRANSPARENT",
+    "Color": "TRANSPARENT",
     "Hex": "#EBEEEF"
   },
   {
     "Brand": "AzureFilm",
-    "Material": "TPU",
+    "Material": "TPU-98A",
     "Variant": null,
-    "Color": "98A 98A WHITE",
+    "Color": "WHITE",
     "Hex": "#EDF6F2"
   },
   {
@@ -6364,44 +6364,44 @@
   },
   {
     "Brand": "CC3D",
-    "Material": "ABS",
+    "Material": "ABS+",
     "Variant": null,
-    "Color": "ABS+ Black",
+    "Color": "Black",
     "Hex": "#000000"
   },
   {
     "Brand": "CC3D",
-    "Material": "ABS",
+    "Material": "ABS+",
     "Variant": null,
-    "Color": "ABS+ Dark Blue",
+    "Color": "Dark Blue",
     "Hex": "#244197"
   },
   {
     "Brand": "CC3D",
-    "Material": "ABS",
+    "Material": "ABS+",
     "Variant": null,
-    "Color": "ABS+ Gray",
+    "Color": "Gray",
     "Hex": "#BBBBBB"
   },
   {
     "Brand": "CC3D",
-    "Material": "ABS",
+    "Material": "ABS+",
     "Variant": null,
-    "Color": "ABS+ Pink",
+    "Color": "Pink",
     "Hex": "#F0C4E3"
   },
   {
     "Brand": "CC3D",
-    "Material": "ABS",
+    "Material": "ABS+",
     "Variant": null,
-    "Color": "ABS+ Red",
+    "Color": "Red",
     "Hex": "#FF0000"
   },
   {
     "Brand": "CC3D",
-    "Material": "ABS",
+    "Material": "ABS+",
     "Variant": null,
-    "Color": "ABS+ White",
+    "Color": "White",
     "Hex": "#FFFFFF"
   },
   {
@@ -6443,413 +6443,413 @@
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Anthrazitgrau",
+    "Color": "Anthrazitgrau",
     "Hex": "#4E5059"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Brilliantrot",
+    "Color": "Brilliantrot",
     "Hex": "#B11B1C"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Carbon",
+    "Color": "Carbon",
     "Hex": "#515151"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Earth Grey",
+    "Color": "Earth Grey",
     "Hex": "#7B6E5E"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Feuerrot",
+    "Color": "Feuerrot",
     "Hex": "#9B3036"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Hellblau",
+    "Color": "Hellblau",
     "Hex": "#2F3E75"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS HevORT Green",
+    "Color": "HevORT Green",
     "Hex": "#88A018"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Leuchtgrün",
+    "Color": "Leuchtgrün",
     "Hex": "#418C00"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Magenta",
+    "Color": "Magenta",
     "Hex": "#A2294C"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Magic Blue",
+    "Color": "Magic Blue",
     "Hex": "#4B79CD"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Magic Green",
+    "Color": "Magic Green",
     "Hex": "#4F7946"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Magic Magenta",
+    "Color": "Magic Magenta",
     "Hex": "#A2294C"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Magic Red",
+    "Color": "Magic Red",
     "Hex": "#9B3036"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Natur",
+    "Color": "Natur",
     "Hex": "#C6BDB6"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Neon Gelb",
+    "Color": "Neon Gelb",
     "Hex": "#BFC205"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Neon Grün",
+    "Color": "Neon Grün",
     "Hex": "#84D449"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Neon Orange",
+    "Color": "Neon Orange",
     "Hex": "#FF4D2B"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Olivgrün",
+    "Color": "Olivgrün",
     "Hex": "#5E6151"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Perlweiß",
+    "Color": "Perlweiß",
     "Hex": "#E1DDD1"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Schwarz",
+    "Color": "Schwarz",
     "Hex": "#1A1A1A"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Silber",
+    "Color": "Silber",
     "Hex": "#898783"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Sonnengelb",
+    "Color": "Sonnengelb",
     "Hex": "#E3AF03"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Verkehrsgrün",
+    "Color": "Verkehrsgrün",
     "Hex": "#197C49"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Violett",
+    "Color": "Violett",
     "Hex": "#5F5C86"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Wasserblau",
+    "Color": "Wasserblau",
     "Hex": "#046B7A"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS",
     "Variant": null,
-    "Color": "ABS Wasserblau Magic",
+    "Color": "Wasserblau Magic",
     "Hex": "#046B7A"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS+GF20",
     "Variant": null,
-    "Color": "ABS FibCR20 Anthrazitgrau",
+    "Color": "FibCR20 Anthrazitgrau",
     "Hex": "#4E5059"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS+GF20",
     "Variant": null,
-    "Color": "ABS FibCR20 Brilliantrot",
+    "Color": "FibCR20 Brilliantrot",
     "Hex": "#B11B1C"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS+GF20",
     "Variant": null,
-    "Color": "ABS FibCR20 Bronze",
+    "Color": "FibCR20 Bronze",
     "Hex": "#4E382B"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS+GF20",
     "Variant": null,
-    "Color": "ABS FibCR20 Hellblau",
+    "Color": "FibCR20 Hellblau",
     "Hex": "#2F3E75"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS+GF20",
     "Variant": null,
-    "Color": "ABS FibCR20 HevORT Green",
+    "Color": "FibCR20 HevORT Green",
     "Hex": "#88A018"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS+GF20",
     "Variant": null,
-    "Color": "ABS FibCR20 Leuchtgrün",
+    "Color": "FibCR20 Leuchtgrün",
     "Hex": "#418C00"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS+GF20",
     "Variant": null,
-    "Color": "ABS FibCR20 Natur",
+    "Color": "FibCR20 Natur",
     "Hex": "#C6BDB6"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS+GF20",
     "Variant": null,
-    "Color": "ABS FibCR20 Schwarz",
+    "Color": "FibCR20 Schwarz",
     "Hex": "#1A1A1A"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS+GF20",
     "Variant": null,
-    "Color": "ABS FibCR20 Sonnengelb",
+    "Color": "FibCR20 Sonnengelb",
     "Hex": "#E3AF03"
   },
   {
     "Brand": "CR3D",
     "Material": "ABS+GF20",
     "Variant": null,
-    "Color": "ABS FibCR20 Wasserblau",
+    "Color": "FibCR20 Wasserblau",
     "Hex": "#046B7A"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Anthrazitgrau",
+    "Color": "Anthrazitgrau",
     "Hex": "#4E5059"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Black Magic",
+    "Color": "Black Magic",
     "Hex": "#2C2827"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Blau",
+    "Color": "Blau",
     "Hex": "#0079D8"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Blue Magic",
+    "Color": "Blue Magic",
     "Hex": "#4B79CD"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Bronze",
+    "Color": "Bronze",
     "Hex": "#4E382B"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Carbon",
+    "Color": "Carbon",
     "Hex": "#515151"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Gelb",
+    "Color": "Gelb",
     "Hex": "#F3D635"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Green Magic",
+    "Color": "Green Magic",
     "Hex": "#4F7946"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG HevORT Green",
+    "Color": "HevORT Green",
     "Hex": "#88A018"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Leuchtgrün",
+    "Color": "Leuchtgrün",
     "Hex": "#418C00"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Neon Grün",
+    "Color": "Neon Grün",
     "Hex": "#84D449"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Neonorange",
+    "Color": "Neonorange",
     "Hex": "#FF4D2B"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Perlhellgrau",
+    "Color": "Perlhellgrau",
     "Hex": "#A3A3A5"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Pink",
+    "Color": "Pink",
     "Hex": "#B9485A"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Red Magic",
+    "Color": "Red Magic",
     "Hex": "#9B3036"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Reinorange",
+    "Color": "Reinorange",
     "Hex": "#EA5B2E"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Rot",
+    "Color": "Rot",
     "Hex": "#CF0B21"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Schwarz",
+    "Color": "Schwarz",
     "Hex": "#1A1A1A"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Seidenweiß",
+    "Color": "Seidenweiß",
     "Hex": "#EFEFEF"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Signalweiss",
+    "Color": "Signalweiss",
     "Hex": "#E0E0E0"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Violett",
+    "Color": "Violett",
     "Hex": "#5F5C86"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Wasserblau",
+    "Color": "Wasserblau",
     "Hex": "#046B7A"
   },
   {
     "Brand": "CR3D",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG Wasserblau Magic",
+    "Color": "Wasserblau Magic",
     "Hex": "#046B7A"
   },
   {
@@ -7017,63 +7017,63 @@
     "Brand": "Creality",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Black Hyper ABS",
+    "Color": "Black Hyper",
     "Hex": "#000000"
   },
   {
     "Brand": "Creality",
     "Material": "ABS",
     "Variant": null,
-    "Color": "Grey Hyper ABS",
+    "Color": "Grey Hyper",
     "Hex": "#AAA9A8"
   },
   {
     "Brand": "Creality",
     "Material": "ABS",
     "Variant": null,
-    "Color": "White Hyper ABS",
+    "Color": "White Hyper",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "Creality",
     "Material": "PETG",
     "Variant": null,
-    "Color": "CR-PETG Black",
+    "Color": "CR Black",
     "Hex": "#000000"
   },
   {
     "Brand": "Creality",
     "Material": "PETG",
     "Variant": null,
-    "Color": "CR-PETG Blue",
+    "Color": "CR Blue",
     "Hex": "#0000FF"
   },
   {
     "Brand": "Creality",
     "Material": "PETG",
     "Variant": null,
-    "Color": "CR-PETG Grey",
+    "Color": "CR Grey",
     "Hex": "#AAA9A8"
   },
   {
     "Brand": "Creality",
     "Material": "PETG",
     "Variant": null,
-    "Color": "CR-PETG Red",
+    "Color": "CR Red",
     "Hex": "#DE3530"
   },
   {
     "Brand": "Creality",
     "Material": "PETG",
     "Variant": null,
-    "Color": "CR-PETG Transparent",
+    "Color": "CR Transparent",
     "Hex": "#00FFFFFF"
   },
   {
     "Brand": "Creality",
     "Material": "PETG",
     "Variant": null,
-    "Color": "CR-PETG White",
+    "Color": "CR White",
     "Hex": "#FFFFFF"
   },
   {
@@ -7136,28 +7136,28 @@
     "Brand": "Creality",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Ender-PLA Black",
+    "Color": "Ender Black",
     "Hex": "#000000"
   },
   {
     "Brand": "Creality",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Ender-PLA Blue",
+    "Color": "Ender Blue",
     "Hex": "#2D8CD5"
   },
   {
     "Brand": "Creality",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Ender-PLA Red",
+    "Color": "Ender Red",
     "Hex": "#DE3530"
   },
   {
     "Brand": "Creality",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Ender-PLA White",
+    "Color": "Ender White",
     "Hex": "#FFFFFF"
   },
   {
@@ -9362,168 +9362,168 @@
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG PRO Black",
+    "Color": "PRO Black",
     "Hex": "#000000"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG PRO Blue",
+    "Color": "PRO Blue",
     "Hex": "#2240AF"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG PRO Burgundy Red",
+    "Color": "PRO Burgundy Red",
     "Hex": "#9C2129"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG PRO Green",
+    "Color": "PRO Green",
     "Hex": "#08E327"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG PRO Grey",
+    "Color": "PRO Grey",
     "Hex": "#8F949B"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG PRO Light Blue",
+    "Color": "PRO Light Blue",
     "Hex": "#339BF7"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG PRO Olive Green",
+    "Color": "PRO Olive Green",
     "Hex": "#25460F"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG PRO Pink",
+    "Color": "PRO Pink",
     "Hex": "#F9B0BD"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG PRO Purple",
+    "Color": "PRO Purple",
     "Hex": "#603BA0"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG PRO Red",
+    "Color": "PRO Red",
     "Hex": "#EA140E"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG PRO Silver",
+    "Color": "PRO Silver",
     "Hex": "#9F9F9F"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG PRO White",
+    "Color": "PRO White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG PRO Yellow",
+    "Color": "PRO Yellow",
     "Hex": "#FBEC07"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "RAPID PETG Beige",
+    "Color": "RAPID Beige",
     "Hex": "#EDE8D0"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "RAPID PETG Black",
+    "Color": "RAPID Black",
     "Hex": "#000000"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "RAPID PETG Blue",
+    "Color": "RAPID Blue",
     "Hex": "#0000FF"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "RAPID PETG Brown",
+    "Color": "RAPID Brown",
     "Hex": "#743824"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "RAPID PETG Green",
+    "Color": "RAPID Green",
     "Hex": "#2B9A84"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "RAPID PETG Grey",
+    "Color": "RAPID Grey",
     "Hex": "#828282"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "RAPID PETG Orange",
+    "Color": "RAPID Orange",
     "Hex": "#D0864C"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "RAPID PETG Red",
+    "Color": "RAPID Red",
     "Hex": "#FF0000"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "RAPID PETG Transparent",
+    "Color": "RAPID Transparent",
     "Hex": "#00FFFFFF"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "RAPID PETG White",
+    "Color": "RAPID White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "Elegoo",
     "Material": "PETG",
     "Variant": null,
-    "Color": "RAPID PETG Yellow",
+    "Color": "RAPID Yellow",
     "Hex": "#DBFF80"
   },
   {
@@ -9915,77 +9915,77 @@
     "Brand": "Elegoo",
     "Material": "PLA+",
     "Variant": null,
-    "Color": "RAPID PLA+ Beige",
+    "Color": "RAPID Beige",
     "Hex": "#FEE7BF"
   },
   {
     "Brand": "Elegoo",
     "Material": "PLA+",
     "Variant": null,
-    "Color": "RAPID PLA+ Black",
+    "Color": "RAPID Black",
     "Hex": "#000000"
   },
   {
     "Brand": "Elegoo",
     "Material": "PLA+",
     "Variant": null,
-    "Color": "RAPID PLA+ Blue",
+    "Color": "RAPID Blue",
     "Hex": "#2240AF"
   },
   {
     "Brand": "Elegoo",
     "Material": "PLA+",
     "Variant": null,
-    "Color": "RAPID PLA+ Brown",
+    "Color": "RAPID Brown",
     "Hex": "#9E6A4B"
   },
   {
     "Brand": "Elegoo",
     "Material": "PLA+",
     "Variant": null,
-    "Color": "RAPID PLA+ Green",
+    "Color": "RAPID Green",
     "Hex": "#02E601"
   },
   {
     "Brand": "Elegoo",
     "Material": "PLA+",
     "Variant": null,
-    "Color": "RAPID PLA+ Grey",
+    "Color": "RAPID Grey",
     "Hex": "#B5B7B8"
   },
   {
     "Brand": "Elegoo",
     "Material": "PLA+",
     "Variant": null,
-    "Color": "RAPID PLA+ Orange",
+    "Color": "RAPID Orange",
     "Hex": "#FD7C18"
   },
   {
     "Brand": "Elegoo",
     "Material": "PLA+",
     "Variant": null,
-    "Color": "RAPID PLA+ Red",
+    "Color": "RAPID Red",
     "Hex": "#EA140E"
   },
   {
     "Brand": "Elegoo",
     "Material": "PLA+",
     "Variant": null,
-    "Color": "RAPID PLA+ Silver",
+    "Color": "RAPID Silver",
     "Hex": "#9F9F9F"
   },
   {
     "Brand": "Elegoo",
     "Material": "PLA+",
     "Variant": null,
-    "Color": "RAPID PLA+ White",
+    "Color": "RAPID White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "Elegoo",
     "Material": "PLA+",
     "Variant": null,
-    "Color": "RAPID PLA+ Yellow",
+    "Color": "RAPID Yellow",
     "Hex": "#FEF406"
   },
   {
@@ -12610,288 +12610,288 @@
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA - Black",
+    "Color": "Black",
     "Hex": "#0B0203"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA - Blue",
+    "Color": "Blue",
     "Hex": "#172788"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA - Brown",
+    "Color": "Brown",
     "Hex": "#984304"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA - Gold",
+    "Color": "Gold",
     "Hex": "#8D834E"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA - Gray",
+    "Color": "Gray",
     "Hex": "#515F6C"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA - Green",
+    "Color": "Green",
     "Hex": "#149732"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA - Light Green",
+    "Color": "Light Green",
     "Hex": "#8AC54B"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA - Natural",
+    "Color": "Natural",
     "Hex": "#E7E7E7"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA - Orange",
+    "Color": "Orange",
     "Hex": "#F08400"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA - Pink",
+    "Color": "Pink",
     "Hex": "#F3B4CD"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA - Purple",
-    "Hex": "#50248B"
-  },
-  {
-    "Brand": "FlashForge",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PLA - Red",
-    "Hex": "#D92818"
-  },
-  {
-    "Brand": "FlashForge",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PLA - Silver",
-    "Hex": "#8C9091"
-  },
-  {
-    "Brand": "FlashForge",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PLA - Skin",
-    "Hex": "#D4B48F"
-  },
-  {
-    "Brand": "FlashForge",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PLA - White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "FlashForge",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PLA - Yellow",
-    "Hex": "#FED212"
-  },
-  {
-    "Brand": "FlashForge",
-    "Material": "PLA",
-    "Variant": null,
-    "Color": "PLA Pro - Black",
+    "Color": "Pro Black",
     "Hex": "#0B0203"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Blue",
+    "Color": "Pro Blue",
     "Hex": "#172788"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Brown",
+    "Color": "Pro Brown",
     "Hex": "#984304"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Cool White",
+    "Color": "Pro Cool White",
     "Hex": "#F6F5FA"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Gold",
+    "Color": "Pro Gold",
     "Hex": "#CFA74C"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Gray",
+    "Color": "Pro Gray",
     "Hex": "#9EACAC"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Green",
+    "Color": "Pro Green",
     "Hex": "#149732"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Light Blue",
+    "Color": "Pro Light Blue",
     "Hex": "#00A3E0"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Light Green",
+    "Color": "Pro Light Green",
     "Hex": "#91C536"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Light Orange",
+    "Color": "Pro Light Orange",
     "Hex": "#F08400"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Light Red",
+    "Color": "Pro Light Red",
     "Hex": "#DB2F2B"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Light Yellow",
+    "Color": "Pro Light Yellow",
     "Hex": "#E4E63F"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Natural",
+    "Color": "Pro Natural",
     "Hex": "#E7E7E7"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Orange",
+    "Color": "Pro Orange",
     "Hex": "#EC6C01"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Pink",
+    "Color": "Pro Pink",
     "Hex": "#F3B4CD"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Purple",
+    "Color": "Pro Purple",
     "Hex": "#5C3E93"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Red",
+    "Color": "Pro Red",
     "Hex": "#D90C18"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Rose",
+    "Color": "Pro Rose",
     "Hex": "#BC4997"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Silver",
+    "Color": "Pro Silver",
     "Hex": "#BBBDBD"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Silver Gray",
+    "Color": "Pro Silver Gray",
     "Hex": "#A2A7A7"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Skin",
+    "Color": "Pro Skin",
     "Hex": "#E7CEA2"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Traffic Red",
+    "Color": "Pro Traffic Red",
     "Hex": "#B32124"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - White",
+    "Color": "Pro White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Pro - Yellow",
+    "Color": "Pro Yellow",
     "Hex": "#FED212"
   },
   {
     "Brand": "FlashForge",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Starter PLA - Red",
+    "Color": "Purple",
+    "Hex": "#50248B"
+  },
+  {
+    "Brand": "FlashForge",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Red",
     "Hex": "#D92818"
+  },
+  {
+    "Brand": "FlashForge",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Silver",
+    "Hex": "#8C9091"
+  },
+  {
+    "Brand": "FlashForge",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Skin",
+    "Hex": "#D4B48F"
+  },
+  {
+    "Brand": "FlashForge",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Starter Red",
+    "Hex": "#D92818"
+  },
+  {
+    "Brand": "FlashForge",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "FlashForge",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Yellow",
+    "Hex": "#FED212"
   },
   {
     "Brand": "Formfutura",
@@ -12974,175 +12974,175 @@
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Black",
+    "Color": "EasyFil Black",
     "Hex": "#0F0F0F"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Bronze",
+    "Color": "EasyFil Bronze",
     "Hex": "#C49207"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Brown",
+    "Color": "EasyFil Brown",
     "Hex": "#A36025"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Celeste Green",
+    "Color": "EasyFil Celeste Green",
     "Hex": "#28C973"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Dark Blue",
+    "Color": "EasyFil Dark Blue",
     "Hex": "#1936AA"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Dark Green",
+    "Color": "EasyFil Dark Green",
     "Hex": "#1B6B30"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Gold",
+    "Color": "EasyFil Gold",
     "Hex": "#D6C11D"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Grey",
+    "Color": "EasyFil Grey",
     "Hex": "#999999"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Lavender",
+    "Color": "EasyFil Lavender",
     "Hex": "#B17FEA"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Light Blue",
+    "Color": "EasyFil Light Blue",
     "Hex": "#308CC1"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Light Green",
+    "Color": "EasyFil Light Green",
     "Hex": "#81D742"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Light Grey",
+    "Color": "EasyFil Light Grey",
     "Hex": "#E8E8E8"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Luminous Yellow",
+    "Color": "EasyFil Luminous Yellow",
     "Hex": "#F7FF23"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Magenta",
+    "Color": "EasyFil Magenta",
     "Hex": "#D32189"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Middle Blue",
+    "Color": "EasyFil Middle Blue",
     "Hex": "#5482BF"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Natural",
+    "Color": "EasyFil Natural",
     "Hex": "#E9EACC"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Orange",
+    "Color": "EasyFil Orange",
     "Hex": "#F28900"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Pastel Blue",
+    "Color": "EasyFil Pastel Blue",
     "Hex": "#15B8D8"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Pastel Green",
+    "Color": "EasyFil Pastel Green",
     "Hex": "#A9F2BB"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Pastel Pink",
+    "Color": "EasyFil Pastel Pink",
     "Hex": "#FF4F89"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Red",
+    "Color": "EasyFil Red",
     "Hex": "#DD3333"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Sapphire Grey",
+    "Color": "EasyFil Sapphire Grey",
     "Hex": "#769CBF"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Silver",
+    "Color": "EasyFil Silver",
     "Hex": "#CCCCCC"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA White",
+    "Color": "EasyFil White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "Formfutura",
     "Material": "PLA",
     "Variant": null,
-    "Color": "EasyFil PLA Yellow",
+    "Color": "EasyFil Yellow",
     "Hex": "#F9F922"
   },
   {
@@ -15296,44 +15296,44 @@
   },
   {
     "Brand": "GST3D",
-    "Material": "TPU",
+    "Material": "TPU-93A",
     "Variant": null,
-    "Color": "Apple Green 93A",
+    "Color": "Apple Green",
     "Hex": "#74B649"
   },
   {
     "Brand": "GST3D",
-    "Material": "TPU",
+    "Material": "TPU-93A",
     "Variant": null,
-    "Color": "Black 93A",
+    "Color": "Black",
     "Hex": "#000000"
   },
   {
     "Brand": "GST3D",
-    "Material": "TPU",
+    "Material": "TPU-93A",
     "Variant": null,
-    "Color": "Blue 93A",
+    "Color": "Blue",
     "Hex": "#2A4498"
   },
   {
     "Brand": "GST3D",
-    "Material": "TPU",
+    "Material": "TPU-93A",
     "Variant": null,
-    "Color": "Red 93A",
+    "Color": "Red",
     "Hex": "#FF0000"
   },
   {
     "Brand": "GST3D",
-    "Material": "TPU",
+    "Material": "TPU-93A",
     "Variant": null,
-    "Color": "Silver 93A",
+    "Color": "Silver",
     "Hex": "#808080"
   },
   {
     "Brand": "GST3D",
-    "Material": "TPU",
+    "Material": "TPU-93A",
     "Variant": null,
-    "Color": "White 93A",
+    "Color": "White",
     "Hex": "#FFFFFF"
   },
   {
@@ -21878,168 +21878,168 @@
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Amarillo (PANTONE Yellow)",
+    "Color": "grillon3 Amarillo (PANTONE Yellow)",
     "Hex": "#FEDF00"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Amarillo Flúo (PANTONE 388)",
+    "Color": "grillon3 Amarillo Flúo (PANTONE 388)",
     "Hex": "#E0E721"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Azul (PANTONE 286)",
+    "Color": "grillon3 Azul (PANTONE 286)",
     "Hex": "#0033AB"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Azul Prusia (PANTONE 3015)",
+    "Color": "grillon3 Azul Prusia (PANTONE 3015)",
     "Hex": "#00629B"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Blanco",
+    "Color": "grillon3 Blanco",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Bordó (PANTONE 201)",
+    "Color": "grillon3 Bordó (PANTONE 201)",
     "Hex": "#9D2235"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Bronce (PANTONE 4505)",
+    "Color": "grillon3 Bronce (PANTONE 4505)",
     "Hex": "#998542"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Celeste (PANTONE 2925)",
+    "Color": "grillon3 Celeste (PANTONE 2925)",
     "Hex": "#009CDE"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Cobre (PANTONE 160)",
+    "Color": "grillon3 Cobre (PANTONE 160)",
     "Hex": "#A1561C"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Fucsia (PANTONE 232)",
+    "Color": "grillon3 Fucsia (PANTONE 232)",
     "Hex": "#E93CAC"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Grís Espacial (PANTONE Cool Gray 3)",
+    "Color": "grillon3 Grís Espacial (PANTONE Cool Gray 3)",
     "Hex": "#C8C9C7"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Grís Plata (PANTONE Cool Gray 9)",
+    "Color": "grillon3 Grís Plata (PANTONE Cool Gray 9)",
     "Hex": "#75787B"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Naranja Flúo (PANTONE 172)",
+    "Color": "grillon3 Naranja Flúo (PANTONE 172)",
     "Hex": "#FA4616"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Natural",
+    "Color": "grillon3 Natural",
     "Hex": "#FCF5D2"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Negro (PANTONE Black)",
+    "Color": "grillon3 Negro (PANTONE Black)",
     "Hex": "#2D2926"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Piel 162 (PANTONE 162)",
+    "Color": "grillon3 Piel 162 (PANTONE 162)",
     "Hex": "#FFBE9F"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Piel 720 (PANTONE 720)",
+    "Color": "grillon3 Piel 720 (PANTONE 720)",
     "Hex": "#E7B78A"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Rojo (PANTONE 485)",
+    "Color": "grillon3 Rojo (PANTONE 485)",
     "Hex": "#DA291C"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Rosa (PANTONE 211)",
+    "Color": "grillon3 Rosa (PANTONE 211)",
     "Hex": "#F57EB6"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Turquesa (PANTONE 313)",
+    "Color": "grillon3 Turquesa (PANTONE 313)",
     "Hex": "#0092BC"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Verde (PANTONE 347)",
+    "Color": "grillon3 Verde (PANTONE 347)",
     "Hex": "#009959"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Verde Flúo",
+    "Color": "grillon3 Verde Flúo",
     "Hex": "#0DF111"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Verde Manzana (PANTONE 375)",
+    "Color": "grillon3 Verde Manzana (PANTONE 375)",
     "Hex": "#97D700"
   },
   {
     "Brand": "NTH Grillon",
     "Material": "PLA",
     "Variant": null,
-    "Color": "grillon3 PLA | Violeta (PANTONE 2603)",
+    "Color": "grillon3 Violeta (PANTONE 2603)",
     "Hex": "#702082"
   },
   {
@@ -23077,6 +23077,202 @@
     "Variant": null,
     "Color": "Cold White",
     "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Beige",
+    "Hex": "#F7F6ED"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Caramel",
+    "Hex": "#A88D5D"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Cobalt Blue",
+    "Hex": "#274DA0"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Digital Blue",
+    "Hex": "#0696EF"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Glow Blue",
+    "Hex": "#5EB7D4"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Glow Orange",
+    "Hex": "#FF9C66"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Glow Red",
+    "Hex": "#FF7D7A"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Glow Yellow",
+    "Hex": "#EBFF6B"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Green",
+    "Hex": "#4DFF64"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Magenta",
+    "Hex": "#FD3DB5"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Natural",
+    "Hex": "#CCCCCC"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Orange",
+    "Hex": "#FF5F2E"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Pine Green",
+    "Hex": "#00A5A8"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Pink",
+    "Hex": "#FFC0CB"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Pumpkin Orange",
+    "Hex": "#FF8D5C"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Purple",
+    "Hex": "#7B49A2"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Red",
+    "Hex": "#FF2C29"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Rock White",
+    "Hex": "#EDF0F2"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Shimmer Bronze",
+    "Hex": "#81BA6D"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Shimmer Dark Green",
+    "Hex": "#008059"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Shimmer Purple",
+    "Hex": "#906482"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Shimmer Silver Green",
+    "Hex": "#9ECB86"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Sky Blue",
+    "Hex": "#3BC9ED"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Space Gray",
+    "Hex": "#B2B8B8"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Yellow",
+    "Hex": "#FCFF66"
+  },
+  {
+    "Brand": "Overture",
+    "Material": "PLA",
+    "Variant": null,
+    "Color": "Easy Yolk Yellow",
+    "Hex": "#FFE357"
   },
   {
     "Brand": "Overture",
@@ -26449,329 +26645,329 @@
     "Brand": "Printed Solid",
     "Material": "PETG",
     "Variant": null,
-    "Color": "Jessie Black PETG",
+    "Color": "Jessie Black",
     "Hex": "#221E21"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PETG",
     "Variant": null,
-    "Color": "Jessie Bold Blue PETG",
+    "Color": "Jessie Bold Blue",
     "Hex": "#054A98"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PETG",
     "Variant": null,
-    "Color": "Jessie Clear PETG",
+    "Color": "Jessie Clear",
     "Hex": "#BBC7CC"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PETG",
     "Variant": null,
-    "Color": "Jessie Gun Metal Grey PETG",
+    "Color": "Jessie Gun Metal Grey",
     "Hex": "#99999A"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PETG",
     "Variant": null,
-    "Color": "Jessie Mystery Orange PETG",
+    "Color": "Jessie Mystery Orange",
     "Hex": "#F56232"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PETG",
     "Variant": null,
-    "Color": "Jessie Neon Yellow PETG",
+    "Color": "Jessie Neon Yellow",
     "Hex": "#E3DF00"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PETG",
     "Variant": null,
-    "Color": "Jessie PS Red PETG",
+    "Color": "Jessie PS Red",
     "Hex": "#BE2F2A"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PETG",
     "Variant": null,
-    "Color": "Jessie Pure Cyan PETG",
+    "Color": "Jessie Pure Cyan",
     "Hex": "#078BBA"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PETG",
     "Variant": null,
-    "Color": "Jessie Soul Black Glitter PETG",
+    "Color": "Jessie Soul Black Glitter",
     "Hex": "#292823"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PETG",
     "Variant": null,
-    "Color": "Jessie Tree Green PETG",
+    "Color": "Jessie Tree Green",
     "Hex": "#217E3E"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PETG",
     "Variant": null,
-    "Color": "Jessie White PETG",
+    "Color": "Jessie White",
     "Hex": "#ECEBE8"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PETG",
     "Variant": null,
-    "Color": "Jessie Yellow Bird PETG",
+    "Color": "Jessie Yellow Bird",
     "Hex": "#EFBC2F"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie 3DPN Vanilla Bean Ice Cream PLA",
+    "Color": "Jessie 3DPN Vanilla Bean Ice Cream",
     "Hex": "#9FA8A9"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Army Green PLA",
+    "Color": "Jessie Army Green",
     "Hex": "#524D28"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Beige 500 PLA",
+    "Color": "Jessie Beige 500",
     "Hex": "#DBD0BC"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Black PLA",
+    "Color": "Jessie Black",
     "Hex": "#2A242D"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Blood Red Light Glitter PLA",
+    "Color": "Jessie Blood Red Light Glitter",
     "Hex": "#A23C33"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Blue Ice PLA",
+    "Color": "Jessie Blue Ice",
     "Hex": "#034C73"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Blue Moon PLA",
+    "Color": "Jessie Blue Moon",
     "Hex": "#221E89"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Blue Whale Grey PLA",
+    "Color": "Jessie Blue Whale Grey",
     "Hex": "#36608D"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Bold Blue PLA",
+    "Color": "Jessie Bold Blue",
     "Hex": "#0851A6"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Deep Purple PLA",
+    "Color": "Jessie Deep Purple",
     "Hex": "#5D4F5D"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Design White PLA",
+    "Color": "Jessie Design White",
     "Hex": "#D0CDC7"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Golden Winner Glitter PLA",
+    "Color": "Jessie Golden Winner Glitter",
     "Hex": "#906E30"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Green Ice PLA",
+    "Color": "Jessie Green Ice",
     "Hex": "#365926"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Green Slime Glitter PLA",
+    "Color": "Jessie Green Slime Glitter",
     "Hex": "#8D9222"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Gun Metal Grey PLA",
+    "Color": "Jessie Gun Metal Grey",
     "Hex": "#89908E"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Limer Green PLA",
+    "Color": "Jessie Limer Green",
     "Hex": "#52AB2B"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Mystery Orange PLA",
+    "Color": "Jessie Mystery Orange",
     "Hex": "#F56232"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Neon Green PLA",
+    "Color": "Jessie Neon Green",
     "Hex": "#B0DA00"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Neon Pink PLA",
+    "Color": "Jessie Neon Pink",
     "Hex": "#FD636A"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Neon Yellow PLA",
+    "Color": "Jessie Neon Yellow",
     "Hex": "#D3E500"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Orange Glitter PLA",
+    "Color": "Jessie Orange Glitter",
     "Hex": "#DB5532"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie PS Red PLA",
+    "Color": "Jessie PS Red",
     "Hex": "#C2403B"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Pure Cyan PLA",
+    "Color": "Jessie Pure Cyan",
     "Hex": "#0686B2"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Pure Magenta PLA",
+    "Color": "Jessie Pure Magenta",
     "Hex": "#EEB4D7"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Purple Eater PLA",
+    "Color": "Jessie Purple Eater",
     "Hex": "#8E4FAF"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Purple Ice PLA",
+    "Color": "Jessie Purple Ice",
     "Hex": "#8C41AE"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Quarter White PLA",
+    "Color": "Jessie Quarter White",
     "Hex": "#E5E7E1"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Red Ice PLA",
+    "Color": "Jessie Red Ice",
     "Hex": "#862E26"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Safety Orange PLA",
+    "Color": "Jessie Safety Orange",
     "Hex": "#F66A1F"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Soul Black Glitter PLA",
+    "Color": "Jessie Soul Black Glitter",
     "Hex": "#292823"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Tan 64 PLA",
+    "Color": "Jessie Tan 64",
     "Hex": "#9B8978"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Tree Brown PLA",
+    "Color": "Jessie Tree Brown",
     "Hex": "#584136"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Tree Green PLA",
+    "Color": "Jessie Tree Green",
     "Hex": "#3A853B"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie White PLA",
+    "Color": "Jessie White",
     "Hex": "#EFEFE8"
   },
   {
     "Brand": "Printed Solid",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Jessie Yellow Bird PLA",
+    "Color": "Jessie Yellow Bird",
     "Hex": "#FDC22E"
   },
   {
@@ -29368,55 +29564,6 @@
     "Brand": "QIDI Tech",
     "Material": "PETG",
     "Variant": null,
-    "Color": "PETG-Tough Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "QIDI Tech",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "PETG-Tough Blue",
-    "Hex": "#0094EB"
-  },
-  {
-    "Brand": "QIDI Tech",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "PETG-Tough Green",
-    "Hex": "#2A9D4A"
-  },
-  {
-    "Brand": "QIDI Tech",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "PETG-Tough Orange",
-    "Hex": "#EE8F00"
-  },
-  {
-    "Brand": "QIDI Tech",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "PETG-Tough Red",
-    "Hex": "#DF0000"
-  },
-  {
-    "Brand": "QIDI Tech",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "PETG-Tough White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "QIDI Tech",
-    "Material": "PETG",
-    "Variant": null,
-    "Color": "PETG-Tough Yellow",
-    "Hex": "#F4D875"
-  },
-  {
-    "Brand": "QIDI Tech",
-    "Material": "PETG",
-    "Variant": null,
     "Color": "Rapido Black",
     "Hex": "#0E0E0F"
   },
@@ -29475,6 +29622,55 @@
     "Variant": null,
     "Color": "Rapido Yellow",
     "Hex": "#FCE300"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Tough Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Tough Blue",
+    "Hex": "#0094EB"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Tough Green",
+    "Hex": "#2A9D4A"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Tough Orange",
+    "Hex": "#EE8F00"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Tough Red",
+    "Hex": "#DF0000"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Tough White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "PETG",
+    "Variant": null,
+    "Color": "Tough Yellow",
+    "Hex": "#F4D875"
   },
   {
     "Brand": "QIDI Tech",
@@ -29970,20 +30166,6 @@
     "Brand": "QIDI Tech",
     "Material": "TPU",
     "Variant": null,
-    "Color": "95A HF Black",
-    "Hex": "#000000"
-  },
-  {
-    "Brand": "QIDI Tech",
-    "Material": "TPU",
-    "Variant": null,
-    "Color": "95A HF White",
-    "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "QIDI Tech",
-    "Material": "TPU",
-    "Variant": null,
     "Color": "Aero Black",
     "Hex": "#000000"
   },
@@ -29992,6 +30174,20 @@
     "Material": "TPU",
     "Variant": null,
     "Color": "Aero White",
+    "Hex": "#FFFFFF"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "HF Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "QIDI Tech",
+    "Material": "TPU-95A",
+    "Variant": null,
+    "Color": "HF White",
     "Hex": "#FFFFFF"
   },
   {
@@ -30215,70 +30411,70 @@
     "Brand": "R3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA BASIC Black",
+    "Color": "Basic Black",
     "Hex": "#000000"
   },
   {
     "Brand": "R3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA BASIC Brown",
+    "Color": "Basic Brown",
     "Hex": "#A52A2A"
   },
   {
     "Brand": "R3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA BASIC Cobalt Blue",
+    "Color": "Basic Cobalt Blue",
     "Hex": "#0047AB"
   },
   {
     "Brand": "R3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA BASIC Orange",
+    "Color": "Basic Orange",
     "Hex": "#FFA500"
   },
   {
     "Brand": "R3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA BASIC Purple",
+    "Color": "Basic Purple",
     "Hex": "#800080"
   },
   {
     "Brand": "R3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA BASIC Red",
+    "Color": "Basic Red",
     "Hex": "#FF0000"
   },
   {
     "Brand": "R3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA BASIC Rose Pink",
+    "Color": "Basic Rose Pink",
     "Hex": "#FFC0CB"
   },
   {
     "Brand": "R3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA BASIC S. Green",
+    "Color": "Basic S. Green",
     "Hex": "#00FF00"
   },
   {
     "Brand": "R3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA BASIC White",
+    "Color": "Basic White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "R3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA BASIC Yellow",
+    "Color": "Basic Yellow",
     "Hex": "#FFFF00"
   },
   {
@@ -30922,343 +31118,343 @@
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Army Green",
+    "Color": "Starter Army Green",
     "Hex": "#4B5320"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Black",
+    "Color": "Starter Black",
     "Hex": "#000000"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Blue",
+    "Color": "Starter Blue",
     "Hex": "#0000FF"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Blue Pearl",
+    "Color": "Starter Blue Pearl",
     "Hex": "#4169E1"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Blue Sky",
+    "Color": "Starter Blue Sky",
     "Hex": "#87CEEB"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Carpi Blue Satin",
+    "Color": "Starter Carpi Blue Satin",
     "Hex": "#3A5FCD"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Chocolate Brown",
+    "Color": "Starter Chocolate Brown",
     "Hex": "#381819"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Dark Blue",
+    "Color": "Starter Dark Blue",
     "Hex": "#00008B"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Emerald Green Satin",
+    "Color": "Starter Emerald Green Satin",
     "Hex": "#50C878"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Glitter Bronze",
+    "Color": "Starter Glitter Bronze",
     "Hex": "#B08D57"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Glitter Graphite",
+    "Color": "Starter Glitter Graphite",
     "Hex": "#4B4B4B"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Gray",
+    "Color": "Starter Gray",
     "Hex": "#808080"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Green",
+    "Color": "Starter Green",
     "Hex": "#008000"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Hunter Green",
+    "Color": "Starter Hunter Green",
     "Hex": "#355E3B"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Juicy Green",
+    "Color": "Starter Juicy Green",
     "Hex": "#7FFF00"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Karmin Red",
+    "Color": "Starter Karmin Red",
     "Hex": "#960018"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Light Brown",
+    "Color": "Starter Light Brown",
     "Hex": "#A0522D"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Light Gray",
+    "Color": "Starter Light Gray",
     "Hex": "#D3D3D3"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Mocha Mousse",
+    "Color": "Starter Mocha Mousse",
     "Hex": "#836953"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Natural",
+    "Color": "Starter Natural",
     "Hex": "#F5F5DC"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Neon Fluo",
+    "Color": "Starter Neon Fluo",
     "Hex": "#39FF14"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Neon Green",
+    "Color": "Starter Neon Green",
     "Hex": "#39FF14"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Neon Orange",
+    "Color": "Starter Neon Orange",
     "Hex": "#FF6700"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Orange",
+    "Color": "Starter Orange",
     "Hex": "#FFA500"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Oxy Green",
+    "Color": "Starter Oxy Green",
     "Hex": "#009966"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Pearl Gold",
+    "Color": "Starter Pearl Gold",
     "Hex": "#FFD700"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Pink",
+    "Color": "Starter Pink",
     "Hex": "#FFC0CB"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Porcelain Skin",
+    "Color": "Starter Porcelain Skin",
     "Hex": "#FFE5B4"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Red",
+    "Color": "Starter Red",
     "Hex": "#FF0000"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Red Jasper Satin",
+    "Color": "Starter Red Jasper Satin",
     "Hex": "#B22222"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Reseda Green",
+    "Color": "Starter Reseda Green",
     "Hex": "#78866B"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Rose Beige Skin",
+    "Color": "Starter Rose Beige Skin",
     "Hex": "#EEC1BE"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Rubin Red",
+    "Color": "Starter Rubin Red",
     "Hex": "#D1001C"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Satin Grey",
+    "Color": "Starter Satin Grey",
     "Hex": "#A9A9A9"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Satin Pink",
+    "Color": "Starter Satin Pink",
     "Hex": "#FF69B4"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Signal Violet",
+    "Color": "Starter Signal Violet",
     "Hex": "#8B00FF"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Tanned Skin",
+    "Color": "Starter Tanned Skin",
     "Hex": "#D2B48C"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Violet Dynamic",
+    "Color": "Starter Violet Dynamic",
     "Hex": "#8A2BE2"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter White",
+    "Color": "Starter White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Winter White",
+    "Color": "Starter Winter White",
     "Hex": "#F8F8F8"
   },
   {
     "Brand": "Rosa3D",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA Starter Yellow",
+    "Color": "Starter Yellow",
     "Hex": "#FFFF00"
   },
   {
     "Brand": "SMARTFIL",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA-Basic Black",
+    "Color": "Basic Black",
     "Hex": "#2B2B2C"
   },
   {
     "Brand": "SMARTFIL",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA-Basic Blue",
+    "Color": "Basic Blue",
     "Hex": "#005387"
   },
   {
     "Brand": "SMARTFIL",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA-Basic Dark grey",
+    "Color": "Basic Dark grey",
     "Hex": "#575D5E"
   },
   {
     "Brand": "SMARTFIL",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA-Basic Green",
+    "Color": "Basic Green",
     "Hex": "#00B51B"
   },
   {
     "Brand": "SMARTFIL",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA-Basic Orange",
+    "Color": "Basic Orange",
     "Hex": "#FC5500"
   },
   {
     "Brand": "SMARTFIL",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA-Basic Red",
+    "Color": "Basic Red",
     "Hex": "#CC2C24"
   },
   {
     "Brand": "SMARTFIL",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA-Basic White",
+    "Color": "Basic White",
     "Hex": "#F1EDE1"
   },
   {
     "Brand": "SMARTFIL",
     "Material": "PLA",
     "Variant": null,
-    "Color": "PLA-Basic Yellow",
+    "Color": "Basic Yellow",
     "Hex": "#F1DD39"
   },
   {
@@ -33365,119 +33561,119 @@
     "Brand": "Soleyin",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Ultra PLA Almond Purple",
+    "Color": "Ultra Almond Purple",
     "Hex": "#D9B8F1"
   },
   {
     "Brand": "Soleyin",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Ultra PLA Black",
+    "Color": "Ultra Black",
     "Hex": "#000000"
   },
   {
     "Brand": "Soleyin",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Ultra PLA Gray",
+    "Color": "Ultra Gray",
     "Hex": "#9EA2A2"
   },
   {
     "Brand": "Soleyin",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Ultra PLA Greenery",
+    "Color": "Ultra Greenery",
     "Hex": "#B2BA81"
   },
   {
     "Brand": "Soleyin",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Ultra PLA Light Green",
+    "Color": "Ultra Light Green",
     "Hex": "#B8F1CC"
   },
   {
     "Brand": "Soleyin",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Ultra PLA Matte Black",
+    "Color": "Ultra Matte Black",
     "Hex": "#000000"
   },
   {
     "Brand": "Soleyin",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Ultra PLA Matte Fluorite",
+    "Color": "Ultra Matte Fluorite",
     "Hex": "#69F793, #6DC1FD, #E290F9"
   },
   {
     "Brand": "Soleyin",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Ultra PLA Matte Greenery",
+    "Color": "Ultra Matte Greenery",
     "Hex": "#6F907C"
   },
   {
     "Brand": "Soleyin",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Ultra PLA Matte Grey",
+    "Color": "Ultra Matte Grey",
     "Hex": "#929292"
   },
   {
     "Brand": "Soleyin",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Ultra PLA Matte Moonstone",
+    "Color": "Ultra Matte Moonstone",
     "Hex": "#DC8ADD, #99C1F1, #F9F06B"
   },
   {
     "Brand": "Soleyin",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Ultra PLA Matte Rose Stone",
+    "Color": "Ultra Matte Rose Stone",
     "Hex": "#67B9F4, #F1A6F7, #B861FF"
   },
   {
     "Brand": "Soleyin",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Ultra PLA Matte White",
+    "Color": "Ultra Matte White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "Soleyin",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Ultra PLA Ocean Blue",
+    "Color": "Ultra Ocean Blue",
     "Hex": "#B8F1ED"
   },
   {
     "Brand": "Soleyin",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Ultra PLA Pineapple Yellow",
+    "Color": "Ultra Pineapple Yellow",
     "Hex": "#FFE543"
   },
   {
     "Brand": "Soleyin",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Ultra PLA Rosehip",
+    "Color": "Ultra Rosehip",
     "Hex": "#FD7D36"
   },
   {
     "Brand": "Soleyin",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Ultra PLA Strawberry Milk",
+    "Color": "Ultra Strawberry Milk",
     "Hex": "#F16D7A"
   },
   {
     "Brand": "Soleyin",
     "Material": "PLA",
     "Variant": null,
-    "Color": "Ultra PLA White",
+    "Color": "Ultra White",
     "Hex": "#FFFFFF"
   },
   {
@@ -33932,84 +34128,84 @@
     "Brand": "SUNLU",
     "Material": "PETG",
     "Variant": null,
-    "Color": "High Speed Matte PETG - Black",
+    "Color": "High Speed Matte - Black",
     "Hex": "#151616"
   },
   {
     "Brand": "SUNLU",
     "Material": "PETG",
     "Variant": null,
-    "Color": "High Speed Matte PETG - Blue",
+    "Color": "High Speed Matte - Blue",
     "Hex": "#3A39BB"
   },
   {
     "Brand": "SUNLU",
     "Material": "PETG",
     "Variant": null,
-    "Color": "High Speed Matte PETG - Green",
+    "Color": "High Speed Matte - Green",
     "Hex": "#2EC835"
   },
   {
     "Brand": "SUNLU",
     "Material": "PETG",
     "Variant": null,
-    "Color": "High Speed Matte PETG - Grey",
+    "Color": "High Speed Matte - Grey",
     "Hex": "#838589"
   },
   {
     "Brand": "SUNLU",
     "Material": "PETG",
     "Variant": null,
-    "Color": "High Speed Matte PETG - Mint",
+    "Color": "High Speed Matte - Mint",
     "Hex": "#40AA98"
   },
   {
     "Brand": "SUNLU",
     "Material": "PETG",
     "Variant": null,
-    "Color": "High Speed Matte PETG - Olive Green",
+    "Color": "High Speed Matte - Olive Green",
     "Hex": "#64794B"
   },
   {
     "Brand": "SUNLU",
     "Material": "PETG",
     "Variant": null,
-    "Color": "High Speed Matte PETG - Orange",
+    "Color": "High Speed Matte - Orange",
     "Hex": "#F55F35"
   },
   {
     "Brand": "SUNLU",
     "Material": "PETG",
     "Variant": null,
-    "Color": "High Speed Matte PETG - Pink",
+    "Color": "High Speed Matte - Pink",
     "Hex": "#FCA2D3"
   },
   {
     "Brand": "SUNLU",
     "Material": "PETG",
     "Variant": null,
-    "Color": "High Speed Matte PETG - Red",
+    "Color": "High Speed Matte - Red",
     "Hex": "#C72C2F"
   },
   {
     "Brand": "SUNLU",
     "Material": "PETG",
     "Variant": null,
-    "Color": "High Speed Matte PETG - Sky Blue",
+    "Color": "High Speed Matte - Sky Blue",
     "Hex": "#5DC0F0"
   },
   {
     "Brand": "SUNLU",
     "Material": "PETG",
     "Variant": null,
-    "Color": "High Speed Matte PETG - White",
+    "Color": "High Speed Matte - White",
     "Hex": "#EEEEEE"
   },
   {
     "Brand": "SUNLU",
     "Material": "PETG",
     "Variant": null,
-    "Color": "High Speed Matte PETG - Yellow",
+    "Color": "High Speed Matte - Yellow",
     "Hex": "#FBFB49"
   },
   {
@@ -35904,23 +36100,23 @@
   },
   {
     "Brand": "TECBEARS",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Black",
+    "Color": "Black",
     "Hex": "#000000"
   },
   {
     "Brand": "TECBEARS",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Orange",
+    "Color": "Orange",
     "Hex": "#F67405"
   },
   {
     "Brand": "TECBEARS",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A White",
+    "Color": "White",
     "Hex": "#FFFFFF"
   },
   {
@@ -36198,23 +36394,23 @@
   },
   {
     "Brand": "TEQStone",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Black",
+    "Color": "Black",
     "Hex": "#000000"
   },
   {
     "Brand": "TEQStone",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Green",
+    "Color": "Green",
     "Hex": "#00AA00"
   },
   {
     "Brand": "TEQStone",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A White",
+    "Color": "White",
     "Hex": "#FFFFFF"
   },
   {
@@ -37451,121 +37647,121 @@
   },
   {
     "Brand": "Tinmorry",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Black",
+    "Color": "Black",
     "Hex": "#000000"
   },
   {
     "Brand": "Tinmorry",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Blue",
+    "Color": "Blue",
     "Hex": "#0266BB"
   },
   {
     "Brand": "Tinmorry",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Grey",
+    "Color": "Grey",
     "Hex": "#B8BAB8"
   },
   {
     "Brand": "Tinmorry",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Orange",
+    "Color": "Orange",
     "Hex": "#FA8423"
   },
   {
     "Brand": "Tinmorry",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Pink",
+    "Color": "Pink",
     "Hex": "#FC6D8E"
   },
   {
     "Brand": "Tinmorry",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Purple",
+    "Color": "Purple",
     "Hex": "#6C47B2"
   },
   {
     "Brand": "Tinmorry",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Red",
+    "Color": "Red",
     "Hex": "#E03F26"
   },
   {
     "Brand": "Tinmorry",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Transparent",
+    "Color": "Transparent",
     "Hex": "#E4E7E5"
   },
   {
     "Brand": "Tinmorry",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Transparent Blue",
+    "Color": "Transparent Blue",
     "Hex": "#0266BB"
   },
   {
     "Brand": "Tinmorry",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Transparent Emerald Green",
+    "Color": "Transparent Emerald Green",
     "Hex": "#3D9441"
   },
   {
     "Brand": "Tinmorry",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Transparent Green",
+    "Color": "Transparent Green",
     "Hex": "#9AED51"
   },
   {
     "Brand": "Tinmorry",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Transparent Orange",
+    "Color": "Transparent Orange",
     "Hex": "#FF8133"
   },
   {
     "Brand": "Tinmorry",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Transparent Red",
+    "Color": "Transparent Red",
     "Hex": "#AD0028"
   },
   {
     "Brand": "Tinmorry",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Transparent Violet",
+    "Color": "Transparent Violet",
     "Hex": "#0E21AE"
   },
   {
     "Brand": "Tinmorry",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Transparent Yellow",
+    "Color": "Transparent Yellow",
     "Hex": "#FFFB00"
   },
   {
     "Brand": "Tinmorry",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A White",
+    "Color": "White",
     "Hex": "#FFFFFF"
   },
   {
     "Brand": "Tinmorry",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Yellow",
+    "Color": "Yellow",
     "Hex": "#FFFB00"
   },
   {
@@ -39075,79 +39271,79 @@
   },
   {
     "Brand": "XZN",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Black",
+    "Color": "Black",
     "Hex": "#000000"
   },
   {
     "Brand": "XZN",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Clear Blue",
+    "Color": "Clear Blue",
     "Hex": "#4DA6FF"
   },
   {
     "Brand": "XZN",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Clear Green",
+    "Color": "Clear Green",
     "Hex": "#4DFF88"
   },
   {
     "Brand": "XZN",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Silver",
+    "Color": "Silver",
     "Hex": "#C0C0C0"
   },
   {
     "Brand": "XZN",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Transparent",
+    "Color": "Transparent",
     "Hex": "#F5F5F5"
   },
   {
     "Brand": "XZN",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Transparent Brown",
+    "Color": "Transparent Brown",
     "Hex": "#8B4513"
   },
   {
     "Brand": "XZN",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Transparent Orange",
+    "Color": "Transparent Orange",
     "Hex": "#FF8C00"
   },
   {
     "Brand": "XZN",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Transparent Purple",
+    "Color": "Transparent Purple",
     "Hex": "#9B30FF"
   },
   {
     "Brand": "XZN",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Transparent Red",
+    "Color": "Transparent Red",
     "Hex": "#FF3030"
   },
   {
     "Brand": "XZN",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A Transparent Silver",
+    "Color": "Transparent Silver",
     "Hex": "#D8D8D8"
   },
   {
     "Brand": "XZN",
-    "Material": "TPU",
+    "Material": "TPU-95A",
     "Variant": null,
-    "Color": "95A White",
+    "Color": "White",
     "Hex": "#FFFFFF"
   },
   {
@@ -40958,9 +41154,9 @@
   },
   {
     "Brand": "kexcelled",
-    "Material": "TPU",
+    "Material": "TPU-64D",
     "Variant": null,
-    "Color": "The K8 64D Transparent White",
+    "Color": "The K8 Transparent White",
     "Hex": "#FFFFFF"
   },
   {
