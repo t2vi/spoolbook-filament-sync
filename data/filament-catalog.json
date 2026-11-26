@@ -43864,6 +43864,13 @@
   {
     "Brand": "Bambu Lab",
     "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Basic 10 Pack</span>",
+    "Color": "Black",
+    "Hex": "#000000"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
     "Variant": "class=\"align-middle\">PLA Pure</span>",
     "Color": "Milky Pink",
     "Hex": "#FFC0CB"
@@ -43930,13 +43937,6 @@
     "Variant": "data-testid=\"pdp-title-new-tag\" class=\"inline-flex shrink-0 items-center justify-center font-bold h-[20px] w-[38px] rounded-[4px] text-[12px] leading-[17px] text-white bg-[linear-gradient(180deg,#00D651_0%,#00AE42_138.33%)] xl:h-[24px] xl:w-auto xl:bg-[#e1f8eb] xl:bg-none xl:px-[10px] xl:text-[#00ae42] mr-content-3 align-middle\">New</span><span class=\"align-middle\">PLA Palette</span>",
     "Color": "White",
     "Hex": "#FFFFFF"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Matte 10 Pack</span>",
-    "Color": "Charcoal",
-    "Hex": "#36454F"
   },
   {
     "Brand": "Bambu Lab",
@@ -44284,6 +44284,13 @@
   {
     "Brand": "Bambu Lab",
     "Material": "<span",
+    "Variant": "class=\"align-middle\">PLA Matte 10 Pack</span>",
+    "Color": "Charcoal",
+    "Hex": "#36454F"
+  },
+  {
+    "Brand": "Bambu Lab",
+    "Material": "<span",
     "Variant": "class=\"align-middle\">PETG Translucent</span>",
     "Color": "Teal",
     "Hex": "#008080"
@@ -44343,13 +44350,6 @@
     "Variant": "class=\"align-middle\">PETG Translucent</span>",
     "Color": "Purple",
     "Hex": "#800080"
-  },
-  {
-    "Brand": "Bambu Lab",
-    "Material": "<span",
-    "Variant": "class=\"align-middle\">PLA Basic 10 Pack</span>",
-    "Color": "Black",
-    "Hex": "#000000"
   },
   {
     "Brand": "Bambu Lab",
